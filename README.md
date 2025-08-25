@@ -77,6 +77,20 @@ The dataset is organized to be intuitive and easy to navigate. Here’s a quick 
 
 ---
 
+## 📚 Data Dictionary  
+<br>
+
+For detailed definitions of every table, column, and relationship in the dataset, please see the full [**Data Dictionary**] (data_dictionary.md).  
+
+This document includes:  
+- Column names, types, and descriptions  
+- Primary & foreign keys  
+- Enumerations (e.g., `channel`, `tax_code`, `loyalty_tier`)  
+- Entity-relationship diagram  
+
+---
+
+
 ## ⚙️ Getting Started  
 <br>
 
