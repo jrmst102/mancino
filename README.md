@@ -1,4 +1,5 @@
-# 🛒 Mancino Market — Synthetic Grocery Retail Dataset
+# 🛒 Mancino Market
+## Synthetic Grocery Retail Dataset
 
 This repository contains a comprehensive synthetic dataset that simulates the operations of a fictitious grocery retail chain in Manhattan, New York City. The **Mancino Market** dataset has been carefully designed to reflect the complexity of real-world retail environments while ensuring that all data is fully anonymized and safe for public use.
 
