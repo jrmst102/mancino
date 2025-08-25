@@ -1,14 +1,22 @@
 # 🛒 Mancino Market — Synthetic Grocery Retail Dataset
 
-Welcome to the **Mancino Market** project.  
-This repository hosts a **synthetic dataset** for a fictitious grocery chain operating in Manhattan, NYC.  
+This repository contains a comprehensive synthetic dataset that simulates the operations of a fictitious grocery retail chain in Manhattan, New York City. The Mancino Market dataset has been carefully designed to reflect the complexity of real-world retail environments while ensuring that all data is fully anonymized and safe for public use.
 
-The goal is to provide a **realistic but fully anonymized dataset** for use in:
-- Business analytics & visualization
-- Data mining & machine learning
-- Database design & SQL practice
-- Retail simulation, pricing, and forecasting exercises
-- Teaching & workshops
+The dataset includes store information, product catalogs, customer profiles, inventory coverage, and detailed transaction histories across both in-store and online channels. It captures essential dynamics of modern grocery retailing such as store-level assortment differences, customer home store allocations, multi-channel sales, realistic basket sizes, and reconciled financials with tax calculations.
+
+This project is intended as a sandbox for data professionals, educators, and students who want to explore retail analytics, practice database design, or build predictive and prescriptive models in a safe environment.
+
+You can use this dataset for:
+
+Business analytics & visualization — build dashboards and reports to analyze store performance, category sales, and customer behavior.
+
+Data mining & machine learning — train models for basket analysis, churn prediction, or demand forecasting.
+
+Database design & SQL practice — model relational schemas and test joins, constraints, and queries across interrelated entities.
+
+Retail simulation, pricing, and forecasting exercises — simulate promotions, pricing rules, or dynamic assortment strategies.
+
+Teaching & workshops — provide students with a realistic but risk-free dataset for hands-on projects.
 
 ---
 
