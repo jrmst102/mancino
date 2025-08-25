@@ -73,7 +73,7 @@ This release (**v1_2025-08-24**) contains the following CSV files:
 The dataset is organized to be intuitive and easy to navigate. Here’s a quick overview of the key directories and files you’ll find:  
 
 - `data/`: Contains all the synthetic data files in CSV format, organized by entity (e.g., `stores.csv`, `products.csv`, `customers.csv`, `transactions.csv`).  
-- `notebooks/`: Includes example Jupyter notebooks with SQL queries and Python scripts to help you get started with basic analysis and visualization.  
+- `notebooks/`: Includes example Jupyter notebooks to help you get started with basic analysis and visualization. Please, look at the introduction.ipynb file for a quick start.
 
 ---
 
