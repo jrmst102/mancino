@@ -34,12 +34,31 @@ The grocery chain operates **5 urban-format stores** across Manhattan, each with
 
 ---
 
+## 📊 Dataset Overview
+
+This release (**v1_2025-08-24**) contains the following CSV files:
+
+| File | Records | Description |
+|------|---------|-------------|
+| `stores.csv` | **5** | Store master data (IDs, names, addresses, borough, geo coordinates, sqft). |
+| `products.csv` | **2,000** | Product catalog across 15 grocery categories, with brand, size, tax codes, and price. |
+| `product_store_inventory.csv` | **≈8,000** | Store-level inventory coverage (on-hand units, reorder points, price overrides). |
+| `customers.csv` | **5,000** | Synthetic customers with realistic NYC addresses, ZIPs, and lat/long sampled inside neighborhood boundaries. |
+| `transactions.csv` | **~33,000** | Transaction headers for **2025-07-01 → 2025-08-24**, across in-store and online channels. |
+| `transaction_items.csv` | **~200,000+** | Line-level detail; basket sizes 3–12 items; reconciled totals per transaction. |
+| `meta.json` | — | Metadata about dataset size, time window, and generation parameters. |
+
+🔹 **Totals always reconcile**: transaction headers = sum of line items + tax.  
+🔹 **Geo consistency**: store coordinates match listed addresses; customers sampled inside catchment neighborhoods.  
+🔹 **Currency**: all prices in cents (integers).  
+
+---
+
 ## 📂 Repository Structure
 
 The dataset is organized to be intuitive and easy to navigate. Here's a quick overview of the key directories and files you'll find:
 
 * `data/`: Contains all the synthetic data files in CSV format, organized by entity (e.g., `stores.csv`, `products.csv`, `customers.csv`, `transactions.csv`).
-* `schema/`: Provides a detailed data dictionary and relational schema diagrams to help you understand the relationships between the different tables.
 * `notebooks/`: Includes example Jupyter notebooks with SQL queries and Python scripts to help you get started with basic analysis and visualization.
 
 ---
