@@ -48,7 +48,7 @@ The dataset is organized to be intuitive and easy to navigate. Here's a quick ov
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/mancino-market.git](https://github.com/your-username/mancino-market.git)
+    git clone [https://github.com/jrmst102/mancino.git](https://github.com/your-username/mancino.git)
     ```
 2.  **Explore the data**: Open the CSV files in your preferred tool (e.g., a spreadsheet program, a database client, or a Python notebook) to get a feel for the dataset.
 3.  **Check out the schema**: Review the documentation in the `schema/` directory to understand the table relationships.
