@@ -90,7 +90,9 @@ Review the documentation in the docs/ directory to understand the table relation
 Run the examples:
 Execute the code in the notebooks/ directory to see how you can query and analyze the data.
 
-📜 License
+---
+
+## 📜 License
 <br>
 This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.
 
@@ -106,7 +108,9 @@ Attribution — You must give appropriate credit, provide a link to the license,
 
 For the full license text, see: https://creativecommons.org/licenses/by/4.0/legalcode
 
-🤝 Contribution
+---
+
+## 🤝 Contribution
 <br>
 Contributing to Mancino Market
 We welcome your contributions! Whether you’re fixing a bug, adding a new feature, or improving documentation, your help is appreciated.
@@ -122,6 +126,8 @@ Reach out on my GitHub profile — You can find my contact information there if 
 
 Thank you for your interest in making Mancino Market even better!
 
+---
+
 This project is maintained by:
 
 Dr. Jose Mendoza
@@ -129,7 +135,5 @@ www.jose-mendoza.com
 
 Last update: 08/24/25
 
-pgsql
-Copy
-Edit
+
 
