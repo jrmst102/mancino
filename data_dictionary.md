@@ -6,7 +6,7 @@ All CSVs are UTF-8 encoded, comma-separated, and include a header row.
 ---
 
 ## Conventions & Standards
-- **IDs:** Opaque strings (no meanings encoded). Primary keys are unique.  
+- **IDs:** Strings (no meanings encoded). Primary keys are unique.  
 - **Money:** Stored as *cents* (integers). Do not include currency symbols.  
 - **Dates:** ISO-8601 `YYYY-MM-DD`.  
 - **Timestamps:** Local time (America/New_York) in ISO format `YYYY-MM-DDTHH:MM:SS`.  
