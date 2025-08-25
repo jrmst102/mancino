@@ -42,6 +42,8 @@ The store locations include:
 4. Greenwich Village  
 5. Nolita  
 
+Note: MANCINO Market is a fictious company created for educational/research purposes. 
+
 ---
 
 ## 📊 Dataset Overview  
@@ -113,6 +115,9 @@ For the full license text, see: https://creativecommons.org/licenses/by/4.0/lega
 ## 🤝 Contribution
 <br>
 Contributing to Mancino Market
+
+<br>
+
 We welcome your contributions! Whether you’re fixing a bug, adding a new feature, or improving documentation, your help is appreciated.
 
 How to Get in Touch
