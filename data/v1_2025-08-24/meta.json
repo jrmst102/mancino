@@ -1,0 +1,18 @@
+{
+  "dataset": "Mancino Market",
+  "version": "v1_2025-08-24",
+  "seed": 424242,
+  "customers": 5000,
+  "stores": 5,
+  "products": 2000,
+  "inventory_rows": 7970,
+  "transactions": 35460,
+  "transaction_items": 169618,
+  "time_window_start": "2025-07-01",
+  "time_window_end": "2025-08-24",
+  "channels": [
+    "In-Store",
+    "Online"
+  ],
+  "geo_note": "Store coordinates match listed addresses (approx.); customer coordinates sampled inside neighborhood bounding boxes consistent with street strings & ZIPs."
+}

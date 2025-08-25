@@ -1,0 +1,6 @@
+store_id,store_code,name,neighborhood,borough,address,city,state,zip,latitude,longitude,opened_date,store_type,sqft
+S0001,MIDTOWN,Mancino Market – Midtown,Midtown,Manhattan,1350 6th Ave,New York,NY,10019,40.76425,-73.9787,2024-06-01,Grocery – Urban Medium,14000
+S0002,NOHO,Mancino Market – NoHo,NoHo,Manhattan,682 Broadway,New York,NY,10012,40.728,-73.9948,2024-06-01,Grocery – Urban Medium,12000
+S0003,CHELSEA,Mancino Market – Chelsea,Chelsea,Manhattan,220 W 23rd St,New York,NY,10011,40.74405,-73.9967,2024-06-01,Grocery – Urban Medium,14000
+S0004,GV,Mancino Market – Greenwich Village,Greenwich Village,Manhattan,175 Bleecker St,New York,NY,10012,40.72895,-73.9991,2024-06-01,Grocery – Urban Medium,15000
+S0005,NOLITA,Mancino Market – Nolita,Nolita,Manhattan,235 Mulberry St,New York,NY,10012,40.7227,-73.995,2024-06-01,Grocery – Urban Medium,14000
