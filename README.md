@@ -75,7 +75,7 @@ For the full license text, see: [https://creativecommons.org/licenses/by/4.0/leg
 
 ## 🤝 Contribution
 
-# Contributing to Mancino Market
+### Contributing to Mancino Market
 
 We welcome your contributions! Whether you're fixing a bug, adding a new feature, or improving documentation, your help is appreciated.
 
