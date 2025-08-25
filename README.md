@@ -56,6 +56,45 @@ The dataset is organized to be intuitive and easy to navigate. Here's a quick ov
 
 ---
 
+### Creative Commons Attribution 4.0 International Public License
+
+This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.
+
+**You are free to:**
+
+* **Share** — copy and redistribute the material in any medium or format.
+* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+**Under the following terms:**
+
+* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+For the full license text, see: [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+---
+
 ## 🤝 Contribution
 
-We welcome contributions from the community! If you have ideas for new features, use cases, or want to report an issue, please open a pull request or an issue on GitHub.
+# Contributing to Mancino Market
+
+We welcome your contributions! Whether you're fixing a bug, adding a new feature, or improving documentation, your help is appreciated.
+
+### How to Get in Touch
+
+If you have questions, suggestions, or want to discuss a new idea, please feel free to:
+
+* **Open an issue:** This is the best way to report bugs or suggest new features.
+* **Start a discussion:** For broader questions or to share your project built with the dataset, use the Discussions tab on this repository.
+* **Reach out on my GitHub profile:** You can find my contact information there if you need to get in touch directly.
+
+Thank you for your interest in making Mancino Market even better!
+
+---
+
+This project is maintained by:
+
+Dr. Jose Mendoza
+www.jose-mendoza.com
+
+Last update: 08/24/25
+
