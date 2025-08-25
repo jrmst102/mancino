@@ -58,7 +58,7 @@ This release (**v1_2025-08-24**) contains the following CSV files:
 | `product_store_inventory.csv` | **≈8,000** | Store-level inventory coverage (on-hand units, reorder points, price overrides). |
 | `customers.csv` | **5,000** | Synthetic customers with realistic NYC addresses, ZIPs, and lat/long sampled inside neighborhood boundaries. |
 | `transactions.csv` | **~33,000** | Transaction headers for **2025-07-01 → 2025-08-24**, across in-store and online channels. |
-| `transaction_items.csv` | **~200,000+** | Line-level detail; basket sizes 3–12 items; reconciled totals per transaction. |
+| `transaction_line_items.csv` | **~200,000+** | Line-level detail; basket sizes 3–12 items; reconciled totals per transaction. |
 | `meta.json` | — | Metadata about dataset size, time window, and generation parameters. |
 
 🔹 **Totals always reconcile**: transaction headers = sum of line items + tax.  
