@@ -22,7 +22,7 @@ All CSVs are UTF-8 encoded, comma-separated, and include a header row.
 3. `products.csv` — Product catalog  
 4. `product_store_inventory.csv` — Store assortment and inventory  
 5. `transactions.csv` — Sales transaction headers  
-6. `transaction_items.csv` — Sales transaction line items  
+6. `transaction_line_items.csv` — Sales transaction line items  
 7. `meta.json` — Generation metadata (JSON; informational)  
 
 ---
@@ -34,7 +34,7 @@ All CSVs are UTF-8 encoded, comma-separated, and include a header row.
 |---|---|---|---|
 | store_id | string | Unique store identifier | `S0001` |
 | store_code | string | Human code | `MIDTOWN` |
-| name | string | Display name | `Mancino Market – Midtown` |
+| store_name | string | Display name | `Mancino Market – Midtown` |
 | neighborhood | string | NYC neighborhood | `Midtown` |
 | borough | string | NYC borough | `Manhattan` |
 | address | string | Street address | `1350 6th Ave` |
@@ -131,7 +131,7 @@ All CSVs are UTF-8 encoded, comma-separated, and include a header row.
 
 ---
 
-## 6) transaction_items.csv
+## 6) transaction_line_items.csv
 **Primary Key:** `transaction_item_id`  
 **Unique Within Transaction:** `(transaction_id, line_number)`  
 **Foreign Keys:** `transaction_id → transactions.transaction_id`, `product_id → products.product_id`, `store_id → stores.store_id`
