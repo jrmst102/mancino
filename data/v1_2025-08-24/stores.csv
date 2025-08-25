@@ -1,4 +1,4 @@
-store_id,store_name,neighborhood,address,city,state,zip,latitude,longitude
+store_id,name,neighborhood,address,city,state,zip,latitude,longitude
 1,Mancino Market - Midtown,Midtown,226 E 57th St,New York,NY,10022,40.75971,-73.96616
 2,Mancino Market - NoHo,Noho,352 Bowery,New York,NY,10012,40.7266,-73.9917
 3,Mancino Market - Chelsea,Chelsea,75 9th Ave,New York,NY,10011,40.742352,-74.00621
