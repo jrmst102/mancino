@@ -1,7 +1,7 @@
 promotion_id,promo_type,name,week_start,week_end,scope_type,scope_id,store_scope,amount_off,percent_off,buy_qty,get_qty,new_price,min_qty,min_spend,bundle_type,bundle_qty,bundle_price,limit_per_customer,priority,can_stack,notes,active
-PR1501,BOGO,Yogurt Singles B1G1,2025-09-21,2025-09-27,category,C_YOGURT,ALL,,,,1,1,,,,,,6,80,FALSE,"Singles only; no multipacks",TRUE
-PR1502,BUNDLE,3 for $10 Soda 12pk,2025-09-21,2025-09-27,category,C_SODA,ALL,,,,,,,,mix_n_match,3,10.00,6,90,FALSE,"12-packs; mix & match",TRUE
-PR1503,COUPON,$2 Off Coffee (min $10),2025-09-21,2025-09-27,category,C_COFFEE,ALL,2.00,,,,,,,10.00,,,,5,70,TRUE,"Ground/whole bean",TRUE
-PR1504,MANAGER_SPECIAL,Chicken Breast 20% Off (Chelsea),2025-09-21,2025-09-27,sku,SKU_CHICKEN_BREAST,CHELSEA,,20,,,,,,,,,999,60,FALSE,"Short-dated markdown",TRUE
-PR1505,BUNDLE,2 for $12 Frozen Pizza,2025-09-21,2025-09-27,category,C_FROZEN_PIZZA,ALL,,,,,,,,fixed_set,2,12.00,4,85,FALSE,"Select brands only",TRUE
-PR1506,COUPON,$1 Off Granola Bars (2+),2025-09-21,2025-09-27,category,C_GRANOLA_BARS,ALL,1.00,,,,,,2,,,,,6,65,TRUE,"Any brand; min qty 2",TRUE
+PR1501,BOGO,Yogurt Singles B1G1,2025-09-21,2025-09-27,category,C_YOGURT,ALL,,,1,1,,,,,,6,80,FALSE,Singles only; no multipacks,TRUE
+PR1502,BUNDLE,3 for $10 Soda 12pk,2025-09-21,2025-09-27,category,C_SODA,ALL,,,,,,,,mix_n_match,3,10.00,6,90,FALSE,12-packs; mix & match,TRUE
+PR1503,COUPON,$2 Off Coffee (min $10),2025-09-21,2025-09-27,category,C_COFFEE,ALL,2.00,,,,,,10.00,,,,5,70,TRUE,Ground/whole bean,TRUE
+PR1504,MANAGER_SPECIAL,Chicken Breast 20% Off (Chelsea),2025-09-21,2025-09-27,sku,SKU_CHICKEN_BREAST,CHELSEA,,20,,,,,,,,999,60,FALSE,Short-dated markdown,TRUE
+PR1505,BUNDLE,2 for $12 Frozen Pizza,2025-09-21,2025-09-27,category,C_FROZEN_PIZZA,ALL,,,,,,,,fixed_set,2,12.00,4,85,FALSE,Select brands only,TRUE
+PR1506,COUPON,$1 Off Granola Bars (2+),2025-09-21,2025-09-27,category,C_GRANOLA_BARS,ALL,1.00,,,,,2,,,,,6,65,TRUE,Any brand; min qty 2,TRUE
