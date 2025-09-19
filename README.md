@@ -1,158 +1,140 @@
 # 🛒 Mancino Market  
-## Synthetic Grocery Retail Dataset  
-<br>
+## Synthetic Grocery Retail Dataset (Public, Data-Only)
 
-This repository contains a comprehensive synthetic dataset that simulates the operations of a fictitious grocery retail chain in Manhattan, New York City.  
+**Mancino Market** is a fully synthetic grocery retail dataset set in Manhattan, NYC. It’s designed for teaching, analytics, and modeling—rich enough to feel real, safe enough to share.
 
-The **Mancino Market** dataset has been carefully designed to reflect the complexity of real-world retail environments while ensuring that all data is fully anonymized and safe for public use.  
-
-The dataset includes store information, product catalogs, customer profiles, inventory coverage, and detailed transaction histories across both in-store and online channels.  
-
-It captures essential dynamics of modern grocery retailing such as store-level assortment differences, customer home store allocations, multi-channel sales, realistic basket sizes, and reconciled financials with tax calculations.  
-
-This project is an open-source sandbox for data professionals, educators, and students who want to explore retail analytics, practice database design, or build predictive and prescriptive models in a risk-free environment.  
+> 🔒 This repository is **data-only**: CSVs and docs that anyone can download and analyze. All generation/validation code lives in a **private tools repo** and is intentionally not included here.
 
 ---
 
-## 🚀 Key Use Cases  
-<br>
+## 🚀 What’s in v1.5 (2025-09-21)
 
-You can leverage this dataset for a wide range of analytical and educational projects:  
+**New**
+- **Weekly promotions** (Sunday-start weeks) with four mechanics:
+  - `BOGO`, `BUNDLE`, `COUPON`, `MANAGER_SPECIAL`
+- **Promotion audit log** → `transaction_promotions.csv`
+- **Inventory events** (stockouts & nightly replenishment) → `inventory_events.csv`
+- **Transactions extended** through **2025-09-21** (previously through 2025-08-24)
 
-- **Business Analytics & Visualization**: Build dashboards and reports to analyze store performance, category sales, and customer behavior.  
-- **Data Mining & Machine Learning**: Train models for tasks like basket analysis, churn prediction, or demand forecasting.  
-- **Database Design & SQL Practice**: Model relational schemas and practice complex joins, constraints, and queries across interrelated entities.  
-- **Retail Simulation & Forecasting**: Simulate promotions, test pricing rules, or develop dynamic assortment strategies.  
-- **Teaching & Workshops**: Provide students with a realistic dataset for hands-on projects and case studies.  
+**Promotion behavior**
+- Scope by **SKU** or **Category**
+- Store targeting via `store_scope` = `ALL` or comma-separated store IDs
+- `priority` (higher wins) and `can_stack` (stacking rules)
+- Weeks are **Sunday → Saturday** (e.g., `week_start=2025-09-14` covers Sep 14–20, 2025)
 
 ---
 
-## 🌆 About Mancino Market  
-<br>
+## 🌆 About Mancino
 
-**MANCINO** is a made-up acronym for **M**idtown **A**rea to **N**oHo, **C**helsea, **I**nter-village, and **N**olita.  
+**MANCINO** = **M**idtown **A**rea to **N**oHo, **C**helsea, **I**nter-village, and **N**olita.
 
-The grocery chain operates **5 urban-format stores** across Manhattan, each with its own unique catchment area and customer base.  
-
-The store locations include:  
-
+Five fictional stores:
 1. Midtown  
 2. NoHo  
 3. Chelsea  
 4. Greenwich Village  
-5. Nolita  
-
-Note: MANCINO Market is a fictious company created for educational/research purposes. 
+5. Nolita
 
 ---
 
-## 📊 Dataset Overview  
-<br>
+## 📁 Repository Layout
 
-This release (**v1_2025-08-24**) contains the following CSV files:  
+data/
+v1_2025-09-21/
+customers.csv
+products.csv
+product_store_inventory.csv
+promotions.csv
+stores.csv
+transactions.csv
+transaction_line_items.csv
+transaction_promotions.csv
+inventory_events.csv
+notebooks/
+(example notebooks only; no Python scripts in public repo)
+README.md
 
-| File | Records | Description |
-|------|---------|-------------|
-| `stores.csv` | **5** | Store master data (IDs, names, addresses, borough, geo coordinates, sqft). |
-| `products.csv` | **2,000** | Product catalog across 15 grocery categories, with brand, size, tax codes, and price. |
-| `product_store_inventory.csv` | **≈8,000** | Store-level inventory coverage (on-hand units, reorder points, price overrides). |
-| `customers.csv` | **5,000** | Synthetic customers with realistic NYC addresses, ZIPs, and lat/long sampled inside neighborhood boundaries. |
-| `transactions.csv` | **~33,000** | Transaction headers for **2025-07-01 → 2025-08-24**, across in-store and online channels. |
-| `transaction_line_items.csv` | **~200,000+** | Line-level detail; basket sizes 3–12 items; reconciled totals per transaction. |
-| `meta.json` | — | Metadata about dataset size, time window, and generation parameters. |
-
-🔹 **Totals always reconcile**: transaction headers = sum of line items + tax.  
-🔹 **Geo consistency**: store coordinates match listed addresses; customers sampled inside catchment neighborhoods.  
-🔹 **Currency**: all prices in cents (integers).  
-
----
-
-## 📂 Repository Structure  
-<br>
-
-The dataset is organized to be intuitive and easy to navigate. Here’s a quick overview of the key directories and files you’ll find:  
-
-- `data/`: Contains all the synthetic data files in CSV format, organized by entity (e.g., `stores.csv`, `products.csv`, `customers.csv`, `transactions.csv`).  
-- `notebooks/`: Includes example Jupyter notebooks to help you get started with basic analysis and visualization. Please, look at the introduction.ipynb file for a quick start.
+> ⚠️ Policy: this public repo intentionally contains **no `.py` scripts**. Please don’t open PRs that add them.
 
 ---
 
-## 📚 Data Dictionary  
-<br>
+## 📊 File Guide (per version folder)
 
-For detailed definitions of every table, column, and relationship in the dataset, please see the full [**Data Dictionary**] (data_dictionary.md).  
-
-This document includes:  
-- Column names, types, and descriptions  
-- Primary & foreign keys  
-- Enumerations (e.g., `channel`, `tax_code`, `loyalty_tier`)  
-- Entity-relationship diagram  
-
----
-
-
-## ⚙️ Getting Started  
-<br>
-
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/jrmst102/mancino.git
-Explore the data:
-Open the CSV files in your preferred tool (e.g., a spreadsheet program, a database client, or a Python notebook) to get a feel for the dataset.
-
-Check out the schema:
-Review the documentation in the docs/ directory to understand the table relationships.
-
-Run the examples:
-Execute the code in the notebooks/ directory to see how you can query and analyze the data.
+| File | Description | Notes |
+|---|---|---|
+| `stores.csv` | Store master | IDs, names, neighborhoods, optional geos |
+| `products.csv` | Product catalog | Brand, size, category, price/tax |
+| `product_store_inventory.csv` | Store×SKU on-hand | Starting stock for simulation; used to model stockouts |
+| `customers.csv` | Customers | Synthetic NYC locations & home-store affinity |
+| `promotions.csv` | **Weekly promotions** | Types: BOGO, BUNDLE, COUPON, MANAGER_SPECIAL; scope, stacking, priority |
+| `transactions.csv` | Transaction headers | Coverage includes **through 2025-09-21** |
+| `transaction_line_items.csv` | Line items | Final line totals reflect applied promos |
+| `transaction_promotions.csv` | **Promo audit** | One row per applied promotion→line |
+| `inventory_events.csv` | **Inventory log** | `STOCKOUT` and `REPLENISHMENT` events |
 
 ---
 
-## 📜 License
-<br>
-This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.
+## 🧾 Promotions Schema (v1.5)
 
-You are free to:
+**Core columns**
+- `promotion_id` (string)
+- `promo_type` ∈ {`BOGO`,`BUNDLE`,`COUPON`,`MANAGER_SPECIAL`}
+- `name` (string)
+- `week_start`, `week_end` (YYYY-MM-DD; `week_start` is a **Sunday**)
+- `scope_type` ∈ {`sku`,`category`}, `scope_id` (string)
+- `store_scope` ∈ {`ALL` or comma-separated store IDs}
 
-Share — copy and redistribute the material in any medium or format.
+**Value columns** (type-dependent)
+- `amount_off`, `percent_off`, `new_price`
+- `buy_qty`, `get_qty`
+- `bundle_qty`, `bundle_price`
+- `min_qty`, `min_spend`
 
-Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+**Control columns**
+- `priority` (int; higher takes precedence)
+- `can_stack` (bool)
+- `limit_per_customer`, `notes`, `active` (bool)
 
-Under the following terms:
-
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-For the full license text, see: https://creativecommons.org/licenses/by/4.0/legalcode
-
----
-
-## 🤝 Contribution
-<br>
-Contributing to Mancino Market
-
-<br>
-
-We welcome your contributions! Whether you’re fixing a bug, adding a new feature, or improving documentation, your help is appreciated.
-
-How to Get in Touch
-If you have questions, suggestions, or want to discuss a new idea, please feel free to:
-
-Open an issue — This is the best way to report bugs or suggest new features.
-
-Start a discussion — For broader questions or to share your project built with the dataset, use the Discussions tab on this repository.
-
-Reach out on my GitHub profile — You can find my contact information there if you need to get in touch directly.
-
-Thank you for your interest in making Mancino Market even better!
+**Applied promotions log** → `transaction_promotions.csv`
+transaction_id, line_item_id, promotion_id, qty_discounted, discount_amount, applied_price, rule_note
 
 ---
 
-This project is maintained by:
+## 🧪 What you can do with this dataset
 
-Dr. Jose Mendoza
-www.jose-mendoza.com
+- Measure **promo lift** by store/category/segment
+- Analyze **stockout** impact on sales & **fill rate**
+- Study **basket composition** and **size** changes during promos
+- Build **forecasting** and **uplift models** for promotions
+- Teach joins, time windows, and event modeling with real-ish data
 
-Last update: 08/24/25
+---
 
+## 🔎 Quick Start (Python / pandas)
 
+```python
+import pandas as pd
 
+V = "v1_2025-09-21"
+root = f"./data/{V}"
+
+tx = pd.read_csv(f"{root}/transactions.csv", parse_dates=["txn_ts"])
+li = pd.read_csv(f"{root}/transaction_line_items.csv")
+tp = pd.read_csv(f"{root}/transaction_promotions.csv")
+pr = pd.read_csv(f"{root}/promotions.csv", parse_dates=["week_start","week_end"])
+
+# Example: weekly promo penetration (share of transactions with any promo)
+has_promo_tx = set(tp["transaction_id"].unique())
+weekly_pen = (tx.assign(has_promo=tx["transaction_id"].isin(has_promo_tx))
+                .set_index("txn_ts")
+                .resample("W-SUN")["has_promo"]
+                .mean())
+print(weekly_pen.tail())
+🤝 Contributing
+Issues and discussions welcome.
+Note: Pull requests that add .py files will not be accepted here (this is a data-only repository). Improvements to data and documentation are welcome.
+📚 License
+Creative Commons CC BY 4.0 — share and adapt with attribution.
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+Maintainer: Dr. Jose Mendoza — https://www.jose-mendoza.com
+Last update: 2025-09-21
