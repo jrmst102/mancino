@@ -106,26 +106,6 @@ transaction_id, line_item_id, promotion_id, qty_discounted, discount_amount, app
 
 ---
 
-## 🔎 Quick Start (Python / pandas)
-
-```python
-import pandas as pd
-
-V = "v1_2025-09-21"
-root = f"./data/{V}"
-
-tx = pd.read_csv(f"{root}/transactions.csv", parse_dates=["txn_ts"])
-li = pd.read_csv(f"{root}/transaction_line_items.csv")
-tp = pd.read_csv(f"{root}/transaction_promotions.csv")
-pr = pd.read_csv(f"{root}/promotions.csv", parse_dates=["week_start","week_end"])
-
-# Example: weekly promo penetration (share of transactions with any promo)
-has_promo_tx = set(tp["transaction_id"].unique())
-weekly_pen = (tx.assign(has_promo=tx["transaction_id"].isin(has_promo_tx))
-                .set_index("txn_ts")
-                .resample("W-SUN")["has_promo"]
-                .mean())
-print(weekly_pen.tail())
 🤝 Contributing
 Issues and discussions welcome.
 Note: Pull requests that add .py files will not be accepted here (this is a data-only repository). Improvements to data and documentation are welcome.
