@@ -108,9 +108,14 @@ transaction_id, line_item_id, promotion_id, qty_discounted, discount_amount, app
 
 🤝 Contributing
 Issues and discussions welcome.
+
 Note: Pull requests that add .py files will not be accepted here (this is a data-only repository). Improvements to data and documentation are welcome.
 📚 License
+
 Creative Commons CC BY 4.0 — share and adapt with attribution.
+
 Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
 Maintainer: Dr. Jose Mendoza — https://www.jose-mendoza.com
+
 Last update: 2025-09-21
