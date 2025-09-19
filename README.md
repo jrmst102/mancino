@@ -52,8 +52,6 @@ notebooks/
 (example notebooks only; no Python scripts in public repo)
 README.md
 
-> ⚠️ Policy: this public repo intentionally contains **no `.py` scripts**. Please don’t open PRs that add them.
-
 ---
 
 ## 📊 File Guide (per version folder)
