@@ -267,3 +267,82 @@ PR00265,2025-09-01,2025-09-02,BOGO,ALL_STORES,P00514,"{""buy_n"": 2, ""get_m"": 
 PR00266,2025-09-01,2025-09-02,PERCENT_OFF,ALL_STORES,P01408|P00911,"{""percent_off"": 28}"
 PR00267,2025-09-01,2025-09-02,PRICE_POINT,ALL_STORES,P00841|P00022|P01134,"{""price_point"": 1.99}"
 PR00268,2025-09-01,2025-09-02,BUNDLE,ALL_STORES,P01046|P00760|P00488,"{""bundle_size"": 3, ""bundle_discount_pct"": 19}"
+PR2025082401,MANAGER_SPECIAL,Manager Special 15% Off,2025-08-24,2025-08-30,category,Condiments/Sauces/Spices,ALL,,15,,,,,,,,,10,60,TRUE,limited time markdown,TRUE
+PR2025082402,BOGO,Buy 1 Get 1,2025-08-24,2025-08-30,category,Beverages,ALL,,,1,1,,,,,,,4,80,FALSE,applies to category; singles only,TRUE
+PR2025082403,BUNDLE,3 for $24.93,2025-08-24,2025-08-30,category,Alcohol,ALL,,,,,,,,fixed_set,3,24.93,6,90,FALSE,select set,TRUE
+PR2025082404,MANAGER_SPECIAL,Manager Special 25% Off,2025-08-24,2025-08-30,category,Meat and Seafood,ALL,,25,,,,,,,,,8,60,TRUE,limited time markdown,TRUE
+PR2025082405,MANAGER_SPECIAL,Manager Special 15% Off,2025-08-24,2025-08-30,category,Bakery,ALL,,15,,,,,,,,,6,60,TRUE,limited time markdown,TRUE
+PR2025082406,BOGO,Buy 1 Get 1,2025-08-24,2025-08-30,category,Deli,ALL,,,1,1,,,,,,,6,80,FALSE,applies to category; singles only,TRUE
+PR2025082407,BUNDLE,2 for $5.54,2025-08-24,2025-08-30,category,Baking,ALL,,,,,,,,mix_n_match,2,5.54,4,90,FALSE,mix and match allowed,TRUE
+PR2025082408,BUNDLE,3 for $18.91,2025-08-24,2025-08-30,category,Prepared Meals,ALL,,,,,,,,fixed_set,3,18.91,10,90,FALSE,select set,TRUE
+PR2025082409,BOGO,Buy 1 Get 1,2025-08-24,2025-08-30,category,Dairy & Eggs,ALL,,,1,1,,,,,,,8,80,FALSE,applies to category; singles only,TRUE
+PR2025082410,BUNDLE,3 for $5.81,2025-08-24,2025-08-30,category,Candy,2,,,,,,,,mix_n_match,3,5.81,6,90,FALSE,mix and match allowed,TRUE
+PR2025082411,BOGO,Buy 1 Get 1,2025-08-24,2025-08-30,category,Frozen Foods,ALL,,,1,1,,,,,,,8,80,FALSE,applies to category; singles only,TRUE
+PR2025082412,COUPON,$2.50 Off (coupon),2025-08-24,2025-08-30,category,Breakfast & Cereal,ALL,2.50,,,,,,,,,,8,70,TRUE,coupon applies at checkout,TRUE
+PR2025082413,COUPON,$1.50 Off (coupon),2025-08-24,2025-08-30,category,Grains and Pasta,4,1.50,,,,,,10.00,,,,6,70,TRUE,coupon applies at checkout,TRUE
+PR2025082414,COUPON,$0.50 Off (coupon),2025-08-24,2025-08-30,category,Pet Food,ALL,0.50,,,,,,,,,,10,70,TRUE,coupon applies at checkout,TRUE
+PR2025083101,BUNDLE,3 for $5.45,2025-08-31,2025-09-06,category,Candy,3,,,,,,,,mix_n_match,3,5.45,6,90,FALSE,mix and match allowed,TRUE
+PR2025083102,MANAGER_SPECIAL,Manager Special 15% Off,2025-08-31,2025-09-06,category,Dairy & Eggs,ALL,,15,,,,,,,,,10,60,TRUE,limited time markdown,TRUE
+PR2025083103,COUPON,$1.00 Off (coupon),2025-08-31,2025-09-06,category,Frozen Foods,4,1.00,,,,,,15.00,,,,8,70,TRUE,coupon applies at checkout,TRUE
+PR2025083104,BOGO,Buy 1 Get 1,2025-08-31,2025-09-06,category,Condiments/Sauces/Spices,ALL,,,1,1,,,,,,,8,80,FALSE,applies to category; singles only,TRUE
+PR2025083105,BOGO,Buy 1 Get 1,2025-08-31,2025-09-06,category,Grains and Pasta,ALL,,,1,1,,,,,,,8,80,FALSE,applies to category; singles only,TRUE
+PR2025083106,MANAGER_SPECIAL,Manager Special 15% Off,2025-08-31,2025-09-06,category,Alcohol,ALL,,15,,,,,,,,,10,60,TRUE,limited time markdown,TRUE
+PR2025083107,COUPON,$1.00 Off (coupon),2025-08-31,2025-09-06,category,Breakfast & Cereal,2,1.00,,,,,,10.00,,,,6,70,TRUE,coupon applies at checkout,TRUE
+PR2025083108,BOGO,Buy 1 Get 1,2025-08-31,2025-09-06,category,Prepared Meals,5,,,1,1,,,,,,,6,80,FALSE,applies to category; singles only,TRUE
+PR2025083109,BUNDLE,3 for $7.56,2025-08-31,2025-09-06,category,Beverages,1,,,,,,,,fixed_set,3,7.56,6,90,FALSE,select set,TRUE
+PR2025083110,COUPON,$3.00 Off (coupon),2025-08-31,2025-09-06,category,Snacks/Cookies/Chips,ALL,3.00,,,,,,,,,,6,70,TRUE,coupon applies at checkout,TRUE
+PR2025083111,BOGO,Buy 1 Get 1,2025-08-31,2025-09-06,category,Deli,ALL,,,1,1,,,,,,,10,80,FALSE,applies to category; singles only,TRUE
+PR2025083112,MANAGER_SPECIAL,Manager Special 15% Off,2025-08-31,2025-09-06,category,Bakery,ALL,,15,,,,,,,,,10,60,TRUE,limited time markdown,TRUE
+PR2025083113,BUNDLE,2 for $10.09,2025-08-31,2025-09-06,category,Pet Food,ALL,,,,,,,,mix_n_match,2,10.09,10,90,FALSE,mix and match allowed,TRUE
+PR2025083114,BUNDLE,2 for $5.54,2025-08-31,2025-09-06,category,Baking,ALL,,,,,,,,mix_n_match,2,5.54,10,90,FALSE,mix and match allowed,TRUE
+PR2025083115,MANAGER_SPECIAL,Manager Special 15% Off,2025-08-31,2025-09-06,category,Meat and Seafood,ALL,,15,,,,,,,,,4,60,TRUE,limited time markdown,TRUE
+PR2025083116,BOGO,Buy 1 Get 1,2025-08-31,2025-09-06,category,Baking,ALL,,,1,1,,,,,,,8,80,FALSE,applies to category; singles only,TRUE
+PR2025083117,COUPON,$2.00 Off (coupon),2025-08-31,2025-09-06,category,Deli,ALL,2.00,,,,,,15.00,,,,4,70,TRUE,coupon applies at checkout,TRUE
+PR2025083118,BUNDLE,2 for $10.09,2025-08-31,2025-09-06,category,Pet Food,ALL,,,,,,,,mix_n_match,2,10.09,8,90,FALSE,mix and match allowed,TRUE
+PR2025090701,BOGO,Buy 1 Get 1,2025-09-07,2025-09-13,category,Baking,ALL,,,1,1,,,,,,,6,80,FALSE,applies to category; singles only,TRUE
+PR2025090702,COUPON,$3.00 Off (coupon),2025-09-07,2025-09-13,category,Prepared Meals,ALL,3.00,,,,,,10.00,,,,10,70,TRUE,coupon applies at checkout,TRUE
+PR2025090703,BOGO,Buy 1 Get 1,2025-09-07,2025-09-13,category,Breakfast & Cereal,4,,,1,1,,,,,,,8,80,FALSE,applies to category; singles only,TRUE
+PR2025090704,BUNDLE,3 for $7.03,2025-09-07,2025-09-13,category,Snacks/Cookies/Chips,ALL,,,,,,,,fixed_set,3,7.03,4,90,FALSE,select set,TRUE
+PR2025090705,BOGO,Buy 1 Get 1,2025-09-07,2025-09-13,category,Pet Food,5,,,1,1,,,,,,,8,80,FALSE,applies to category; singles only,TRUE
+PR2025090706,COUPON,$1.50 Off (coupon),2025-09-07,2025-09-13,category,Frozen Foods,ALL,1.50,,,,,,,,,,8,70,TRUE,coupon applies at checkout,TRUE
+PR2025090707,BUNDLE,3 for $8.21,2025-09-07,2025-09-13,category,Bakery,2,,,,,,,,mix_n_match,3,8.21,10,90,FALSE,mix and match allowed,TRUE
+PR2025090708,BUNDLE,3 for $28.49,2025-09-07,2025-09-13,category,Alcohol,ALL,,,,,,,,fixed_set,3,28.49,4,90,FALSE,select set,TRUE
+PR2025090709,MANAGER_SPECIAL,Manager Special 25% Off,2025-09-07,2025-09-13,category,Beverages,1,,25,,,,,,,,,10,60,TRUE,limited time markdown,TRUE
+PR2025090710,BOGO,Buy 1 Get 1,2025-09-07,2025-09-13,category,Candy,ALL,,,1,1,,,,,,,10,80,FALSE,applies to category; singles only,TRUE
+PR2025090711,MANAGER_SPECIAL,Manager Special 25% Off,2025-09-07,2025-09-13,category,Deli,ALL,,25,,,,,,,,,10,60,TRUE,limited time markdown,TRUE
+PR2025090712,COUPON,$2.00 Off (coupon),2025-09-07,2025-09-13,category,Condiments/Sauces/Spices,4,2.00,,,,,,,,,,10,70,TRUE,coupon applies at checkout,TRUE
+PR2025090713,MANAGER_SPECIAL,Manager Special 15% Off,2025-09-07,2025-09-13,category,Grains and Pasta,ALL,,15,,,,,,,,,6,60,TRUE,limited time markdown,TRUE
+PR2025090714,BUNDLE,3 for $8.54,2025-09-07,2025-09-13,category,Dairy & Eggs,5,,,,,,,,mix_n_match,3,8.54,10,90,FALSE,mix and match allowed,TRUE
+PR2025090715,MANAGER_SPECIAL,Manager Special 25% Off,2025-09-07,2025-09-13,category,Meat and Seafood,ALL,,25,,,,,,,,,6,60,TRUE,limited time markdown,TRUE
+PR2025090716,BOGO,Buy 1 Get 1,2025-09-07,2025-09-13,category,Alcohol,2,,,1,1,,,,,,,8,80,FALSE,applies to category; singles only,TRUE
+PR2025090717,COUPON,$0.50 Off (coupon),2025-09-07,2025-09-13,category,Bakery,4,0.50,,,,,,12.00,,,,6,70,TRUE,coupon applies at checkout,TRUE
+PR2025091401,BUNDLE,3 for $5.81,2025-09-14,2025-09-20,category,Candy,3,,,,,,,,mix_n_match,3,5.81,4,90,FALSE,mix and match allowed,TRUE
+PR2025091402,MANAGER_SPECIAL,Manager Special 20% Off,2025-09-14,2025-09-20,category,Snacks/Cookies/Chips,1,,20,,,,,,,,,10,60,TRUE,limited time markdown,TRUE
+PR2025091403,BUNDLE,3 for $8.87,2025-09-14,2025-09-20,category,Baking,ALL,,,,,,,,fixed_set,3,8.87,6,90,FALSE,select set,TRUE
+PR2025091404,MANAGER_SPECIAL,Manager Special 25% Off,2025-09-14,2025-09-20,category,Breakfast & Cereal,ALL,,25,,,,,,,,,10,60,TRUE,limited time markdown,TRUE
+PR2025091405,BOGO,Buy 1 Get 1,2025-09-14,2025-09-20,category,Deli,ALL,,,1,1,,,,,,,8,80,FALSE,applies to category; singles only,TRUE
+PR2025091406,MANAGER_SPECIAL,Manager Special 20% Off,2025-09-14,2025-09-20,category,Beverages,ALL,,20,,,,,,,,,6,60,TRUE,limited time markdown,TRUE
+PR2025091407,BOGO,Buy 1 Get 1,2025-09-14,2025-09-20,category,Meat and Seafood,1,,,1,1,,,,,,,10,80,FALSE,applies to category; singles only,TRUE
+PR2025091408,BUNDLE,3 for $16.55,2025-09-14,2025-09-20,category,Prepared Meals,ALL,,,,,,,,mix_n_match,3,16.55,4,90,FALSE,mix and match allowed,TRUE
+PR2025091409,COUPON,$1.00 Off (coupon),2025-09-14,2025-09-20,category,Grains and Pasta,3,1.00,,,,,,12.00,,,,4,70,TRUE,coupon applies at checkout,TRUE
+PR2025091410,COUPON,$1.00 Off (coupon),2025-09-14,2025-09-20,category,Bakery,2,1.00,,,,,,,,,,10,70,TRUE,coupon applies at checkout,TRUE
+PR2025091411,BOGO,Buy 1 Get 1,2025-09-14,2025-09-20,category,Condiments/Sauces/Spices,ALL,,,1,1,,,,,,,10,80,FALSE,applies to category; singles only,TRUE
+PR2025091412,COUPON,$3.00 Off (coupon),2025-09-14,2025-09-20,category,Dairy & Eggs,2,3.00,,,,,,15.00,,,,6,70,TRUE,coupon applies at checkout,TRUE
+PR2025091413,BOGO,Buy 1 Get 1,2025-09-14,2025-09-20,category,Alcohol,ALL,,,1,1,,,,,,,10,80,FALSE,applies to category; singles only,TRUE
+PR2025091414,BUNDLE,2 for $11.54,2025-09-14,2025-09-20,category,Pet Food,2,,,,,,,,fixed_set,2,11.54,8,90,FALSE,select set,TRUE
+PR2025091415,COUPON,$2.50 Off (coupon),2025-09-14,2025-09-20,category,Frozen Foods,ALL,2.50,,,,,,15.00,,,,8,70,TRUE,coupon applies at checkout,TRUE
+PR2025092101,MANAGER_SPECIAL,Manager Special 20% Off,2025-09-21,2025-09-27,category,Pet Food,1,,20,,,,,,,,,6,60,TRUE,limited time markdown,TRUE
+PR2025092102,COUPON,$0.50 Off (coupon),2025-09-21,2025-09-27,category,Bakery,ALL,0.50,,,,,,,,,,8,70,TRUE,coupon applies at checkout,TRUE
+PR2025092103,COUPON,$2.50 Off (coupon),2025-09-21,2025-09-27,category,Meat and Seafood,ALL,2.50,,,,,,10.00,,,,4,70,TRUE,coupon applies at checkout,TRUE
+PR2025092104,COUPON,$0.50 Off (coupon),2025-09-21,2025-09-27,category,Breakfast & Cereal,1,0.50,,,,,,12.00,,,,10,70,TRUE,coupon applies at checkout,TRUE
+PR2025092105,BOGO,Buy 1 Get 1,2025-09-21,2025-09-27,category,Beverages,ALL,,,1,1,,,,,,,10,80,FALSE,applies to category; singles only,TRUE
+PR2025092106,MANAGER_SPECIAL,Manager Special 25% Off,2025-09-21,2025-09-27,category,Candy,ALL,,25,,,,,,,,,8,60,TRUE,limited time markdown,TRUE
+PR2025092107,BUNDLE,2 for $3.79,2025-09-21,2025-09-27,category,Grains and Pasta,5,,,,,,,,mix_n_match,2,3.79,6,90,FALSE,mix and match allowed,TRUE
+PR2025092108,BUNDLE,2 for $5.54,2025-09-21,2025-09-27,category,Baking,2,,,,,,,,fixed_set,2,5.54,8,90,FALSE,select set,TRUE
+PR2025092109,BOGO,Buy 1 Get 1,2025-09-21,2025-09-27,category,Condiments/Sauces/Spices,ALL,,,1,1,,,,,,,6,80,FALSE,applies to category; singles only,TRUE
+PR2025092110,BUNDLE,2 for $4.38,2025-09-21,2025-09-27,category,Snacks/Cookies/Chips,1,,,,,,,,mix_n_match,2,4.38,8,90,FALSE,mix and match allowed,TRUE
+PR2025092111,BOGO,Buy 1 Get 1,2025-09-21,2025-09-27,category,Dairy & Eggs,ALL,,,1,1,,,,,,,6,80,FALSE,applies to category; singles only,TRUE
+PR2025092112,BUNDLE,2 for $9.66,2025-09-21,2025-09-27,category,Deli,ALL,,,,,,,,fixed_set,2,9.66,6,90,FALSE,select set,TRUE
+PR2025092113,COUPON,$3.00 Off (coupon),2025-09-21,2025-09-27,category,Alcohol,ALL,3.00,,,,,,15.00,,,,10,70,TRUE,coupon applies at checkout,TRUE
+PR2025092114,BOGO,Buy 1 Get 1,2025-09-21,2025-09-27,category,Frozen Foods,ALL,,,1,1,,,,,,,10,80,FALSE,applies to category; singles only,TRUE
+PR2025092115,MANAGER_SPECIAL,Manager Special 25% Off,2025-09-21,2025-09-27,category,Prepared Meals,ALL,,25,,,,,,,,,8,60,TRUE,limited time markdown,TRUE
