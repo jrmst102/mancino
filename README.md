@@ -3,8 +3,6 @@
 
 **Mancino Market** is a fully synthetic grocery retail dataset set in Manhattan, NYC. It’s designed for teaching, analytics, and modeling—rich enough to feel real, safe enough to share.
 
-> 🔒 This repository is **data-only**: CSVs and docs that anyone can download and analyze. All generation/validation code lives in a **private tools repo** and is intentionally not included here.
-
 ---
 
 ## 🚀 What’s in v1.5 (2025-09-21)
