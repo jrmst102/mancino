@@ -1,0 +1,1501 @@
+product_id,product_name,brand,category,subcategory,unit_size,price,unit_cost
+P00001,Mancino Pasta 32 oz,Mancino,Grains and Pasta,Pasta,32 oz,2.83,2.07
+P00002,Empire Juice 12 oz,Empire,Beverages,Juice,12 oz,2.9,2.03
+P00003,Chelsea Star Pasta 2 lb,Chelsea Star,Grains and Pasta,Pasta,2 lb,2.36,1.33
+P00004,Hudson Valley Beer 24 oz,Hudson Valley,Alcohol,Beer,24 oz,11.32,8.68
+P00005,Chelsea Star Tea 8 oz,Chelsea Star,Beverages,Tea,8 oz,4.45,2.47
+P00006,Nolita Fresh Cold Cuts 12 pack,Nolita Fresh,Deli,Cold Cuts,12 pack,7.27,5.76
+P00007,Parkside Mustard 1 ct,Parkside,Condiments/Sauces/Spices,Mustard,1 ct,3.11,1.85
+P00008,Empire Cereal 2 lb,Empire,Breakfast & Cereal,Cereal,2 lb,5.15,3.07
+P00009,Empire Hard Candy 24 oz,Empire,Candy,Hard Candy,24 oz,2.66,1.75
+P00010,Hudson Valley Bowls 12 oz,Hudson Valley,Prepared Meals,Bowls,12 oz,4.96,3.09
+P00011,GreenLeaf Ketchup 1 lb,GreenLeaf,Condiments/Sauces/Spices,Ketchup,1 lb,2.72,1.69
+P00012,Mancino Ice Cream 6 pack,Mancino,Frozen Foods,Ice Cream,6 pack,7.03,4.51
+P00013,Harbor View Cold Cuts 12 oz,Harbor View,Deli,Cold Cuts,12 oz,8.66,5.2
+P00014,Village Choice Cheese 1 ct,Village Choice,Deli,Cheese,1 ct,5.67,3.85
+P00015,Chelsea Star Cat Food 24 oz,Chelsea Star,Pet Food,Cat Food,24 oz,6.11,4.29
+P00016,Mancino Beef 24 oz,Mancino,Meat and Seafood,Beef,24 oz,9.25,5.48
+P00017,Hudson Valley Bowls 24 oz,Hudson Valley,Prepared Meals,Bowls,24 oz,6.88,4.96
+P00018,Harbor View Chips 32 oz,Harbor View,Snacks/Cookies/Chips,Chips,32 oz,2.79,1.84
+P00019,Empire Yogurt 1 lb,Empire,Dairy & Eggs,Yogurt,1 lb,3.49,1.95
+P00020,Village Choice Gummies 32 oz,Village Choice,Candy,Gummies,32 oz,1.92,1.49
+P00021,Chelsea Star Beef 16 oz,Chelsea Star,Meat and Seafood,Beef,16 oz,11.05,6.94
+P00022,Gotham Prepared 16 oz,Gotham,Deli,Prepared,16 oz,4.42,3.01
+P00023,Rivertown Butter 12 pack,Rivertown,Dairy & Eggs,Butter,12 pack,2.51,1.99
+P00024,GreenLeaf Coffee 8 oz,GreenLeaf,Beverages,Coffee,8 oz,3.15,2.34
+P00025,GreenLeaf Soda 2 lb,GreenLeaf,Beverages,Soda,2 lb,3.61,2.07
+P00026,Gotham Cereal 1 ct,Gotham,Breakfast & Cereal,Cereal,1 ct,4.7,2.82
+P00027,GreenLeaf Treats 24 oz,GreenLeaf,Pet Food,Treats,24 oz,6.8,4.4
+P00028,Harbor View Noodles 6 pack,Harbor View,Grains and Pasta,Noodles,6 pack,2.32,1.43
+P00029,Empire Baking Mix 24 oz,Empire,Baking,Baking Mix,24 oz,3.12,1.94
+P00030,NoHo Co Shrimp 32 oz,NoHo Co,Meat and Seafood,Shrimp,32 oz,11.72,8.04
+P00031,Harbor View Shrimp 1 ct,Harbor View,Meat and Seafood,Shrimp,1 ct,9.76,5.55
+P00032,Gotham Hot Sauce 16 oz,Gotham,Condiments/Sauces/Spices,Hot Sauce,16 oz,3.18,2.53
+P00033,Hudson Valley Cheese 8 oz,Hudson Valley,Deli,Cheese,8 oz,5.07,2.8
+P00034,Empire Chips 16 oz,Empire,Snacks/Cookies/Chips,Chips,16 oz,3.5,2.64
+P00035,Chelsea Star Soups 12 oz,Chelsea Star,Prepared Meals,Soups,12 oz,10.35,7.69
+P00036,Chelsea Star Soy Sauce 6 pack,Chelsea Star,Condiments/Sauces/Spices,Soy Sauce,6 pack,4.42,2.51
+P00037,NoHo Co Cheese 8 oz,NoHo Co,Deli,Cheese,8 oz,4.86,3.72
+P00038,Village Choice Pasta 12 pack,Village Choice,Grains and Pasta,Pasta,12 pack,2.31,1.63
+P00039,Village Choice Bowls 1 lb,Village Choice,Prepared Meals,Bowls,1 lb,7.1,4.46
+P00040,Harbor View Pastries 16 oz,Harbor View,Bakery,Pastries,16 oz,3.82,2.41
+P00041,Nolita Fresh Milk 32 oz,Nolita Fresh,Dairy & Eggs,Milk,32 oz,4.29,3.31
+P00042,NoHo Co Cold Cuts 12 oz,NoHo Co,Deli,Cold Cuts,12 oz,8.42,5.63
+P00043,Village Choice Cookies 12 pack,Village Choice,Snacks/Cookies/Chips,Cookies,12 pack,3.28,2.43
+P00044,Empire Veggies 1 lb,Empire,Frozen Foods,Veggies,1 lb,5.53,3.82
+P00045,NoHo Co Wraps 12 pack,NoHo Co,Prepared Meals,Wraps,12 pack,7.93,5.4
+P00046,Chelsea Star Dog Food 1 lb,Chelsea Star,Pet Food,Dog Food,1 lb,10.35,6.8
+P00047,Hudson Valley Milk 1 lb,Hudson Valley,Dairy & Eggs,Milk,1 lb,3.58,2.25
+P00048,Gotham Cat Food 8 oz,Gotham,Pet Food,Cat Food,8 oz,6.5,4.4
+P00049,Hudson Valley Tea 12 oz,Hudson Valley,Beverages,Tea,12 oz,2.84,1.85
+P00050,Hudson Valley Fish 12 pack,Hudson Valley,Meat and Seafood,Fish,12 pack,9.84,7.27
+P00051,Empire Wraps 6 pack,Empire,Prepared Meals,Wraps,6 pack,6.54,5.12
+P00052,Rivertown Cold Cuts 12 pack,Rivertown,Deli,Cold Cuts,12 pack,5.29,3.98
+P00053,Harbor View Nuts 24 oz,Harbor View,Snacks/Cookies/Chips,Nuts,24 oz,3.77,2.83
+P00054,Nolita Fresh Treats 24 oz,Nolita Fresh,Pet Food,Treats,24 oz,7.6,4.53
+P00055,Harbor View Pork 1 lb,Harbor View,Meat and Seafood,Pork,1 lb,9.22,6.93
+P00056,Parkside Eggs 12 oz,Parkside,Dairy & Eggs,Eggs,12 oz,4.46,3.45
+P00057,Hudson Valley Juice 1 lb,Hudson Valley,Beverages,Juice,1 lb,2.52,1.53
+P00058,NoHo Co Spirits 24 oz,NoHo Co,Alcohol,Spirits,24 oz,11.06,7.26
+P00059,Mancino Veggies 12 oz,Mancino,Frozen Foods,Veggies,12 oz,7.0,3.86
+P00060,Gotham Beef 12 oz,Gotham,Meat and Seafood,Beef,12 oz,9.61,6.51
+P00061,GreenLeaf Dog Food 12 oz,GreenLeaf,Pet Food,Dog Food,12 oz,4.91,2.85
+P00062,Rivertown Cold Cuts 6 pack,Rivertown,Deli,Cold Cuts,6 pack,5.4,3.43
+P00063,Empire Tea 1 ct,Empire,Beverages,Tea,1 ct,2.88,1.96
+P00064,Gotham Meals 6 pack,Gotham,Frozen Foods,Meals,6 pack,7.19,5.22
+P00065,Gotham Soups 12 oz,Gotham,Prepared Meals,Soups,12 oz,8.53,6.74
+P00066,GreenLeaf Cakes 2 lb,GreenLeaf,Bakery,Cakes,2 lb,3.93,2.41
+P00067,Nolita Fresh Soy Sauce 8 oz,Nolita Fresh,Condiments/Sauces/Spices,Soy Sauce,8 oz,2.17,1.35
+P00068,Mancino Pasta 2 lb,Mancino,Grains and Pasta,Pasta,2 lb,2.48,1.39
+P00069,Hudson Valley Pork 24 oz,Hudson Valley,Meat and Seafood,Pork,24 oz,9.14,5.14
+P00070,NoHo Co Juice 6 pack,NoHo Co,Beverages,Juice,6 pack,5.55,3.44
+P00071,Empire Yeast 32 oz,Empire,Baking,Yeast,32 oz,3.34,1.96
+P00072,Hudson Valley Cheese 6 pack,Hudson Valley,Dairy & Eggs,Cheese,6 pack,3.77,2.53
+P00073,Mancino Salads 12 pack,Mancino,Prepared Meals,Salads,12 pack,10.65,6.49
+P00074,Hudson Valley Chips 24 oz,Hudson Valley,Snacks/Cookies/Chips,Chips,24 oz,3.62,2.65
+P00075,Parkside Yeast 6 pack,Parkside,Baking,Yeast,6 pack,4.97,3.52
+P00076,Mancino Energy Drinks 16 oz,Mancino,Beverages,Energy Drinks,16 oz,2.11,1.44
+P00077,Harbor View Ketchup 32 oz,Harbor View,Condiments/Sauces/Spices,Ketchup,32 oz,2.73,1.53
+P00078,Rivertown Cat Food 2 lb,Rivertown,Pet Food,Cat Food,2 lb,6.08,4.24
+P00079,Village Choice Shrimp 6 pack,Village Choice,Meat and Seafood,Shrimp,6 pack,6.11,4.35
+P00080,Rivertown Sugar 24 oz,Rivertown,Baking,Sugar,24 oz,3.56,2.11
+P00081,Nolita Fresh Spirits 12 pack,Nolita Fresh,Alcohol,Spirits,12 pack,9.54,7.48
+P00082,GreenLeaf Spirits 8 oz,GreenLeaf,Alcohol,Spirits,8 oz,17.68,10.33
+P00083,Parkside Spirits 12 pack,Parkside,Alcohol,Spirits,12 pack,9.87,7.71
+P00084,Empire Treats 8 oz,Empire,Pet Food,Treats,8 oz,6.46,4.97
+P00085,Empire Cold Cuts 12 oz,Empire,Deli,Cold Cuts,12 oz,7.35,5.54
+P00086,Village Choice Pizza 24 oz,Village Choice,Frozen Foods,Pizza,24 oz,4.78,3.29
+P00087,Chelsea Star Ketchup 24 oz,Chelsea Star,Condiments/Sauces/Spices,Ketchup,24 oz,2.34,1.34
+P00088,Chelsea Star Pizza 12 oz,Chelsea Star,Frozen Foods,Pizza,12 oz,6.81,5.27
+P00089,Chelsea Star Spices 12 pack,Chelsea Star,Condiments/Sauces/Spices,Spices,12 pack,3.73,2.37
+P00090,Gotham Hard Candy 1 lb,Gotham,Candy,Hard Candy,1 lb,3.04,1.94
+P00091,Harbor View Water 16 oz,Harbor View,Beverages,Water,16 oz,3.42,2.64
+P00092,Parkside Quinoa 1 lb,Parkside,Grains and Pasta,Quinoa,1 lb,2.69,2.0
+P00093,Mancino Dog Food 6 pack,Mancino,Pet Food,Dog Food,6 pack,5.91,3.49
+P00094,Hudson Valley Pizza 12 pack,Hudson Valley,Frozen Foods,Pizza,12 pack,6.89,5.34
+P00095,Rivertown Tea 16 oz,Rivertown,Beverages,Tea,16 oz,3.23,1.78
+P00096,Hudson Valley Cat Food 24 oz,Hudson Valley,Pet Food,Cat Food,24 oz,5.86,3.46
+P00097,Empire Hard Candy 6 pack,Empire,Candy,Hard Candy,6 pack,3.99,2.84
+P00098,Nolita Fresh Nuts 32 oz,Nolita Fresh,Snacks/Cookies/Chips,Nuts,32 oz,3.38,2.05
+P00099,Village Choice Pizza 12 pack,Village Choice,Frozen Foods,Pizza,12 pack,5.09,3.21
+P00100,Empire Cereal 32 oz,Empire,Breakfast & Cereal,Cereal,32 oz,5.48,4.04
+P00101,Nolita Fresh Bread 12 pack,Nolita Fresh,Bakery,Bread,12 pack,5.09,3.64
+P00102,Rivertown Baking Mix 1 ct,Rivertown,Baking,Baking Mix,1 ct,3.88,2.69
+P00103,GreenLeaf Coffee 24 oz,GreenLeaf,Beverages,Coffee,24 oz,2.82,1.74
+P00104,NoHo Co Quinoa 6 pack,NoHo Co,Grains and Pasta,Quinoa,6 pack,2.07,1.26
+P00105,Hudson Valley Cereal 2 lb,Hudson Valley,Breakfast & Cereal,Cereal,2 lb,4.41,3.41
+P00106,Mancino Cookies 8 oz,Mancino,Snacks/Cookies/Chips,Cookies,8 oz,3.27,2.31
+P00107,Village Choice Gummies 32 oz,Village Choice,Candy,Gummies,32 oz,2.51,1.74
+P00108,NoHo Co Yeast 2 lb,NoHo Co,Baking,Yeast,2 lb,5.03,3.39
+P00109,Hudson Valley Cold Cuts 12 oz,Hudson Valley,Deli,Cold Cuts,12 oz,7.02,4.35
+P00110,Empire Treats 12 pack,Empire,Pet Food,Treats,12 pack,5.65,3.14
+P00111,Chelsea Star Wine 12 pack,Chelsea Star,Alcohol,Wine,12 pack,9.18,7.21
+P00112,Empire Yeast 8 oz,Empire,Baking,Yeast,8 oz,3.95,3.11
+P00113,Mancino Granola 1 lb,Mancino,Breakfast & Cereal,Granola,1 lb,4.26,2.36
+P00114,Gotham Coffee 12 oz,Gotham,Beverages,Coffee,12 oz,3.59,2.81
+P00115,Chelsea Star Mints 16 oz,Chelsea Star,Candy,Mints,16 oz,2.81,2.22
+P00116,Empire Dog Food 16 oz,Empire,Pet Food,Dog Food,16 oz,6.87,5.24
+P00117,Mancino Cat Food 16 oz,Mancino,Pet Food,Cat Food,16 oz,5.66,4.32
+P00118,Harbor View Pork 24 oz,Harbor View,Meat and Seafood,Pork,24 oz,6.16,3.88
+P00119,Nolita Fresh Oatmeal 12 oz,Nolita Fresh,Breakfast & Cereal,Oatmeal,12 oz,4.75,3.72
+P00120,Parkside Ketchup 24 oz,Parkside,Condiments/Sauces/Spices,Ketchup,24 oz,2.56,1.85
+P00121,GreenLeaf Energy Drinks 32 oz,GreenLeaf,Beverages,Energy Drinks,32 oz,2.41,1.7
+P00122,Gotham Crackers 8 oz,Gotham,Snacks/Cookies/Chips,Crackers,8 oz,3.12,2.49
+P00123,Harbor View Rice 1 lb,Harbor View,Grains and Pasta,Rice,1 lb,2.54,1.95
+P00124,Rivertown Cereal 1 lb,Rivertown,Breakfast & Cereal,Cereal,1 lb,3.38,2.48
+P00125,Village Choice Noodles 12 pack,Village Choice,Grains and Pasta,Noodles,12 pack,3.28,2.1
+P00126,Hudson Valley Chocolate 32 oz,Hudson Valley,Candy,Chocolate,32 oz,3.25,2.03
+P00127,Mancino Baking Mix 12 oz,Mancino,Baking,Baking Mix,12 oz,3.98,3.05
+P00128,GreenLeaf Meals 1 lb,GreenLeaf,Frozen Foods,Meals,1 lb,7.39,5.75
+P00129,NoHo Co Spices 12 oz,NoHo Co,Condiments/Sauces/Spices,Spices,12 oz,3.98,2.98
+P00130,Gotham Spices 32 oz,Gotham,Condiments/Sauces/Spices,Spices,32 oz,9.17,6.53
+P00131,Harbor View Spirits 8 oz,Harbor View,Alcohol,Spirits,8 oz,15.23,11.77
+P00132,Village Choice Prepared 24 oz,Village Choice,Deli,Prepared,24 oz,7.06,4.48
+P00133,Hudson Valley Mints 1 lb,Hudson Valley,Candy,Mints,1 lb,2.06,1.43
+P00134,Village Choice Ice Cream 12 oz,Village Choice,Frozen Foods,Ice Cream,12 oz,6.13,3.43
+P00135,NoHo Co Pork 32 oz,NoHo Co,Meat and Seafood,Pork,32 oz,16.05,9.98
+P00136,GreenLeaf Noodles 2 lb,GreenLeaf,Grains and Pasta,Noodles,2 lb,1.57,1.1
+P00137,NoHo Co Pork 16 oz,NoHo Co,Meat and Seafood,Pork,16 oz,8.0,4.65
+P00138,Village Choice Energy Drinks 2 lb,Village Choice,Beverages,Energy Drinks,2 lb,3.94,2.68
+P00139,Chelsea Star Rice 1 ct,Chelsea Star,Grains and Pasta,Rice,1 ct,2.09,1.47
+P00140,NoHo Co Bars 8 oz,NoHo Co,Breakfast & Cereal,Bars,8 oz,5.33,3.05
+P00141,Gotham Granola 2 lb,Gotham,Breakfast & Cereal,Granola,2 lb,4.55,3.12
+P00142,Parkside Bowls 6 pack,Parkside,Prepared Meals,Bowls,6 pack,6.8,4.82
+P00143,NoHo Co Cheese 6 pack,NoHo Co,Dairy & Eggs,Cheese,6 pack,2.11,1.58
+P00144,Village Choice Wraps 12 oz,Village Choice,Prepared Meals,Wraps,12 oz,8.38,5.18
+P00145,Hudson Valley Granola 24 oz,Hudson Valley,Breakfast & Cereal,Granola,24 oz,3.69,2.05
+P00146,Gotham Quinoa 24 oz,Gotham,Grains and Pasta,Quinoa,24 oz,2.43,1.92
+P00147,Mancino Flour 24 oz,Mancino,Baking,Flour,24 oz,3.97,2.59
+P00148,Hudson Valley Eggs 6 pack,Hudson Valley,Dairy & Eggs,Eggs,6 pack,4.35,2.58
+P00149,Gotham Spices 2 lb,Gotham,Condiments/Sauces/Spices,Spices,2 lb,3.11,2.14
+P00150,Gotham Butter 16 oz,Gotham,Dairy & Eggs,Butter,16 oz,2.97,2.16
+P00151,Hudson Valley Pasta 2 lb,Hudson Valley,Grains and Pasta,Pasta,2 lb,1.82,1.44
+P00152,Nolita Fresh Juice 12 pack,Nolita Fresh,Beverages,Juice,12 pack,3.77,2.77
+P00153,NoHo Co Milk 24 oz,NoHo Co,Dairy & Eggs,Milk,24 oz,5.95,3.9
+P00154,Parkside Dog Food 16 oz,Parkside,Pet Food,Dog Food,16 oz,9.06,5.54
+P00155,Village Choice Soups 12 pack,Village Choice,Prepared Meals,Soups,12 pack,10.98,6.08
+P00156,GreenLeaf Prepared 6 pack,GreenLeaf,Deli,Prepared,6 pack,5.03,2.91
+P00157,NoHo Co Meals 6 pack,NoHo Co,Frozen Foods,Meals,6 pack,7.26,4.85
+P00158,Nolita Fresh Dog Food 6 pack,Nolita Fresh,Pet Food,Dog Food,6 pack,8.5,4.88
+P00159,Gotham Yogurt 32 oz,Gotham,Dairy & Eggs,Yogurt,32 oz,1.56,0.93
+P00160,Village Choice Soups 24 oz,Village Choice,Prepared Meals,Soups,24 oz,6.19,4.08
+P00161,Hudson Valley Bars 32 oz,Hudson Valley,Breakfast & Cereal,Bars,32 oz,6.77,4.8
+P00162,GreenLeaf Water 1 lb,GreenLeaf,Beverages,Water,1 lb,2.1,1.18
+P00163,Hudson Valley Treats 16 oz,Hudson Valley,Pet Food,Treats,16 oz,10.04,6.78
+P00164,Harbor View Sugar 16 oz,Harbor View,Baking,Sugar,16 oz,2.44,1.86
+P00165,Hudson Valley Chicken 2 lb,Hudson Valley,Meat and Seafood,Chicken,2 lb,7.04,4.0
+P00166,NoHo Co Hot Sauce 6 pack,NoHo Co,Condiments/Sauces/Spices,Hot Sauce,6 pack,3.93,2.79
+P00167,Gotham Ketchup 2 lb,Gotham,Condiments/Sauces/Spices,Ketchup,2 lb,3.56,2.79
+P00168,Nolita Fresh Spices 8 oz,Nolita Fresh,Condiments/Sauces/Spices,Spices,8 oz,3.18,2.21
+P00169,Harbor View Nuts 6 pack,Harbor View,Snacks/Cookies/Chips,Nuts,6 pack,4.46,2.96
+P00170,Rivertown Wine 2 lb,Rivertown,Alcohol,Wine,2 lb,8.81,6.05
+P00171,NoHo Co Popcorn 12 pack,NoHo Co,Snacks/Cookies/Chips,Popcorn,12 pack,2.89,2.28
+P00172,Parkside Wraps 24 oz,Parkside,Prepared Meals,Wraps,24 oz,9.27,7.2
+P00173,Parkside Bars 8 oz,Parkside,Breakfast & Cereal,Bars,8 oz,4.83,2.74
+P00174,Village Choice Hot Sauce 2 lb,Village Choice,Condiments/Sauces/Spices,Hot Sauce,2 lb,3.0,1.89
+P00175,Parkside Chicken 16 oz,Parkside,Meat and Seafood,Chicken,16 oz,7.77,4.5
+P00176,Harbor View Pizza 1 ct,Harbor View,Frozen Foods,Pizza,1 ct,8.04,5.82
+P00177,Hudson Valley Pizza 2 lb,Hudson Valley,Frozen Foods,Pizza,2 lb,8.14,5.97
+P00178,Empire Yeast 8 oz,Empire,Baking,Yeast,8 oz,3.78,2.84
+P00179,GreenLeaf Bars 24 oz,GreenLeaf,Breakfast & Cereal,Bars,24 oz,3.66,2.7
+P00180,GreenLeaf Yogurt 2 lb,GreenLeaf,Dairy & Eggs,Yogurt,2 lb,3.04,2.29
+P00181,Rivertown Bars 12 oz,Rivertown,Breakfast & Cereal,Bars,12 oz,4.48,2.88
+P00182,Nolita Fresh Milk 12 pack,Nolita Fresh,Dairy & Eggs,Milk,12 pack,3.6,2.68
+P00183,Gotham Wine 12 oz,Gotham,Alcohol,Wine,12 oz,13.76,10.52
+P00184,Mancino Salads 24 oz,Mancino,Prepared Meals,Salads,24 oz,7.61,5.0
+P00185,Chelsea Star Soda 16 oz,Chelsea Star,Beverages,Soda,16 oz,3.69,2.12
+P00186,Parkside Juice 12 oz,Parkside,Beverages,Juice,12 oz,3.68,2.85
+P00187,Parkside Veggies 32 oz,Parkside,Frozen Foods,Veggies,32 oz,9.01,5.68
+P00188,Empire Bowls 1 ct,Empire,Prepared Meals,Bowls,1 ct,8.04,6.22
+P00189,Empire Pizza 32 oz,Empire,Frozen Foods,Pizza,32 oz,7.05,5.55
+P00190,Rivertown Bread 1 ct,Rivertown,Bakery,Bread,1 ct,3.87,2.68
+P00191,Harbor View Noodles 24 oz,Harbor View,Grains and Pasta,Noodles,24 oz,2.04,1.27
+P00192,Hudson Valley Bagels 32 oz,Hudson Valley,Bakery,Bagels,32 oz,6.75,4.27
+P00193,Hudson Valley Nuts 1 ct,Hudson Valley,Snacks/Cookies/Chips,Nuts,1 ct,4.01,3.0
+P00194,GreenLeaf Salads 12 pack,GreenLeaf,Prepared Meals,Salads,12 pack,9.75,7.29
+P00195,Hudson Valley Hot Sauce 12 pack,Hudson Valley,Condiments/Sauces/Spices,Hot Sauce,12 pack,3.49,1.97
+P00196,Mancino Quinoa 2 lb,Mancino,Grains and Pasta,Quinoa,2 lb,2.0,1.37
+P00197,Hudson Valley Popcorn 2 lb,Hudson Valley,Snacks/Cookies/Chips,Popcorn,2 lb,3.83,2.44
+P00198,Nolita Fresh Mints 16 oz,Nolita Fresh,Candy,Mints,16 oz,2.41,1.4
+P00199,Nolita Fresh Mustard 12 pack,Nolita Fresh,Condiments/Sauces/Spices,Mustard,12 pack,3.88,2.73
+P00200,Chelsea Star Quinoa 12 pack,Chelsea Star,Grains and Pasta,Quinoa,12 pack,2.17,1.25
+P00201,Parkside Soups 2 lb,Parkside,Prepared Meals,Soups,2 lb,8.51,4.84
+P00202,Rivertown Nuts 1 lb,Rivertown,Snacks/Cookies/Chips,Nuts,1 lb,2.64,1.99
+P00203,Hudson Valley Crackers 32 oz,Hudson Valley,Snacks/Cookies/Chips,Crackers,32 oz,2.67,1.53
+P00204,Gotham Cat Food 6 pack,Gotham,Pet Food,Cat Food,6 pack,7.42,5.91
+P00205,GreenLeaf Meals 8 oz,GreenLeaf,Frozen Foods,Meals,8 oz,4.53,3.41
+P00206,Empire Yogurt 6 pack,Empire,Dairy & Eggs,Yogurt,6 pack,2.46,1.94
+P00207,Rivertown Water 1 lb,Rivertown,Beverages,Water,1 lb,2.51,1.87
+P00208,NoHo Co Granola 8 oz,NoHo Co,Breakfast & Cereal,Granola,8 oz,4.27,2.94
+P00209,Hudson Valley Cold Cuts 24 oz,Hudson Valley,Deli,Cold Cuts,24 oz,7.43,4.29
+P00210,Parkside Fish 12 pack,Parkside,Meat and Seafood,Fish,12 pack,8.65,5.82
+P00211,Nolita Fresh Wraps 6 pack,Nolita Fresh,Prepared Meals,Wraps,6 pack,7.96,4.49
+P00212,Parkside Noodles 8 oz,Parkside,Grains and Pasta,Noodles,8 oz,2.33,1.35
+P00213,Gotham Pastries 2 lb,Gotham,Bakery,Pastries,2 lb,4.34,3.2
+P00214,Rivertown Chicken 1 ct,Rivertown,Meat and Seafood,Chicken,1 ct,7.32,5.09
+P00215,NoHo Co Mints 12 pack,NoHo Co,Candy,Mints,12 pack,2.43,1.51
+P00216,Nolita Fresh Mints 12 pack,Nolita Fresh,Candy,Mints,12 pack,2.76,2.12
+P00217,Nolita Fresh Hard Candy 6 pack,Nolita Fresh,Candy,Hard Candy,6 pack,2.64,1.5
+P00218,Rivertown Granola 24 oz,Rivertown,Breakfast & Cereal,Granola,24 oz,4.51,3.1
+P00219,GreenLeaf Bagels 12 oz,GreenLeaf,Bakery,Bagels,12 oz,4.02,2.84
+P00220,Nolita Fresh Shrimp 16 oz,Nolita Fresh,Meat and Seafood,Shrimp,16 oz,10.19,7.38
+P00221,Nolita Fresh Juice 6 pack,Nolita Fresh,Beverages,Juice,6 pack,5.14,3.58
+P00222,Hudson Valley Granola 24 oz,Hudson Valley,Breakfast & Cereal,Granola,24 oz,3.71,2.88
+P00223,GreenLeaf Oatmeal 16 oz,GreenLeaf,Breakfast & Cereal,Oatmeal,16 oz,7.78,4.82
+P00224,Nolita Fresh Cereal 12 pack,Nolita Fresh,Breakfast & Cereal,Cereal,12 pack,3.68,2.2
+P00225,Mancino Baking Mix 8 oz,Mancino,Baking,Baking Mix,8 oz,2.06,1.43
+P00226,Nolita Fresh Cheese 16 oz,Nolita Fresh,Deli,Cheese,16 oz,5.26,3.0
+P00227,Hudson Valley Noodles 8 oz,Hudson Valley,Grains and Pasta,Noodles,8 oz,2.72,1.71
+P00228,Parkside Ice Cream 6 pack,Parkside,Frozen Foods,Ice Cream,6 pack,10.39,7.83
+P00229,Empire Yogurt 8 oz,Empire,Dairy & Eggs,Yogurt,8 oz,2.8,2.18
+P00230,Hudson Valley Bars 12 oz,Hudson Valley,Breakfast & Cereal,Bars,12 oz,5.09,3.85
+P00231,Hudson Valley Soy Sauce 1 ct,Hudson Valley,Condiments/Sauces/Spices,Soy Sauce,1 ct,2.52,1.97
+P00232,Empire Pasta 16 oz,Empire,Grains and Pasta,Pasta,16 oz,3.95,3.03
+P00233,Hudson Valley Bowls 24 oz,Hudson Valley,Prepared Meals,Bowls,24 oz,10.74,8.56
+P00234,Chelsea Star Cakes 1 ct,Chelsea Star,Bakery,Cakes,1 ct,3.56,2.09
+P00235,NoHo Co Wraps 2 lb,NoHo Co,Prepared Meals,Wraps,2 lb,5.21,4.13
+P00236,Rivertown Butter 1 ct,Rivertown,Dairy & Eggs,Butter,1 ct,4.91,3.73
+P00237,Chelsea Star Hot Sauce 1 ct,Chelsea Star,Condiments/Sauces/Spices,Hot Sauce,1 ct,3.4,2.22
+P00238,Nolita Fresh Spirits 12 oz,Nolita Fresh,Alcohol,Spirits,12 oz,16.35,10.11
+P00239,Village Choice Wraps 24 oz,Village Choice,Prepared Meals,Wraps,24 oz,8.01,5.95
+P00240,Empire Cereal 24 oz,Empire,Breakfast & Cereal,Cereal,24 oz,4.55,3.58
+P00241,Empire Flour 8 oz,Empire,Baking,Flour,8 oz,3.13,2.07
+P00242,Nolita Fresh Soy Sauce 1 ct,Nolita Fresh,Condiments/Sauces/Spices,Soy Sauce,1 ct,4.09,2.38
+P00243,Mancino Yogurt 24 oz,Mancino,Dairy & Eggs,Yogurt,24 oz,3.61,2.19
+P00244,Nolita Fresh Granola 6 pack,Nolita Fresh,Breakfast & Cereal,Granola,6 pack,5.12,3.68
+P00245,Rivertown Bagels 1 ct,Rivertown,Bakery,Bagels,1 ct,2.73,1.58
+P00246,Harbor View Rice 12 oz,Harbor View,Grains and Pasta,Rice,12 oz,3.44,2.47
+P00247,Village Choice Cold Cuts 16 oz,Village Choice,Deli,Cold Cuts,16 oz,8.84,6.01
+P00248,Empire Cat Food 12 oz,Empire,Pet Food,Cat Food,12 oz,7.21,5.5
+P00249,Rivertown Beer 1 ct,Rivertown,Alcohol,Beer,1 ct,20.09,15.45
+P00250,Rivertown Shrimp 6 pack,Rivertown,Meat and Seafood,Shrimp,6 pack,13.96,9.09
+P00251,Nolita Fresh Cakes 32 oz,Nolita Fresh,Bakery,Cakes,32 oz,4.7,3.41
+P00252,Rivertown Fish 12 pack,Rivertown,Meat and Seafood,Fish,12 pack,12.67,7.64
+P00253,Parkside Cheese 12 oz,Parkside,Deli,Cheese,12 oz,7.82,5.07
+P00254,Harbor View Pizza 1 lb,Harbor View,Frozen Foods,Pizza,1 lb,4.19,2.76
+P00255,Mancino Ice Cream 12 oz,Mancino,Frozen Foods,Ice Cream,12 oz,6.08,4.13
+P00256,Chelsea Star Coffee 1 ct,Chelsea Star,Beverages,Coffee,1 ct,3.59,2.68
+P00257,Rivertown Spirits 1 ct,Rivertown,Alcohol,Spirits,1 ct,18.03,13.8
+P00258,Parkside Beer 12 pack,Parkside,Alcohol,Beer,12 pack,8.5,6.69
+P00259,Rivertown Noodles 16 oz,Rivertown,Grains and Pasta,Noodles,16 oz,1.63,1.08
+P00260,Village Choice Meals 6 pack,Village Choice,Frozen Foods,Meals,6 pack,6.41,5.1
+P00261,GreenLeaf Cakes 2 lb,GreenLeaf,Bakery,Cakes,2 lb,2.39,1.69
+P00262,Village Choice Hard Candy 12 oz,Village Choice,Candy,Hard Candy,12 oz,2.44,1.49
+P00263,GreenLeaf Crackers 2 lb,GreenLeaf,Snacks/Cookies/Chips,Crackers,2 lb,3.29,1.96
+P00264,Rivertown Fish 2 lb,Rivertown,Meat and Seafood,Fish,2 lb,7.12,4.53
+P00265,Mancino Nuts 6 pack,Mancino,Snacks/Cookies/Chips,Nuts,6 pack,2.95,2.11
+P00266,Rivertown Pastries 1 lb,Rivertown,Bakery,Pastries,1 lb,5.08,3.01
+P00267,NoHo Co Cakes 8 oz,NoHo Co,Bakery,Cakes,8 oz,3.5,2.08
+P00268,Harbor View Noodles 8 oz,Harbor View,Grains and Pasta,Noodles,8 oz,2.05,1.17
+P00269,GreenLeaf Tea 1 ct,GreenLeaf,Beverages,Tea,1 ct,2.92,1.76
+P00270,Village Choice Soups 6 pack,Village Choice,Prepared Meals,Soups,6 pack,6.18,3.96
+P00271,Gotham Salads 32 oz,Gotham,Prepared Meals,Salads,32 oz,13.07,7.32
+P00272,Rivertown Cold Cuts 6 pack,Rivertown,Deli,Cold Cuts,6 pack,6.05,4.54
+P00273,Parkside Treats 12 oz,Parkside,Pet Food,Treats,12 oz,5.88,4.52
+P00274,Chelsea Star Spirits 24 oz,Chelsea Star,Alcohol,Spirits,24 oz,12.66,9.88
+P00275,Rivertown Chicken 12 pack,Rivertown,Meat and Seafood,Chicken,12 pack,8.75,6.58
+P00276,Harbor View Spirits 12 oz,Harbor View,Alcohol,Spirits,12 oz,11.36,8.37
+P00277,Parkside Soda 12 oz,Parkside,Beverages,Soda,12 oz,2.63,1.69
+P00278,Parkside Rice 32 oz,Parkside,Grains and Pasta,Rice,32 oz,2.16,1.45
+P00279,Rivertown Prepared 2 lb,Rivertown,Deli,Prepared,2 lb,4.11,2.74
+P00280,Parkside Popcorn 24 oz,Parkside,Snacks/Cookies/Chips,Popcorn,24 oz,4.22,3.11
+P00281,Empire Eggs 2 lb,Empire,Dairy & Eggs,Eggs,2 lb,4.04,2.74
+P00282,NoHo Co Tea 16 oz,NoHo Co,Beverages,Tea,16 oz,3.24,2.21
+P00283,Rivertown Chips 2 lb,Rivertown,Snacks/Cookies/Chips,Chips,2 lb,2.91,1.99
+P00284,Mancino Hard Candy 32 oz,Mancino,Candy,Hard Candy,32 oz,1.97,1.2
+P00285,Chelsea Star Pork 1 ct,Chelsea Star,Meat and Seafood,Pork,1 ct,7.45,4.13
+P00286,Empire Noodles 6 pack,Empire,Grains and Pasta,Noodles,6 pack,1.75,1.1
+P00287,GreenLeaf Cheese 1 lb,GreenLeaf,Deli,Cheese,1 lb,5.1,2.96
+P00288,Harbor View Prepared 6 pack,Harbor View,Deli,Prepared,6 pack,4.58,3.54
+P00289,Gotham Cat Food 24 oz,Gotham,Pet Food,Cat Food,24 oz,10.67,7.97
+P00290,Gotham Meals 2 lb,Gotham,Frozen Foods,Meals,2 lb,8.1,5.46
+P00291,Nolita Fresh Wine 6 pack,Nolita Fresh,Alcohol,Wine,6 pack,12.23,8.52
+P00292,Harbor View Fish 16 oz,Harbor View,Meat and Seafood,Fish,16 oz,7.26,5.35
+P00293,Empire Milk 12 pack,Empire,Dairy & Eggs,Milk,12 pack,2.7,1.68
+P00294,Hudson Valley Ice Cream 6 pack,Hudson Valley,Frozen Foods,Ice Cream,6 pack,6.2,3.97
+P00295,Mancino Cakes 16 oz,Mancino,Bakery,Cakes,16 oz,5.04,3.22
+P00296,Hudson Valley Mustard 6 pack,Hudson Valley,Condiments/Sauces/Spices,Mustard,6 pack,5.64,4.49
+P00297,GreenLeaf Bowls 1 ct,GreenLeaf,Prepared Meals,Bowls,1 ct,5.64,3.25
+P00298,Village Choice Fish 12 oz,Village Choice,Meat and Seafood,Fish,12 oz,10.36,6.09
+P00299,Village Choice Cookies 12 pack,Village Choice,Snacks/Cookies/Chips,Cookies,12 pack,2.55,1.52
+P00300,Village Choice Hot Sauce 6 pack,Village Choice,Condiments/Sauces/Spices,Hot Sauce,6 pack,3.1,1.93
+P00301,Mancino Nuts 1 ct,Mancino,Snacks/Cookies/Chips,Nuts,1 ct,3.04,1.98
+P00302,Village Choice Bagels 32 oz,Village Choice,Bakery,Bagels,32 oz,3.25,2.59
+P00303,Hudson Valley Coffee 2 lb,Hudson Valley,Beverages,Coffee,2 lb,2.83,2.24
+P00304,Parkside Bread 16 oz,Parkside,Bakery,Bread,16 oz,3.19,2.44
+P00305,Mancino Pork 8 oz,Mancino,Meat and Seafood,Pork,8 oz,7.79,4.62
+P00306,Rivertown Chocolate 1 lb,Rivertown,Candy,Chocolate,1 lb,3.02,2.17
+P00307,Empire Mints 24 oz,Empire,Candy,Mints,24 oz,2.56,1.77
+P00308,Chelsea Star Cheese 16 oz,Chelsea Star,Deli,Cheese,16 oz,7.24,4.49
+P00309,Hudson Valley Sugar 1 ct,Hudson Valley,Baking,Sugar,1 ct,2.97,1.87
+P00310,Chelsea Star Popcorn 24 oz,Chelsea Star,Snacks/Cookies/Chips,Popcorn,24 oz,3.46,2.27
+P00311,Empire Eggs 24 oz,Empire,Dairy & Eggs,Eggs,24 oz,2.33,1.35
+P00312,Parkside Yogurt 32 oz,Parkside,Dairy & Eggs,Yogurt,32 oz,3.54,2.49
+P00313,Parkside Pasta 32 oz,Parkside,Grains and Pasta,Pasta,32 oz,2.93,1.72
+P00314,Hudson Valley Rice 6 pack,Hudson Valley,Grains and Pasta,Rice,6 pack,1.65,1.11
+P00315,Village Choice Hard Candy 2 lb,Village Choice,Candy,Hard Candy,2 lb,2.12,1.34
+P00316,Parkside Pork 32 oz,Parkside,Meat and Seafood,Pork,32 oz,9.11,5.32
+P00317,Parkside Energy Drinks 12 oz,Parkside,Beverages,Energy Drinks,12 oz,3.86,2.37
+P00318,Chelsea Star Energy Drinks 1 lb,Chelsea Star,Beverages,Energy Drinks,1 lb,2.6,1.87
+P00319,Nolita Fresh Ice Cream 32 oz,Nolita Fresh,Frozen Foods,Ice Cream,32 oz,7.42,4.96
+P00320,Harbor View Spirits 32 oz,Harbor View,Alcohol,Spirits,32 oz,17.21,11.24
+P00321,Village Choice Spirits 8 oz,Village Choice,Alcohol,Spirits,8 oz,13.86,10.5
+P00322,Nolita Fresh Treats 6 pack,Nolita Fresh,Pet Food,Treats,6 pack,6.65,5.26
+P00323,Gotham Cookies 1 ct,Gotham,Snacks/Cookies/Chips,Cookies,1 ct,3.29,2.58
+P00324,Gotham Bowls 24 oz,Gotham,Prepared Meals,Bowls,24 oz,6.88,4.1
+P00325,Village Choice Ice Cream 16 oz,Village Choice,Frozen Foods,Ice Cream,16 oz,6.64,4.61
+P00326,Village Choice Pasta 8 oz,Village Choice,Grains and Pasta,Pasta,8 oz,2.4,1.83
+P00327,Mancino Bars 1 ct,Mancino,Breakfast & Cereal,Bars,1 ct,4.9,2.94
+P00328,Hudson Valley Gummies 32 oz,Hudson Valley,Candy,Gummies,32 oz,2.26,1.34
+P00329,Empire Mints 24 oz,Empire,Candy,Mints,24 oz,2.76,1.98
+P00330,NoHo Co Baking Mix 12 pack,NoHo Co,Baking,Baking Mix,12 pack,3.15,2.14
+P00331,Empire Cat Food 32 oz,Empire,Pet Food,Cat Food,32 oz,8.7,5.64
+P00332,Rivertown Cat Food 1 lb,Rivertown,Pet Food,Cat Food,1 lb,6.45,4.86
+P00333,Parkside Salads 12 oz,Parkside,Prepared Meals,Salads,12 oz,4.81,3.2
+P00334,Village Choice Sugar 2 lb,Village Choice,Baking,Sugar,2 lb,2.72,1.7
+P00335,GreenLeaf Nuts 12 oz,GreenLeaf,Snacks/Cookies/Chips,Nuts,12 oz,3.01,1.83
+P00336,Mancino Soups 32 oz,Mancino,Prepared Meals,Soups,32 oz,12.16,9.42
+P00337,Parkside Cold Cuts 1 lb,Parkside,Deli,Cold Cuts,1 lb,7.38,5.73
+P00338,Chelsea Star Quinoa 2 lb,Chelsea Star,Grains and Pasta,Quinoa,2 lb,1.44,1.02
+P00339,Hudson Valley Cookies 24 oz,Hudson Valley,Snacks/Cookies/Chips,Cookies,24 oz,2.07,1.21
+P00340,Chelsea Star Milk 12 pack,Chelsea Star,Dairy & Eggs,Milk,12 pack,4.66,3.49
+P00341,Village Choice Gummies 12 oz,Village Choice,Candy,Gummies,12 oz,2.93,2.27
+P00342,Nolita Fresh Noodles 32 oz,Nolita Fresh,Grains and Pasta,Noodles,32 oz,4.41,3.29
+P00343,Hudson Valley Noodles 16 oz,Hudson Valley,Grains and Pasta,Noodles,16 oz,2.23,1.37
+P00344,Rivertown Beer 6 pack,Rivertown,Alcohol,Beer,6 pack,9.7,7.14
+P00345,Gotham Bread 12 pack,Gotham,Bakery,Bread,12 pack,4.07,3.01
+P00346,Parkside Yeast 1 lb,Parkside,Baking,Yeast,1 lb,3.11,2.39
+P00347,Chelsea Star Noodles 16 oz,Chelsea Star,Grains and Pasta,Noodles,16 oz,3.24,1.87
+P00348,Village Choice Cat Food 12 oz,Village Choice,Pet Food,Cat Food,12 oz,6.16,4.69
+P00349,Chelsea Star Popcorn 2 lb,Chelsea Star,Snacks/Cookies/Chips,Popcorn,2 lb,2.8,2.1
+P00350,Nolita Fresh Cereal 1 lb,Nolita Fresh,Breakfast & Cereal,Cereal,1 lb,3.52,2.07
+P00351,Parkside Energy Drinks 24 oz,Parkside,Beverages,Energy Drinks,24 oz,3.63,2.65
+P00352,Hudson Valley Cookies 1 lb,Hudson Valley,Snacks/Cookies/Chips,Cookies,1 lb,2.38,1.69
+P00353,GreenLeaf Prepared 8 oz,GreenLeaf,Deli,Prepared,8 oz,6.65,4.08
+P00354,Gotham Hot Sauce 12 oz,Gotham,Condiments/Sauces/Spices,Hot Sauce,12 oz,5.6,3.56
+P00355,Hudson Valley Popcorn 24 oz,Hudson Valley,Snacks/Cookies/Chips,Popcorn,24 oz,1.92,1.28
+P00356,Mancino Pasta 1 lb,Mancino,Grains and Pasta,Pasta,1 lb,3.63,2.86
+P00357,Chelsea Star Juice 24 oz,Chelsea Star,Beverages,Juice,24 oz,3.22,2.18
+P00358,Chelsea Star Bagels 24 oz,Chelsea Star,Bakery,Bagels,24 oz,3.02,2.12
+P00359,GreenLeaf Crackers 16 oz,GreenLeaf,Snacks/Cookies/Chips,Crackers,16 oz,3.08,2.23
+P00360,Rivertown Salads 16 oz,Rivertown,Prepared Meals,Salads,16 oz,9.59,7.49
+P00361,Empire Baking Mix 12 oz,Empire,Baking,Baking Mix,12 oz,2.87,1.99
+P00362,Empire Pasta 8 oz,Empire,Grains and Pasta,Pasta,8 oz,2.81,1.97
+P00363,Chelsea Star Gummies 1 lb,Chelsea Star,Candy,Gummies,1 lb,3.72,2.91
+P00364,Rivertown Beer 8 oz,Rivertown,Alcohol,Beer,8 oz,10.56,8.25
+P00365,NoHo Co Yeast 12 oz,NoHo Co,Baking,Yeast,12 oz,2.73,2.17
+P00366,Parkside Beef 6 pack,Parkside,Meat and Seafood,Beef,6 pack,8.72,6.62
+P00367,NoHo Co Bowls 1 ct,NoHo Co,Prepared Meals,Bowls,1 ct,8.11,5.66
+P00368,NoHo Co Cakes 24 oz,NoHo Co,Bakery,Cakes,24 oz,5.26,3.42
+P00369,Nolita Fresh Pizza 12 pack,Nolita Fresh,Frozen Foods,Pizza,12 pack,6.25,4.69
+P00370,Village Choice Bars 8 oz,Village Choice,Breakfast & Cereal,Bars,8 oz,4.04,2.23
+P00371,Harbor View Wine 2 lb,Harbor View,Alcohol,Wine,2 lb,9.32,6.38
+P00372,Parkside Pasta 6 pack,Parkside,Grains and Pasta,Pasta,6 pack,1.65,1.29
+P00373,GreenLeaf Bread 1 ct,GreenLeaf,Bakery,Bread,1 ct,2.9,2.13
+P00374,Empire Flour 32 oz,Empire,Baking,Flour,32 oz,2.53,1.68
+P00375,Harbor View Ice Cream 1 ct,Harbor View,Frozen Foods,Ice Cream,1 ct,6.09,3.56
+P00376,Parkside Cheese 12 pack,Parkside,Deli,Cheese,12 pack,4.12,2.45
+P00377,Hudson Valley Meals 12 oz,Hudson Valley,Frozen Foods,Meals,12 oz,3.31,2.58
+P00378,Nolita Fresh Nuts 24 oz,Nolita Fresh,Snacks/Cookies/Chips,Nuts,24 oz,2.96,1.9
+P00379,Gotham Soy Sauce 2 lb,Gotham,Condiments/Sauces/Spices,Soy Sauce,2 lb,5.56,3.08
+P00380,Harbor View Mints 2 lb,Harbor View,Candy,Mints,2 lb,3.31,2.37
+P00381,GreenLeaf Beef 2 lb,GreenLeaf,Meat and Seafood,Beef,2 lb,8.41,4.8
+P00382,GreenLeaf Hard Candy 16 oz,GreenLeaf,Candy,Hard Candy,16 oz,1.9,1.52
+P00383,Hudson Valley Noodles 12 oz,Hudson Valley,Grains and Pasta,Noodles,12 oz,4.76,2.7
+P00384,Hudson Valley Chips 2 lb,Hudson Valley,Snacks/Cookies/Chips,Chips,2 lb,3.04,2.24
+P00385,Empire Pastries 12 pack,Empire,Bakery,Pastries,12 pack,4.2,2.53
+P00386,NoHo Co Spirits 12 pack,NoHo Co,Alcohol,Spirits,12 pack,11.57,6.92
+P00387,Harbor View Chocolate 1 lb,Harbor View,Candy,Chocolate,1 lb,2.48,1.71
+P00388,Nolita Fresh Popcorn 8 oz,Nolita Fresh,Snacks/Cookies/Chips,Popcorn,8 oz,2.62,1.48
+P00389,GreenLeaf Granola 12 oz,GreenLeaf,Breakfast & Cereal,Granola,12 oz,4.22,2.87
+P00390,Empire Veggies 6 pack,Empire,Frozen Foods,Veggies,6 pack,9.47,6.25
+P00391,GreenLeaf Soda 12 pack,GreenLeaf,Beverages,Soda,12 pack,4.1,2.41
+P00392,Rivertown Chocolate 1 ct,Rivertown,Candy,Chocolate,1 ct,1.49,0.89
+P00393,NoHo Co Energy Drinks 1 ct,NoHo Co,Beverages,Energy Drinks,1 ct,2.11,1.5
+P00394,Chelsea Star Pizza 32 oz,Chelsea Star,Frozen Foods,Pizza,32 oz,5.35,3.49
+P00395,Rivertown Beer 32 oz,Rivertown,Alcohol,Beer,32 oz,15.16,8.44
+P00396,GreenLeaf Cat Food 8 oz,GreenLeaf,Pet Food,Cat Food,8 oz,9.62,5.82
+P00397,Chelsea Star Sugar 2 lb,Chelsea Star,Baking,Sugar,2 lb,4.19,2.33
+P00398,Nolita Fresh Bagels 8 oz,Nolita Fresh,Bakery,Bagels,8 oz,3.02,1.74
+P00399,Harbor View Bagels 2 lb,Harbor View,Bakery,Bagels,2 lb,3.51,2.5
+P00400,Empire Yogurt 1 lb,Empire,Dairy & Eggs,Yogurt,1 lb,3.96,2.41
+P00401,Chelsea Star Granola 1 ct,Chelsea Star,Breakfast & Cereal,Granola,1 ct,4.24,3.1
+P00402,Empire Bread 16 oz,Empire,Bakery,Bread,16 oz,3.64,2.78
+P00403,Village Choice Salads 12 oz,Village Choice,Prepared Meals,Salads,12 oz,7.31,5.24
+P00404,Village Choice Bars 2 lb,Village Choice,Breakfast & Cereal,Bars,2 lb,6.01,3.61
+P00405,Parkside Eggs 2 lb,Parkside,Dairy & Eggs,Eggs,2 lb,4.06,2.25
+P00406,NoHo Co Oatmeal 12 oz,NoHo Co,Breakfast & Cereal,Oatmeal,12 oz,4.16,2.38
+P00407,Hudson Valley Mints 32 oz,Hudson Valley,Candy,Mints,32 oz,2.71,1.78
+P00408,NoHo Co Noodles 32 oz,NoHo Co,Grains and Pasta,Noodles,32 oz,1.83,1.41
+P00409,Harbor View Beer 1 ct,Harbor View,Alcohol,Beer,1 ct,10.53,6.47
+P00410,Gotham Beer 32 oz,Gotham,Alcohol,Beer,32 oz,15.6,10.06
+P00411,Rivertown Juice 32 oz,Rivertown,Beverages,Juice,32 oz,2.03,1.43
+P00412,Mancino Chocolate 6 pack,Mancino,Candy,Chocolate,6 pack,2.91,1.9
+P00413,Empire Fish 16 oz,Empire,Meat and Seafood,Fish,16 oz,5.35,3.34
+P00414,Nolita Fresh Spices 24 oz,Nolita Fresh,Condiments/Sauces/Spices,Spices,24 oz,5.35,4.21
+P00415,Village Choice Prepared 1 lb,Village Choice,Deli,Prepared,1 lb,5.24,4.02
+P00416,Nolita Fresh Cakes 8 oz,Nolita Fresh,Bakery,Cakes,8 oz,4.42,2.97
+P00417,Parkside Ketchup 12 oz,Parkside,Condiments/Sauces/Spices,Ketchup,12 oz,3.6,2.36
+P00418,Chelsea Star Cookies 2 lb,Chelsea Star,Snacks/Cookies/Chips,Cookies,2 lb,3.11,1.73
+P00419,Nolita Fresh Meals 2 lb,Nolita Fresh,Frozen Foods,Meals,2 lb,7.02,4.97
+P00420,Harbor View Cereal 8 oz,Harbor View,Breakfast & Cereal,Cereal,8 oz,2.93,1.8
+P00421,Chelsea Star Gummies 6 pack,Chelsea Star,Candy,Gummies,6 pack,2.61,2.08
+P00422,Hudson Valley Cookies 2 lb,Hudson Valley,Snacks/Cookies/Chips,Cookies,2 lb,2.87,1.96
+P00423,Gotham Chips 2 lb,Gotham,Snacks/Cookies/Chips,Chips,2 lb,2.62,1.45
+P00424,NoHo Co Meals 12 oz,NoHo Co,Frozen Foods,Meals,12 oz,5.35,4.17
+P00425,Nolita Fresh Hot Sauce 1 lb,Nolita Fresh,Condiments/Sauces/Spices,Hot Sauce,1 lb,3.68,2.28
+P00426,Empire Water 12 oz,Empire,Beverages,Water,12 oz,2.35,1.62
+P00427,Hudson Valley Prepared 12 pack,Hudson Valley,Deli,Prepared,12 pack,7.76,4.67
+P00428,GreenLeaf Cold Cuts 1 lb,GreenLeaf,Deli,Cold Cuts,1 lb,6.75,3.73
+P00429,Gotham Chicken 12 oz,Gotham,Meat and Seafood,Chicken,12 oz,9.59,6.71
+P00430,Gotham Baking Mix 16 oz,Gotham,Baking,Baking Mix,16 oz,4.47,3.2
+P00431,Village Choice Veggies 12 oz,Village Choice,Frozen Foods,Veggies,12 oz,4.1,2.79
+P00432,Parkside Yeast 1 ct,Parkside,Baking,Yeast,1 ct,2.54,1.43
+P00433,Village Choice Soups 1 ct,Village Choice,Prepared Meals,Soups,1 ct,9.11,5.2
+P00434,Village Choice Quinoa 1 lb,Village Choice,Grains and Pasta,Quinoa,1 lb,2.09,1.46
+P00435,Hudson Valley Yeast 6 pack,Hudson Valley,Baking,Yeast,6 pack,3.0,1.87
+P00436,Rivertown Yogurt 1 ct,Rivertown,Dairy & Eggs,Yogurt,1 ct,2.46,1.57
+P00437,NoHo Co Wine 12 oz,NoHo Co,Alcohol,Wine,12 oz,9.4,6.5
+P00438,Parkside Bars 8 oz,Parkside,Breakfast & Cereal,Bars,8 oz,5.86,3.92
+P00439,Rivertown Wine 12 oz,Rivertown,Alcohol,Wine,12 oz,13.58,9.96
+P00440,Chelsea Star Pasta 1 ct,Chelsea Star,Grains and Pasta,Pasta,1 ct,2.62,1.58
+P00441,Parkside Cheese 1 ct,Parkside,Deli,Cheese,1 ct,5.2,3.51
+P00442,Mancino Prepared 6 pack,Mancino,Deli,Prepared,6 pack,6.19,4.33
+P00443,Village Choice Treats 24 oz,Village Choice,Pet Food,Treats,24 oz,9.33,5.38
+P00444,NoHo Co Mints 16 oz,NoHo Co,Candy,Mints,16 oz,2.1,1.19
+P00445,Hudson Valley Wine 1 lb,Hudson Valley,Alcohol,Wine,1 lb,11.9,8.59
+P00446,NoHo Co Beef 16 oz,NoHo Co,Meat and Seafood,Beef,16 oz,14.01,9.23
+P00447,Nolita Fresh Beer 6 pack,Nolita Fresh,Alcohol,Beer,6 pack,14.32,10.74
+P00448,NoHo Co Eggs 1 ct,NoHo Co,Dairy & Eggs,Eggs,1 ct,3.04,2.2
+P00449,GreenLeaf Baking Mix 32 oz,GreenLeaf,Baking,Baking Mix,32 oz,4.09,2.62
+P00450,GreenLeaf Soy Sauce 1 ct,GreenLeaf,Condiments/Sauces/Spices,Soy Sauce,1 ct,2.36,1.35
+P00451,Village Choice Spirits 1 lb,Village Choice,Alcohol,Spirits,1 lb,11.78,7.02
+P00452,Hudson Valley Pastries 12 pack,Hudson Valley,Bakery,Pastries,12 pack,4.67,3.2
+P00453,Rivertown Noodles 32 oz,Rivertown,Grains and Pasta,Noodles,32 oz,2.75,2.07
+P00454,Empire Shrimp 1 lb,Empire,Meat and Seafood,Shrimp,1 lb,10.48,7.49
+P00455,GreenLeaf Bagels 32 oz,GreenLeaf,Bakery,Bagels,32 oz,4.93,3.02
+P00456,Empire Noodles 1 ct,Empire,Grains and Pasta,Noodles,1 ct,2.8,1.88
+P00457,Rivertown Beef 12 pack,Rivertown,Meat and Seafood,Beef,12 pack,10.02,5.96
+P00458,Empire Hot Sauce 12 pack,Empire,Condiments/Sauces/Spices,Hot Sauce,12 pack,3.69,2.55
+P00459,NoHo Co Cakes 1 lb,NoHo Co,Bakery,Cakes,1 lb,3.05,2.38
+P00460,Rivertown Wine 16 oz,Rivertown,Alcohol,Wine,16 oz,15.61,12.38
+P00461,Parkside Water 24 oz,Parkside,Beverages,Water,24 oz,2.97,2.27
+P00462,Empire Juice 12 oz,Empire,Beverages,Juice,12 oz,3.56,2.71
+P00463,NoHo Co Cereal 12 pack,NoHo Co,Breakfast & Cereal,Cereal,12 pack,5.69,3.18
+P00464,Mancino Nuts 1 lb,Mancino,Snacks/Cookies/Chips,Nuts,1 lb,2.64,1.85
+P00465,Empire Treats 1 ct,Empire,Pet Food,Treats,1 ct,6.28,3.57
+P00466,Empire Mustard 16 oz,Empire,Condiments/Sauces/Spices,Mustard,16 oz,3.24,2.35
+P00467,Empire Nuts 6 pack,Empire,Snacks/Cookies/Chips,Nuts,6 pack,4.11,2.33
+P00468,GreenLeaf Wine 24 oz,GreenLeaf,Alcohol,Wine,24 oz,9.6,6.04
+P00469,Rivertown Eggs 6 pack,Rivertown,Dairy & Eggs,Eggs,6 pack,5.03,3.17
+P00470,Gotham Tea 32 oz,Gotham,Beverages,Tea,32 oz,3.15,2.23
+P00471,Gotham Soups 1 lb,Gotham,Prepared Meals,Soups,1 lb,8.55,5.2
+P00472,Parkside Noodles 32 oz,Parkside,Grains and Pasta,Noodles,32 oz,3.12,1.74
+P00473,NoHo Co Soups 12 pack,NoHo Co,Prepared Meals,Soups,12 pack,8.17,6.41
+P00474,Gotham Mustard 1 ct,Gotham,Condiments/Sauces/Spices,Mustard,1 ct,4.57,3.43
+P00475,Mancino Baking Mix 6 pack,Mancino,Baking,Baking Mix,6 pack,3.08,2.06
+P00476,NoHo Co Cookies 12 oz,NoHo Co,Snacks/Cookies/Chips,Cookies,12 oz,4.27,3.02
+P00477,Hudson Valley Shrimp 32 oz,Hudson Valley,Meat and Seafood,Shrimp,32 oz,8.05,5.28
+P00478,Rivertown Bagels 6 pack,Rivertown,Bakery,Bagels,6 pack,5.75,4.22
+P00479,Empire Treats 2 lb,Empire,Pet Food,Treats,2 lb,6.3,4.02
+P00480,Parkside Bagels 1 lb,Parkside,Bakery,Bagels,1 lb,3.73,2.32
+P00481,Harbor View Dog Food 8 oz,Harbor View,Pet Food,Dog Food,8 oz,5.45,3.05
+P00482,GreenLeaf Spices 24 oz,GreenLeaf,Condiments/Sauces/Spices,Spices,24 oz,2.89,1.6
+P00483,GreenLeaf Ketchup 24 oz,GreenLeaf,Condiments/Sauces/Spices,Ketchup,24 oz,3.47,2.24
+P00484,Hudson Valley Wine 1 lb,Hudson Valley,Alcohol,Wine,1 lb,12.72,9.16
+P00485,Empire Wraps 8 oz,Empire,Prepared Meals,Wraps,8 oz,10.23,8.04
+P00486,Nolita Fresh Bars 16 oz,Nolita Fresh,Breakfast & Cereal,Bars,16 oz,4.27,2.85
+P00487,Parkside Soups 1 ct,Parkside,Prepared Meals,Soups,1 ct,6.04,4.82
+P00488,Mancino Beer 32 oz,Mancino,Alcohol,Beer,32 oz,13.2,8.02
+P00489,NoHo Co Juice 1 ct,NoHo Co,Beverages,Juice,1 ct,3.13,2.2
+P00490,Hudson Valley Cheese 32 oz,Hudson Valley,Deli,Cheese,32 oz,6.79,4.6
+P00491,Hudson Valley Water 8 oz,Hudson Valley,Beverages,Water,8 oz,2.56,1.55
+P00492,Village Choice Energy Drinks 1 ct,Village Choice,Beverages,Energy Drinks,1 ct,2.63,1.57
+P00493,Hudson Valley Milk 6 pack,Hudson Valley,Dairy & Eggs,Milk,6 pack,2.98,1.68
+P00494,Village Choice Pizza 12 pack,Village Choice,Frozen Foods,Pizza,12 pack,8.75,6.93
+P00495,Nolita Fresh Veggies 16 oz,Nolita Fresh,Frozen Foods,Veggies,16 oz,9.27,6.71
+P00496,Mancino Bars 1 ct,Mancino,Breakfast & Cereal,Bars,1 ct,3.9,2.3
+P00497,Chelsea Star Gummies 2 lb,Chelsea Star,Candy,Gummies,2 lb,2.18,1.32
+P00498,NoHo Co Flour 1 lb,NoHo Co,Baking,Flour,1 lb,4.1,2.81
+P00499,Harbor View Bread 6 pack,Harbor View,Bakery,Bread,6 pack,5.89,3.37
+P00500,Harbor View Spirits 1 lb,Harbor View,Alcohol,Spirits,1 lb,18.8,14.46
+P00501,GreenLeaf Cereal 12 oz,GreenLeaf,Breakfast & Cereal,Cereal,12 oz,3.86,2.98
+P00502,Nolita Fresh Gummies 12 oz,Nolita Fresh,Candy,Gummies,12 oz,2.27,1.79
+P00503,Empire Bowls 8 oz,Empire,Prepared Meals,Bowls,8 oz,8.59,6.13
+P00504,Village Choice Hard Candy 16 oz,Village Choice,Candy,Hard Candy,16 oz,2.72,1.87
+P00505,Nolita Fresh Popcorn 6 pack,Nolita Fresh,Snacks/Cookies/Chips,Popcorn,6 pack,2.87,1.85
+P00506,Empire Rice 12 oz,Empire,Grains and Pasta,Rice,12 oz,2.05,1.26
+P00507,Mancino Fish 32 oz,Mancino,Meat and Seafood,Fish,32 oz,8.93,5.09
+P00508,Gotham Soda 8 oz,Gotham,Beverages,Soda,8 oz,4.7,2.84
+P00509,NoHo Co Hard Candy 2 lb,NoHo Co,Candy,Hard Candy,2 lb,2.2,1.68
+P00510,Parkside Nuts 32 oz,Parkside,Snacks/Cookies/Chips,Nuts,32 oz,3.17,2.14
+P00511,Gotham Spirits 32 oz,Gotham,Alcohol,Spirits,32 oz,22.57,17.07
+P00512,Village Choice Chocolate 1 lb,Village Choice,Candy,Chocolate,1 lb,2.19,1.39
+P00513,GreenLeaf Cereal 2 lb,GreenLeaf,Breakfast & Cereal,Cereal,2 lb,5.34,3.29
+P00514,Nolita Fresh Cat Food 6 pack,Nolita Fresh,Pet Food,Cat Food,6 pack,11.11,8.55
+P00515,GreenLeaf Cat Food 16 oz,GreenLeaf,Pet Food,Cat Food,16 oz,8.11,6.19
+P00516,GreenLeaf Butter 12 pack,GreenLeaf,Dairy & Eggs,Butter,12 pack,4.62,3.54
+P00517,Nolita Fresh Cereal 2 lb,Nolita Fresh,Breakfast & Cereal,Cereal,2 lb,5.52,4.0
+P00518,Chelsea Star Cakes 16 oz,Chelsea Star,Bakery,Cakes,16 oz,4.54,3.27
+P00519,GreenLeaf Cheese 12 oz,GreenLeaf,Deli,Cheese,12 oz,8.48,5.0
+P00520,Village Choice Pastries 32 oz,Village Choice,Bakery,Pastries,32 oz,4.7,3.62
+P00521,Chelsea Star Bars 2 lb,Chelsea Star,Breakfast & Cereal,Bars,2 lb,4.32,2.74
+P00522,GreenLeaf Yeast 6 pack,GreenLeaf,Baking,Yeast,6 pack,3.63,2.67
+P00523,GreenLeaf Spirits 1 ct,GreenLeaf,Alcohol,Spirits,1 ct,13.16,9.98
+P00524,Village Choice Hot Sauce 8 oz,Village Choice,Condiments/Sauces/Spices,Hot Sauce,8 oz,3.17,2.15
+P00525,GreenLeaf Cakes 12 pack,GreenLeaf,Bakery,Cakes,12 pack,4.2,2.97
+P00526,Mancino Wraps 16 oz,Mancino,Prepared Meals,Wraps,16 oz,8.09,4.97
+P00527,Village Choice Nuts 6 pack,Village Choice,Snacks/Cookies/Chips,Nuts,6 pack,3.53,2.63
+P00528,Hudson Valley Beer 24 oz,Hudson Valley,Alcohol,Beer,24 oz,20.61,11.89
+P00529,GreenLeaf Bowls 2 lb,GreenLeaf,Prepared Meals,Bowls,2 lb,8.51,6.73
+P00530,Chelsea Star Pizza 16 oz,Chelsea Star,Frozen Foods,Pizza,16 oz,9.64,6.13
+P00531,GreenLeaf Noodles 1 lb,GreenLeaf,Grains and Pasta,Noodles,1 lb,2.91,1.68
+P00532,Chelsea Star Milk 16 oz,Chelsea Star,Dairy & Eggs,Milk,16 oz,3.67,2.88
+P00533,Harbor View Cheese 1 lb,Harbor View,Deli,Cheese,1 lb,5.37,3.36
+P00534,Gotham Quinoa 12 oz,Gotham,Grains and Pasta,Quinoa,12 oz,2.62,1.9
+P00535,Empire Spirits 6 pack,Empire,Alcohol,Spirits,6 pack,12.41,7.9
+P00536,NoHo Co Cheese 12 oz,NoHo Co,Deli,Cheese,12 oz,5.04,3.55
+P00537,Nolita Fresh Granola 6 pack,Nolita Fresh,Breakfast & Cereal,Granola,6 pack,3.91,2.89
+P00538,Rivertown Tea 6 pack,Rivertown,Beverages,Tea,6 pack,3.3,1.84
+P00539,Empire Soda 12 oz,Empire,Beverages,Soda,12 oz,4.44,3.2
+P00540,Nolita Fresh Cheese 6 pack,Nolita Fresh,Dairy & Eggs,Cheese,6 pack,3.44,2.28
+P00541,Village Choice Pastries 1 lb,Village Choice,Bakery,Pastries,1 lb,2.79,1.65
+P00542,NoHo Co Beef 12 pack,NoHo Co,Meat and Seafood,Beef,12 pack,5.19,3.89
+P00543,Empire Granola 16 oz,Empire,Breakfast & Cereal,Granola,16 oz,3.49,1.99
+P00544,NoHo Co Bowls 24 oz,NoHo Co,Prepared Meals,Bowls,24 oz,9.55,6.88
+P00545,Empire Bagels 24 oz,Empire,Bakery,Bagels,24 oz,2.9,2.28
+P00546,Mancino Soups 1 lb,Mancino,Prepared Meals,Soups,1 lb,9.95,5.85
+P00547,GreenLeaf Prepared 6 pack,GreenLeaf,Deli,Prepared,6 pack,7.06,4.62
+P00548,Chelsea Star Wraps 12 oz,Chelsea Star,Prepared Meals,Wraps,12 oz,7.8,5.54
+P00549,Harbor View Pastries 6 pack,Harbor View,Bakery,Pastries,6 pack,2.73,2.17
+P00550,Harbor View Cheese 1 ct,Harbor View,Deli,Cheese,1 ct,5.05,3.29
+P00551,GreenLeaf Bagels 12 oz,GreenLeaf,Bakery,Bagels,12 oz,3.77,2.27
+P00552,Village Choice Butter 12 pack,Village Choice,Dairy & Eggs,Butter,12 pack,3.82,2.13
+P00553,NoHo Co Gummies 1 ct,NoHo Co,Candy,Gummies,1 ct,1.83,1.4
+P00554,Harbor View Sugar 12 pack,Harbor View,Baking,Sugar,12 pack,5.02,3.35
+P00555,Hudson Valley Dog Food 12 pack,Hudson Valley,Pet Food,Dog Food,12 pack,7.63,5.67
+P00556,Empire Baking Mix 16 oz,Empire,Baking,Baking Mix,16 oz,3.92,2.98
+P00557,GreenLeaf Gummies 12 pack,GreenLeaf,Candy,Gummies,12 pack,2.94,1.71
+P00558,Hudson Valley Cat Food 32 oz,Hudson Valley,Pet Food,Cat Food,32 oz,9.76,5.45
+P00559,NoHo Co Coffee 32 oz,NoHo Co,Beverages,Coffee,32 oz,3.15,2.36
+P00560,Chelsea Star Baking Mix 12 pack,Chelsea Star,Baking,Baking Mix,12 pack,4.18,2.8
+P00561,Chelsea Star Bagels 1 ct,Chelsea Star,Bakery,Bagels,1 ct,3.38,2.03
+P00562,Village Choice Sugar 1 ct,Village Choice,Baking,Sugar,1 ct,5.49,3.69
+P00563,GreenLeaf Shrimp 1 ct,GreenLeaf,Meat and Seafood,Shrimp,1 ct,9.29,5.73
+P00564,Hudson Valley Beer 8 oz,Hudson Valley,Alcohol,Beer,8 oz,10.12,7.58
+P00565,Village Choice Quinoa 24 oz,Village Choice,Grains and Pasta,Quinoa,24 oz,2.24,1.24
+P00566,Chelsea Star Soups 8 oz,Chelsea Star,Prepared Meals,Soups,8 oz,4.99,2.83
+P00567,Rivertown Eggs 32 oz,Rivertown,Dairy & Eggs,Eggs,32 oz,3.13,2.19
+P00568,Village Choice Cheese 2 lb,Village Choice,Dairy & Eggs,Cheese,2 lb,1.91,1.19
+P00569,Hudson Valley Bars 8 oz,Hudson Valley,Breakfast & Cereal,Bars,8 oz,5.48,4.08
+P00570,Harbor View Yeast 6 pack,Harbor View,Baking,Yeast,6 pack,3.89,2.18
+P00571,GreenLeaf Cheese 1 ct,GreenLeaf,Dairy & Eggs,Cheese,1 ct,2.75,1.68
+P00572,Nolita Fresh Baking Mix 1 lb,Nolita Fresh,Baking,Baking Mix,1 lb,3.46,2.76
+P00573,Harbor View Pork 16 oz,Harbor View,Meat and Seafood,Pork,16 oz,8.99,6.33
+P00574,NoHo Co Bowls 12 pack,NoHo Co,Prepared Meals,Bowls,12 pack,5.99,4.35
+P00575,Gotham Pastries 6 pack,Gotham,Bakery,Pastries,6 pack,3.79,2.39
+P00576,Parkside Pastries 24 oz,Parkside,Bakery,Pastries,24 oz,4.03,2.74
+P00577,Mancino Flour 32 oz,Mancino,Baking,Flour,32 oz,3.29,1.84
+P00578,Harbor View Spices 24 oz,Harbor View,Condiments/Sauces/Spices,Spices,24 oz,2.95,1.68
+P00579,GreenLeaf Crackers 1 ct,GreenLeaf,Snacks/Cookies/Chips,Crackers,1 ct,2.34,1.62
+P00580,Gotham Pork 16 oz,Gotham,Meat and Seafood,Pork,16 oz,8.39,6.06
+P00581,Parkside Eggs 6 pack,Parkside,Dairy & Eggs,Eggs,6 pack,3.03,1.79
+P00582,Parkside Cat Food 8 oz,Parkside,Pet Food,Cat Food,8 oz,8.08,4.66
+P00583,NoHo Co Cakes 6 pack,NoHo Co,Bakery,Cakes,6 pack,5.68,3.17
+P00584,Chelsea Star Juice 1 lb,Chelsea Star,Beverages,Juice,1 lb,3.78,2.96
+P00585,Rivertown Beer 6 pack,Rivertown,Alcohol,Beer,6 pack,12.18,8.86
+P00586,Rivertown Meals 12 pack,Rivertown,Frozen Foods,Meals,12 pack,5.53,4.25
+P00587,Harbor View Beer 16 oz,Harbor View,Alcohol,Beer,16 oz,15.01,9.53
+P00588,Nolita Fresh Cat Food 1 lb,Nolita Fresh,Pet Food,Cat Food,1 lb,8.2,6.18
+P00589,GreenLeaf Soups 8 oz,GreenLeaf,Prepared Meals,Soups,8 oz,11.12,7.37
+P00590,Chelsea Star Ketchup 12 pack,Chelsea Star,Condiments/Sauces/Spices,Ketchup,12 pack,3.68,2.62
+P00591,NoHo Co Water 32 oz,NoHo Co,Beverages,Water,32 oz,4.63,2.64
+P00592,NoHo Co Cakes 6 pack,NoHo Co,Bakery,Cakes,6 pack,4.2,2.37
+P00593,Chelsea Star Bowls 1 ct,Chelsea Star,Prepared Meals,Bowls,1 ct,6.8,5.22
+P00594,Hudson Valley Bagels 2 lb,Hudson Valley,Bakery,Bagels,2 lb,3.54,2.14
+P00595,NoHo Co Hard Candy 1 lb,NoHo Co,Candy,Hard Candy,1 lb,2.85,2.04
+P00596,Gotham Wraps 1 ct,Gotham,Prepared Meals,Wraps,1 ct,6.93,4.67
+P00597,NoHo Co Cheese 8 oz,NoHo Co,Deli,Cheese,8 oz,9.24,5.61
+P00598,Empire Beer 1 lb,Empire,Alcohol,Beer,1 lb,13.38,10.69
+P00599,NoHo Co Soups 6 pack,NoHo Co,Prepared Meals,Soups,6 pack,8.08,4.85
+P00600,GreenLeaf Sugar 1 ct,GreenLeaf,Baking,Sugar,1 ct,3.61,2.6
+P00601,Harbor View Gummies 1 ct,Harbor View,Candy,Gummies,1 ct,2.34,1.79
+P00602,Chelsea Star Pork 1 lb,Chelsea Star,Meat and Seafood,Pork,1 lb,5.93,4.34
+P00603,NoHo Co Prepared 6 pack,NoHo Co,Deli,Prepared,6 pack,5.32,3.39
+P00604,Rivertown Shrimp 6 pack,Rivertown,Meat and Seafood,Shrimp,6 pack,13.34,8.57
+P00605,GreenLeaf Chips 1 lb,GreenLeaf,Snacks/Cookies/Chips,Chips,1 lb,3.17,2.09
+P00606,Harbor View Pasta 1 ct,Harbor View,Grains and Pasta,Pasta,1 ct,3.25,2.38
+P00607,Chelsea Star Cereal 6 pack,Chelsea Star,Breakfast & Cereal,Cereal,6 pack,5.89,4.57
+P00608,Nolita Fresh Oatmeal 8 oz,Nolita Fresh,Breakfast & Cereal,Oatmeal,8 oz,4.46,2.92
+P00609,Empire Meals 12 pack,Empire,Frozen Foods,Meals,12 pack,7.65,5.95
+P00610,Empire Noodles 24 oz,Empire,Grains and Pasta,Noodles,24 oz,1.69,1.02
+P00611,Nolita Fresh Spirits 12 oz,Nolita Fresh,Alcohol,Spirits,12 oz,17.36,12.73
+P00612,Parkside Soda 1 lb,Parkside,Beverages,Soda,1 lb,4.24,2.47
+P00613,Harbor View Mustard 24 oz,Harbor View,Condiments/Sauces/Spices,Mustard,24 oz,3.96,2.36
+P00614,Chelsea Star Spices 6 pack,Chelsea Star,Condiments/Sauces/Spices,Spices,6 pack,3.74,2.28
+P00615,Nolita Fresh Chips 16 oz,Nolita Fresh,Snacks/Cookies/Chips,Chips,16 oz,2.98,1.82
+P00616,NoHo Co Cold Cuts 1 lb,NoHo Co,Deli,Cold Cuts,1 lb,8.04,6.17
+P00617,NoHo Co Noodles 2 lb,NoHo Co,Grains and Pasta,Noodles,2 lb,3.03,1.94
+P00618,Parkside Gummies 12 pack,Parkside,Candy,Gummies,12 pack,1.23,0.86
+P00619,Village Choice Hard Candy 32 oz,Village Choice,Candy,Hard Candy,32 oz,2.28,1.81
+P00620,Gotham Meals 24 oz,Gotham,Frozen Foods,Meals,24 oz,4.91,3.02
+P00621,Gotham Granola 32 oz,Gotham,Breakfast & Cereal,Granola,32 oz,3.26,2.42
+P00622,Nolita Fresh Bowls 24 oz,Nolita Fresh,Prepared Meals,Bowls,24 oz,10.69,6.23
+P00623,GreenLeaf Fish 6 pack,GreenLeaf,Meat and Seafood,Fish,6 pack,8.9,5.42
+P00624,Rivertown Hard Candy 12 oz,Rivertown,Candy,Hard Candy,12 oz,2.82,1.6
+P00625,Harbor View Meals 1 lb,Harbor View,Frozen Foods,Meals,1 lb,6.63,4.21
+P00626,Rivertown Wraps 8 oz,Rivertown,Prepared Meals,Wraps,8 oz,5.8,4.39
+P00627,GreenLeaf Cereal 6 pack,GreenLeaf,Breakfast & Cereal,Cereal,6 pack,3.05,2.15
+P00628,Nolita Fresh Quinoa 6 pack,Nolita Fresh,Grains and Pasta,Quinoa,6 pack,2.25,1.64
+P00629,NoHo Co Juice 32 oz,NoHo Co,Beverages,Juice,32 oz,2.75,1.54
+P00630,Nolita Fresh Treats 32 oz,Nolita Fresh,Pet Food,Treats,32 oz,6.41,4.71
+P00631,Chelsea Star Flour 1 ct,Chelsea Star,Baking,Flour,1 ct,3.23,2.46
+P00632,Mancino Juice 12 pack,Mancino,Beverages,Juice,12 pack,5.04,3.79
+P00633,Gotham Coffee 8 oz,Gotham,Beverages,Coffee,8 oz,3.88,2.33
+P00634,GreenLeaf Cakes 6 pack,GreenLeaf,Bakery,Cakes,6 pack,4.25,2.46
+P00635,Mancino Bagels 12 pack,Mancino,Bakery,Bagels,12 pack,3.93,2.68
+P00636,Harbor View Dog Food 6 pack,Harbor View,Pet Food,Dog Food,6 pack,6.94,5.44
+P00637,Rivertown Cheese 1 lb,Rivertown,Dairy & Eggs,Cheese,1 lb,4.2,2.64
+P00638,Hudson Valley Cereal 1 ct,Hudson Valley,Breakfast & Cereal,Cereal,1 ct,4.41,2.98
+P00639,Nolita Fresh Tea 8 oz,Nolita Fresh,Beverages,Tea,8 oz,3.77,2.5
+P00640,Harbor View Dog Food 16 oz,Harbor View,Pet Food,Dog Food,16 oz,7.63,5.18
+P00641,Harbor View Dog Food 6 pack,Harbor View,Pet Food,Dog Food,6 pack,11.8,6.9
+P00642,Mancino Baking Mix 8 oz,Mancino,Baking,Baking Mix,8 oz,3.38,1.88
+P00643,GreenLeaf Cereal 32 oz,GreenLeaf,Breakfast & Cereal,Cereal,32 oz,5.94,3.57
+P00644,NoHo Co Eggs 6 pack,NoHo Co,Dairy & Eggs,Eggs,6 pack,2.7,1.94
+P00645,NoHo Co Dog Food 6 pack,NoHo Co,Pet Food,Dog Food,6 pack,5.99,4.59
+P00646,Hudson Valley Oatmeal 1 lb,Hudson Valley,Breakfast & Cereal,Oatmeal,1 lb,7.26,4.31
+P00647,Village Choice Yeast 32 oz,Village Choice,Baking,Yeast,32 oz,4.35,3.42
+P00648,Mancino Chicken 1 lb,Mancino,Meat and Seafood,Chicken,1 lb,10.19,7.35
+P00649,Chelsea Star Bowls 24 oz,Chelsea Star,Prepared Meals,Bowls,24 oz,14.59,11.19
+P00650,Harbor View Yeast 12 pack,Harbor View,Baking,Yeast,12 pack,3.45,2.39
+P00651,Harbor View Chocolate 12 oz,Harbor View,Candy,Chocolate,12 oz,3.3,1.99
+P00652,Parkside Sugar 1 lb,Parkside,Baking,Sugar,1 lb,4.71,3.37
+P00653,Mancino Dog Food 32 oz,Mancino,Pet Food,Dog Food,32 oz,10.53,6.07
+P00654,Parkside Mustard 32 oz,Parkside,Condiments/Sauces/Spices,Mustard,32 oz,2.63,1.88
+P00655,Chelsea Star Hard Candy 1 ct,Chelsea Star,Candy,Hard Candy,1 ct,2.46,1.89
+P00656,Village Choice Wine 1 lb,Village Choice,Alcohol,Wine,1 lb,13.03,9.72
+P00657,Mancino Chicken 12 oz,Mancino,Meat and Seafood,Chicken,12 oz,13.47,10.37
+P00658,Empire Yogurt 2 lb,Empire,Dairy & Eggs,Yogurt,2 lb,3.92,2.55
+P00659,Nolita Fresh Quinoa 12 oz,Nolita Fresh,Grains and Pasta,Quinoa,12 oz,3.37,2.53
+P00660,GreenLeaf Quinoa 1 ct,GreenLeaf,Grains and Pasta,Quinoa,1 ct,1.84,1.36
+P00661,Empire Juice 6 pack,Empire,Beverages,Juice,6 pack,2.78,2.1
+P00662,Nolita Fresh Yeast 1 ct,Nolita Fresh,Baking,Yeast,1 ct,4.94,2.87
+P00663,Nolita Fresh Mints 12 pack,Nolita Fresh,Candy,Mints,12 pack,2.39,1.51
+P00664,NoHo Co Cat Food 24 oz,NoHo Co,Pet Food,Cat Food,24 oz,7.03,4.51
+P00665,Village Choice Wraps 1 ct,Village Choice,Prepared Meals,Wraps,1 ct,11.92,7.71
+P00666,NoHo Co Chips 6 pack,NoHo Co,Snacks/Cookies/Chips,Chips,6 pack,2.43,1.61
+P00667,GreenLeaf Prepared 12 oz,GreenLeaf,Deli,Prepared,12 oz,5.11,3.1
+P00668,Hudson Valley Treats 8 oz,Hudson Valley,Pet Food,Treats,8 oz,5.03,2.86
+P00669,NoHo Co Nuts 24 oz,NoHo Co,Snacks/Cookies/Chips,Nuts,24 oz,4.52,3.19
+P00670,Empire Veggies 1 lb,Empire,Frozen Foods,Veggies,1 lb,8.37,5.57
+P00671,Parkside Nuts 12 oz,Parkside,Snacks/Cookies/Chips,Nuts,12 oz,3.83,2.6
+P00672,Nolita Fresh Rice 1 ct,Nolita Fresh,Grains and Pasta,Rice,1 ct,2.31,1.55
+P00673,NoHo Co Milk 6 pack,NoHo Co,Dairy & Eggs,Milk,6 pack,2.47,1.72
+P00674,Parkside Salads 16 oz,Parkside,Prepared Meals,Salads,16 oz,5.3,3.62
+P00675,Parkside Cheese 1 ct,Parkside,Deli,Cheese,1 ct,8.48,6.39
+P00676,Parkside Spirits 32 oz,Parkside,Alcohol,Spirits,32 oz,13.82,10.08
+P00677,Harbor View Beef 32 oz,Harbor View,Meat and Seafood,Beef,32 oz,10.88,6.65
+P00678,Nolita Fresh Chips 24 oz,Nolita Fresh,Snacks/Cookies/Chips,Chips,24 oz,3.22,2.52
+P00679,Mancino Pizza 2 lb,Mancino,Frozen Foods,Pizza,2 lb,5.38,3.61
+P00680,NoHo Co Chocolate 8 oz,NoHo Co,Candy,Chocolate,8 oz,2.33,1.43
+P00681,Parkside Dog Food 8 oz,Parkside,Pet Food,Dog Food,8 oz,5.47,4.11
+P00682,Empire Bars 16 oz,Empire,Breakfast & Cereal,Bars,16 oz,3.42,2.34
+P00683,GreenLeaf Soups 2 lb,GreenLeaf,Prepared Meals,Soups,2 lb,10.06,7.33
+P00684,Harbor View Butter 12 oz,Harbor View,Dairy & Eggs,Butter,12 oz,2.36,1.46
+P00685,Village Choice Rice 1 lb,Village Choice,Grains and Pasta,Rice,1 lb,1.96,1.17
+P00686,NoHo Co Bagels 2 lb,NoHo Co,Bakery,Bagels,2 lb,3.78,2.72
+P00687,Nolita Fresh Cold Cuts 24 oz,Nolita Fresh,Deli,Cold Cuts,24 oz,6.16,4.48
+P00688,Mancino Chips 32 oz,Mancino,Snacks/Cookies/Chips,Chips,32 oz,2.15,1.24
+P00689,Harbor View Eggs 12 pack,Harbor View,Dairy & Eggs,Eggs,12 pack,2.35,1.86
+P00690,Gotham Mustard 6 pack,Gotham,Condiments/Sauces/Spices,Mustard,6 pack,3.91,2.62
+P00691,Rivertown Gummies 24 oz,Rivertown,Candy,Gummies,24 oz,2.64,1.48
+P00692,Hudson Valley Treats 8 oz,Hudson Valley,Pet Food,Treats,8 oz,9.84,6.97
+P00693,Chelsea Star Soups 8 oz,Chelsea Star,Prepared Meals,Soups,8 oz,8.25,6.23
+P00694,Hudson Valley Juice 12 oz,Hudson Valley,Beverages,Juice,12 oz,3.44,2.65
+P00695,Parkside Pizza 1 ct,Parkside,Frozen Foods,Pizza,1 ct,5.45,3.83
+P00696,Gotham Pasta 8 oz,Gotham,Grains and Pasta,Pasta,8 oz,2.12,1.38
+P00697,Gotham Soy Sauce 12 pack,Gotham,Condiments/Sauces/Spices,Soy Sauce,12 pack,2.56,1.91
+P00698,Empire Soda 12 pack,Empire,Beverages,Soda,12 pack,2.52,1.56
+P00699,Nolita Fresh Oatmeal 1 ct,Nolita Fresh,Breakfast & Cereal,Oatmeal,1 ct,4.18,3.0
+P00700,Gotham Hard Candy 32 oz,Gotham,Candy,Hard Candy,32 oz,3.42,1.96
+P00701,Village Choice Dog Food 12 pack,Village Choice,Pet Food,Dog Food,12 pack,5.68,3.96
+P00702,Rivertown Energy Drinks 32 oz,Rivertown,Beverages,Energy Drinks,32 oz,5.13,3.04
+P00703,Chelsea Star Spirits 16 oz,Chelsea Star,Alcohol,Spirits,16 oz,14.06,8.49
+P00704,NoHo Co Noodles 6 pack,NoHo Co,Grains and Pasta,Noodles,6 pack,2.77,1.59
+P00705,Village Choice Wine 2 lb,Village Choice,Alcohol,Wine,2 lb,12.13,8.51
+P00706,Nolita Fresh Bowls 2 lb,Nolita Fresh,Prepared Meals,Bowls,2 lb,7.71,5.29
+P00707,Rivertown Mustard 2 lb,Rivertown,Condiments/Sauces/Spices,Mustard,2 lb,3.04,2.12
+P00708,Gotham Yeast 24 oz,Gotham,Baking,Yeast,24 oz,2.49,1.68
+P00709,Parkside Oatmeal 8 oz,Parkside,Breakfast & Cereal,Oatmeal,8 oz,3.68,2.42
+P00710,Harbor View Cheese 12 pack,Harbor View,Deli,Cheese,12 pack,9.04,6.59
+P00711,Harbor View Cold Cuts 24 oz,Harbor View,Deli,Cold Cuts,24 oz,6.92,4.28
+P00712,GreenLeaf Oatmeal 12 oz,GreenLeaf,Breakfast & Cereal,Oatmeal,12 oz,6.76,3.85
+P00713,GreenLeaf Cat Food 12 oz,GreenLeaf,Pet Food,Cat Food,12 oz,6.05,3.67
+P00714,Gotham Prepared 8 oz,Gotham,Deli,Prepared,8 oz,4.66,2.98
+P00715,Village Choice Bars 1 ct,Village Choice,Breakfast & Cereal,Bars,1 ct,4.54,2.57
+P00716,Hudson Valley Pizza 24 oz,Hudson Valley,Frozen Foods,Pizza,24 oz,5.36,4.02
+P00717,Parkside Wraps 24 oz,Parkside,Prepared Meals,Wraps,24 oz,8.48,6.53
+P00718,Rivertown Cookies 8 oz,Rivertown,Snacks/Cookies/Chips,Cookies,8 oz,2.03,1.45
+P00719,Nolita Fresh Juice 12 oz,Nolita Fresh,Beverages,Juice,12 oz,1.82,1.15
+P00720,Gotham Fish 1 ct,Gotham,Meat and Seafood,Fish,1 ct,9.88,7.09
+P00721,Harbor View Chicken 24 oz,Harbor View,Meat and Seafood,Chicken,24 oz,13.67,9.11
+P00722,Rivertown Cheese 2 lb,Rivertown,Deli,Cheese,2 lb,6.66,3.76
+P00723,Village Choice Eggs 1 lb,Village Choice,Dairy & Eggs,Eggs,1 lb,4.02,2.39
+P00724,GreenLeaf Granola 12 pack,GreenLeaf,Breakfast & Cereal,Granola,12 pack,4.59,3.32
+P00725,Parkside Cat Food 12 oz,Parkside,Pet Food,Cat Food,12 oz,7.3,4.19
+P00726,GreenLeaf Soups 24 oz,GreenLeaf,Prepared Meals,Soups,24 oz,5.62,3.72
+P00727,Harbor View Hard Candy 8 oz,Harbor View,Candy,Hard Candy,8 oz,2.08,1.49
+P00728,Nolita Fresh Veggies 16 oz,Nolita Fresh,Frozen Foods,Veggies,16 oz,8.85,6.63
+P00729,NoHo Co Wine 1 ct,NoHo Co,Alcohol,Wine,1 ct,9.13,7.29
+P00730,Rivertown Meals 16 oz,Rivertown,Frozen Foods,Meals,16 oz,6.01,4.7
+P00731,Gotham Water 2 lb,Gotham,Beverages,Water,2 lb,4.06,2.76
+P00732,Parkside Veggies 12 pack,Parkside,Frozen Foods,Veggies,12 pack,6.73,4.75
+P00733,Rivertown Quinoa 6 pack,Rivertown,Grains and Pasta,Quinoa,6 pack,2.62,1.52
+P00734,Parkside Fish 16 oz,Parkside,Meat and Seafood,Fish,16 oz,8.33,6.3
+P00735,Empire Pork 16 oz,Empire,Meat and Seafood,Pork,16 oz,10.74,6.0
+P00736,Parkside Shrimp 16 oz,Parkside,Meat and Seafood,Shrimp,16 oz,11.43,7.15
+P00737,Village Choice Treats 8 oz,Village Choice,Pet Food,Treats,8 oz,5.75,3.29
+P00738,Hudson Valley Cold Cuts 8 oz,Hudson Valley,Deli,Cold Cuts,8 oz,4.3,3.37
+P00739,Harbor View Salads 16 oz,Harbor View,Prepared Meals,Salads,16 oz,5.06,3.29
+P00740,Hudson Valley Crackers 16 oz,Hudson Valley,Snacks/Cookies/Chips,Crackers,16 oz,3.41,2.26
+P00741,NoHo Co Beer 6 pack,NoHo Co,Alcohol,Beer,6 pack,13.22,10.31
+P00742,Chelsea Star Chocolate 1 ct,Chelsea Star,Candy,Chocolate,1 ct,4.66,3.14
+P00743,Village Choice Cat Food 6 pack,Village Choice,Pet Food,Cat Food,6 pack,7.14,4.61
+P00744,NoHo Co Beer 12 pack,NoHo Co,Alcohol,Beer,12 pack,11.71,9.01
+P00745,Mancino Ketchup 12 pack,Mancino,Condiments/Sauces/Spices,Ketchup,12 pack,3.74,2.8
+P00746,NoHo Co Pork 32 oz,NoHo Co,Meat and Seafood,Pork,32 oz,9.75,6.11
+P00747,Nolita Fresh Spirits 2 lb,Nolita Fresh,Alcohol,Spirits,2 lb,11.49,6.82
+P00748,Hudson Valley Wraps 12 oz,Hudson Valley,Prepared Meals,Wraps,12 oz,6.62,4.79
+P00749,Gotham Cold Cuts 24 oz,Gotham,Deli,Cold Cuts,24 oz,6.04,4.29
+P00750,GreenLeaf Ice Cream 32 oz,GreenLeaf,Frozen Foods,Ice Cream,32 oz,6.49,4.9
+P00751,Hudson Valley Soups 1 lb,Hudson Valley,Prepared Meals,Soups,1 lb,7.95,5.58
+P00752,Chelsea Star Soy Sauce 24 oz,Chelsea Star,Condiments/Sauces/Spices,Soy Sauce,24 oz,4.29,3.18
+P00753,Rivertown Chicken 12 oz,Rivertown,Meat and Seafood,Chicken,12 oz,9.02,5.86
+P00754,Hudson Valley Pasta 2 lb,Hudson Valley,Grains and Pasta,Pasta,2 lb,1.8,1.06
+P00755,NoHo Co Soy Sauce 6 pack,NoHo Co,Condiments/Sauces/Spices,Soy Sauce,6 pack,3.01,1.67
+P00756,Mancino Spirits 16 oz,Mancino,Alcohol,Spirits,16 oz,11.45,6.68
+P00757,Harbor View Cakes 1 lb,Harbor View,Bakery,Cakes,1 lb,4.06,3.21
+P00758,NoHo Co Pizza 8 oz,NoHo Co,Frozen Foods,Pizza,8 oz,7.42,4.88
+P00759,Nolita Fresh Juice 1 ct,Nolita Fresh,Beverages,Juice,1 ct,3.05,2.01
+P00760,Mancino Yogurt 12 oz,Mancino,Dairy & Eggs,Yogurt,12 oz,2.14,1.23
+P00761,NoHo Co Quinoa 1 ct,NoHo Co,Grains and Pasta,Quinoa,1 ct,1.85,1.3
+P00762,Empire Pasta 1 lb,Empire,Grains and Pasta,Pasta,1 lb,2.9,2.07
+P00763,Chelsea Star Beer 16 oz,Chelsea Star,Alcohol,Beer,16 oz,11.38,6.42
+P00764,Hudson Valley Soups 32 oz,Hudson Valley,Prepared Meals,Soups,32 oz,11.61,9.27
+P00765,Chelsea Star Sugar 2 lb,Chelsea Star,Baking,Sugar,2 lb,3.63,2.89
+P00766,Harbor View Quinoa 16 oz,Harbor View,Grains and Pasta,Quinoa,16 oz,2.3,1.4
+P00767,NoHo Co Salads 1 lb,NoHo Co,Prepared Meals,Salads,1 lb,6.86,4.96
+P00768,Harbor View Beer 24 oz,Harbor View,Alcohol,Beer,24 oz,11.13,6.29
+P00769,GreenLeaf Chips 1 ct,GreenLeaf,Snacks/Cookies/Chips,Chips,1 ct,3.12,2.35
+P00770,GreenLeaf Soups 8 oz,GreenLeaf,Prepared Meals,Soups,8 oz,8.01,5.64
+P00771,Parkside Quinoa 6 pack,Parkside,Grains and Pasta,Quinoa,6 pack,3.17,2.16
+P00772,NoHo Co Water 2 lb,NoHo Co,Beverages,Water,2 lb,2.07,1.36
+P00773,Village Choice Mustard 1 ct,Village Choice,Condiments/Sauces/Spices,Mustard,1 ct,2.49,1.6
+P00774,Hudson Valley Noodles 1 ct,Hudson Valley,Grains and Pasta,Noodles,1 ct,2.36,1.54
+P00775,Nolita Fresh Oatmeal 12 oz,Nolita Fresh,Breakfast & Cereal,Oatmeal,12 oz,5.15,3.82
+P00776,Empire Pastries 2 lb,Empire,Bakery,Pastries,2 lb,4.84,2.68
+P00777,Nolita Fresh Chicken 2 lb,Nolita Fresh,Meat and Seafood,Chicken,2 lb,7.79,4.32
+P00778,Hudson Valley Hard Candy 12 oz,Hudson Valley,Candy,Hard Candy,12 oz,1.31,0.81
+P00779,Parkside Wine 1 lb,Parkside,Alcohol,Wine,1 lb,10.47,7.16
+P00780,Hudson Valley Bowls 16 oz,Hudson Valley,Prepared Meals,Bowls,16 oz,8.82,5.33
+P00781,Harbor View Bagels 6 pack,Harbor View,Bakery,Bagels,6 pack,3.98,2.3
+P00782,NoHo Co Prepared 2 lb,NoHo Co,Deli,Prepared,2 lb,6.94,4.77
+P00783,Hudson Valley Bread 1 lb,Hudson Valley,Bakery,Bread,1 lb,5.39,3.1
+P00784,Chelsea Star Cold Cuts 1 ct,Chelsea Star,Deli,Cold Cuts,1 ct,5.77,3.88
+P00785,Harbor View Bowls 8 oz,Harbor View,Prepared Meals,Bowls,8 oz,7.16,5.26
+P00786,Harbor View Bars 12 oz,Harbor View,Breakfast & Cereal,Bars,12 oz,3.61,2.42
+P00787,Gotham Shrimp 1 ct,Gotham,Meat and Seafood,Shrimp,1 ct,6.39,4.25
+P00788,Village Choice Cold Cuts 2 lb,Village Choice,Deli,Cold Cuts,2 lb,4.01,2.99
+P00789,Rivertown Sugar 32 oz,Rivertown,Baking,Sugar,32 oz,2.96,2.14
+P00790,Empire Bars 12 oz,Empire,Breakfast & Cereal,Bars,12 oz,5.84,3.85
+P00791,Rivertown Yeast 2 lb,Rivertown,Baking,Yeast,2 lb,4.15,2.32
+P00792,Hudson Valley Bars 1 lb,Hudson Valley,Breakfast & Cereal,Bars,1 lb,3.98,3.09
+P00793,Nolita Fresh Oatmeal 6 pack,Nolita Fresh,Breakfast & Cereal,Oatmeal,6 pack,7.72,5.52
+P00794,Parkside Veggies 12 oz,Parkside,Frozen Foods,Veggies,12 oz,5.59,4.33
+P00795,Mancino Baking Mix 2 lb,Mancino,Baking,Baking Mix,2 lb,4.85,2.75
+P00796,GreenLeaf Mints 6 pack,GreenLeaf,Candy,Mints,6 pack,3.69,2.51
+P00797,Village Choice Mints 1 ct,Village Choice,Candy,Mints,1 ct,2.8,1.9
+P00798,GreenLeaf Baking Mix 1 ct,GreenLeaf,Baking,Baking Mix,1 ct,2.95,2.12
+P00799,Parkside Chicken 1 lb,Parkside,Meat and Seafood,Chicken,1 lb,8.21,4.66
+P00800,GreenLeaf Yeast 32 oz,GreenLeaf,Baking,Yeast,32 oz,3.67,2.03
+P00801,Chelsea Star Fish 24 oz,Chelsea Star,Meat and Seafood,Fish,24 oz,6.43,4.1
+P00802,Rivertown Mints 2 lb,Rivertown,Candy,Mints,2 lb,1.96,1.46
+P00803,Chelsea Star Chocolate 24 oz,Chelsea Star,Candy,Chocolate,24 oz,1.92,1.14
+P00804,Village Choice Veggies 12 pack,Village Choice,Frozen Foods,Veggies,12 pack,7.43,4.27
+P00805,Parkside Spirits 24 oz,Parkside,Alcohol,Spirits,24 oz,16.14,9.95
+P00806,Nolita Fresh Yogurt 12 oz,Nolita Fresh,Dairy & Eggs,Yogurt,12 oz,4.19,2.33
+P00807,Village Choice Popcorn 6 pack,Village Choice,Snacks/Cookies/Chips,Popcorn,6 pack,3.85,2.72
+P00808,Gotham Baking Mix 32 oz,Gotham,Baking,Baking Mix,32 oz,2.9,1.87
+P00809,Nolita Fresh Rice 2 lb,Nolita Fresh,Grains and Pasta,Rice,2 lb,2.31,1.63
+P00810,Hudson Valley Soups 6 pack,Hudson Valley,Prepared Meals,Soups,6 pack,7.51,5.58
+P00811,Chelsea Star Meals 2 lb,Chelsea Star,Frozen Foods,Meals,2 lb,7.28,4.08
+P00812,Nolita Fresh Prepared 2 lb,Nolita Fresh,Deli,Prepared,2 lb,10.31,8.17
+P00813,GreenLeaf Cold Cuts 12 pack,GreenLeaf,Deli,Cold Cuts,12 pack,5.11,4.06
+P00814,Hudson Valley Pizza 24 oz,Hudson Valley,Frozen Foods,Pizza,24 oz,8.2,5.74
+P00815,Empire Quinoa 1 ct,Empire,Grains and Pasta,Quinoa,1 ct,3.66,2.76
+P00816,Village Choice Spirits 2 lb,Village Choice,Alcohol,Spirits,2 lb,13.62,9.73
+P00817,Harbor View Bowls 12 oz,Harbor View,Prepared Meals,Bowls,12 oz,7.3,5.71
+P00818,Rivertown Beer 24 oz,Rivertown,Alcohol,Beer,24 oz,9.73,5.9
+P00819,NoHo Co Prepared 12 pack,NoHo Co,Deli,Prepared,12 pack,4.62,3.05
+P00820,Parkside Veggies 1 lb,Parkside,Frozen Foods,Veggies,1 lb,3.98,2.8
+P00821,Village Choice Soy Sauce 1 ct,Village Choice,Condiments/Sauces/Spices,Soy Sauce,1 ct,3.31,2.55
+P00822,Empire Shrimp 1 lb,Empire,Meat and Seafood,Shrimp,1 lb,8.4,5.98
+P00823,Hudson Valley Wine 32 oz,Hudson Valley,Alcohol,Wine,32 oz,14.88,11.39
+P00824,Hudson Valley Ketchup 16 oz,Hudson Valley,Condiments/Sauces/Spices,Ketchup,16 oz,3.03,2.31
+P00825,GreenLeaf Hard Candy 6 pack,GreenLeaf,Candy,Hard Candy,6 pack,2.4,1.77
+P00826,NoHo Co Wraps 6 pack,NoHo Co,Prepared Meals,Wraps,6 pack,8.59,5.71
+P00827,Hudson Valley Mints 6 pack,Hudson Valley,Candy,Mints,6 pack,2.83,2.11
+P00828,GreenLeaf Fish 12 oz,GreenLeaf,Meat and Seafood,Fish,12 oz,10.82,7.73
+P00829,Nolita Fresh Cereal 12 oz,Nolita Fresh,Breakfast & Cereal,Cereal,12 oz,4.71,3.75
+P00830,Village Choice Wine 12 oz,Village Choice,Alcohol,Wine,12 oz,8.68,6.81
+P00831,Nolita Fresh Rice 24 oz,Nolita Fresh,Grains and Pasta,Rice,24 oz,2.76,2.08
+P00832,NoHo Co Cold Cuts 16 oz,NoHo Co,Deli,Cold Cuts,16 oz,5.1,3.08
+P00833,Parkside Mints 24 oz,Parkside,Candy,Mints,24 oz,3.41,2.5
+P00834,Village Choice Soups 16 oz,Village Choice,Prepared Meals,Soups,16 oz,8.04,5.51
+P00835,Harbor View Yeast 8 oz,Harbor View,Baking,Yeast,8 oz,3.72,2.32
+P00836,Gotham Shrimp 6 pack,Gotham,Meat and Seafood,Shrimp,6 pack,17.25,11.92
+P00837,Harbor View Meals 8 oz,Harbor View,Frozen Foods,Meals,8 oz,7.85,5.57
+P00838,Gotham Chicken 32 oz,Gotham,Meat and Seafood,Chicken,32 oz,9.9,7.33
+P00839,Chelsea Star Salads 12 oz,Chelsea Star,Prepared Meals,Salads,12 oz,7.73,4.27
+P00840,GreenLeaf Wraps 1 lb,GreenLeaf,Prepared Meals,Wraps,1 lb,5.89,3.6
+P00841,Hudson Valley Energy Drinks 32 oz,Hudson Valley,Beverages,Energy Drinks,32 oz,2.85,2.14
+P00842,NoHo Co Noodles 1 lb,NoHo Co,Grains and Pasta,Noodles,1 lb,2.02,1.21
+P00843,Chelsea Star Meals 2 lb,Chelsea Star,Frozen Foods,Meals,2 lb,9.87,6.95
+P00844,GreenLeaf Pizza 1 lb,GreenLeaf,Frozen Foods,Pizza,1 lb,7.17,4.28
+P00845,Chelsea Star Popcorn 16 oz,Chelsea Star,Snacks/Cookies/Chips,Popcorn,16 oz,4.05,2.79
+P00846,Chelsea Star Cookies 1 ct,Chelsea Star,Snacks/Cookies/Chips,Cookies,1 ct,2.58,1.42
+P00847,GreenLeaf Bagels 12 oz,GreenLeaf,Bakery,Bagels,12 oz,3.29,2.6
+P00848,Hudson Valley Water 16 oz,Hudson Valley,Beverages,Water,16 oz,3.53,2.27
+P00849,NoHo Co Gummies 2 lb,NoHo Co,Candy,Gummies,2 lb,2.0,1.25
+P00850,Empire Spices 1 ct,Empire,Condiments/Sauces/Spices,Spices,1 ct,3.14,2.42
+P00851,Empire Soy Sauce 6 pack,Empire,Condiments/Sauces/Spices,Soy Sauce,6 pack,5.39,4.16
+P00852,NoHo Co Rice 16 oz,NoHo Co,Grains and Pasta,Rice,16 oz,2.26,1.58
+P00853,Empire Yogurt 16 oz,Empire,Dairy & Eggs,Yogurt,16 oz,2.46,1.78
+P00854,Chelsea Star Mints 8 oz,Chelsea Star,Candy,Mints,8 oz,1.61,0.89
+P00855,Mancino Cookies 6 pack,Mancino,Snacks/Cookies/Chips,Cookies,6 pack,2.05,1.53
+P00856,Harbor View Sugar 12 pack,Harbor View,Baking,Sugar,12 pack,4.8,2.75
+P00857,Parkside Prepared 2 lb,Parkside,Deli,Prepared,2 lb,5.23,3.72
+P00858,Harbor View Noodles 6 pack,Harbor View,Grains and Pasta,Noodles,6 pack,4.74,2.68
+P00859,Hudson Valley Cheese 1 ct,Hudson Valley,Dairy & Eggs,Cheese,1 ct,5.15,3.55
+P00860,Rivertown Beer 8 oz,Rivertown,Alcohol,Beer,8 oz,19.81,13.88
+P00861,NoHo Co Oatmeal 32 oz,NoHo Co,Breakfast & Cereal,Oatmeal,32 oz,5.81,3.59
+P00862,Chelsea Star Yeast 6 pack,Chelsea Star,Baking,Yeast,6 pack,4.06,3.07
+P00863,Hudson Valley Prepared 1 ct,Hudson Valley,Deli,Prepared,1 ct,4.89,2.76
+P00864,NoHo Co Pastries 1 lb,NoHo Co,Bakery,Pastries,1 lb,4.0,2.53
+P00865,Nolita Fresh Cold Cuts 6 pack,Nolita Fresh,Deli,Cold Cuts,6 pack,7.14,5.33
+P00866,Harbor View Cold Cuts 12 oz,Harbor View,Deli,Cold Cuts,12 oz,7.62,5.18
+P00867,Rivertown Chicken 8 oz,Rivertown,Meat and Seafood,Chicken,8 oz,6.77,4.28
+P00868,GreenLeaf Yogurt 12 oz,GreenLeaf,Dairy & Eggs,Yogurt,12 oz,3.33,2.19
+P00869,Gotham Milk 24 oz,Gotham,Dairy & Eggs,Milk,24 oz,3.43,2.4
+P00870,Nolita Fresh Bowls 1 ct,Nolita Fresh,Prepared Meals,Bowls,1 ct,7.76,5.7
+P00871,Empire Noodles 1 ct,Empire,Grains and Pasta,Noodles,1 ct,1.94,1.38
+P00872,Gotham Sugar 8 oz,Gotham,Baking,Sugar,8 oz,5.56,4.15
+P00873,NoHo Co Ice Cream 32 oz,NoHo Co,Frozen Foods,Ice Cream,32 oz,6.14,4.67
+P00874,GreenLeaf Veggies 32 oz,GreenLeaf,Frozen Foods,Veggies,32 oz,5.11,3.3
+P00875,NoHo Co Granola 12 oz,NoHo Co,Breakfast & Cereal,Granola,12 oz,7.21,4.3
+P00876,Mancino Yeast 32 oz,Mancino,Baking,Yeast,32 oz,5.15,3.3
+P00877,Nolita Fresh Crackers 16 oz,Nolita Fresh,Snacks/Cookies/Chips,Crackers,16 oz,3.11,1.94
+P00878,Nolita Fresh Juice 1 lb,Nolita Fresh,Beverages,Juice,1 lb,1.93,1.52
+P00879,Village Choice Crackers 2 lb,Village Choice,Snacks/Cookies/Chips,Crackers,2 lb,2.67,2.05
+P00880,Chelsea Star Cheese 32 oz,Chelsea Star,Dairy & Eggs,Cheese,32 oz,2.35,1.79
+P00881,Harbor View Noodles 6 pack,Harbor View,Grains and Pasta,Noodles,6 pack,2.84,1.89
+P00882,Harbor View Bread 12 pack,Harbor View,Bakery,Bread,12 pack,3.5,2.35
+P00883,Nolita Fresh Pork 1 lb,Nolita Fresh,Meat and Seafood,Pork,1 lb,8.94,5.89
+P00884,GreenLeaf Butter 1 ct,GreenLeaf,Dairy & Eggs,Butter,1 ct,5.45,3.99
+P00885,Hudson Valley Spirits 6 pack,Hudson Valley,Alcohol,Spirits,6 pack,10.32,7.25
+P00886,Hudson Valley Quinoa 12 pack,Hudson Valley,Grains and Pasta,Quinoa,12 pack,2.81,1.64
+P00887,Harbor View Mustard 24 oz,Harbor View,Condiments/Sauces/Spices,Mustard,24 oz,4.24,3.35
+P00888,GreenLeaf Yogurt 32 oz,GreenLeaf,Dairy & Eggs,Yogurt,32 oz,4.76,2.7
+P00889,Chelsea Star Gummies 6 pack,Chelsea Star,Candy,Gummies,6 pack,2.44,1.5
+P00890,Village Choice Bowls 8 oz,Village Choice,Prepared Meals,Bowls,8 oz,7.6,4.65
+P00891,Village Choice Beer 6 pack,Village Choice,Alcohol,Beer,6 pack,11.34,7.01
+P00892,Empire Beer 6 pack,Empire,Alcohol,Beer,6 pack,13.15,9.73
+P00893,Harbor View Milk 24 oz,Harbor View,Dairy & Eggs,Milk,24 oz,5.08,2.88
+P00894,Village Choice Chicken 32 oz,Village Choice,Meat and Seafood,Chicken,32 oz,8.41,5.65
+P00895,Hudson Valley Baking Mix 1 lb,Hudson Valley,Baking,Baking Mix,1 lb,1.91,1.22
+P00896,GreenLeaf Cereal 16 oz,GreenLeaf,Breakfast & Cereal,Cereal,16 oz,5.61,4.35
+P00897,Village Choice Wine 32 oz,Village Choice,Alcohol,Wine,32 oz,12.2,9.57
+P00898,Harbor View Chicken 12 oz,Harbor View,Meat and Seafood,Chicken,12 oz,10.24,5.77
+P00899,Mancino Beef 24 oz,Mancino,Meat and Seafood,Beef,24 oz,6.09,4.46
+P00900,Empire Milk 1 ct,Empire,Dairy & Eggs,Milk,1 ct,3.07,2.44
+P00901,Village Choice Tea 6 pack,Village Choice,Beverages,Tea,6 pack,3.66,2.19
+P00902,Nolita Fresh Beer 1 lb,Nolita Fresh,Alcohol,Beer,1 lb,8.77,6.06
+P00903,Harbor View Chips 16 oz,Harbor View,Snacks/Cookies/Chips,Chips,16 oz,3.37,2.37
+P00904,Gotham Milk 2 lb,Gotham,Dairy & Eggs,Milk,2 lb,3.47,2.21
+P00905,Hudson Valley Bread 1 lb,Hudson Valley,Bakery,Bread,1 lb,3.33,2.54
+P00906,Empire Hard Candy 2 lb,Empire,Candy,Hard Candy,2 lb,2.04,1.41
+P00907,Village Choice Wraps 16 oz,Village Choice,Prepared Meals,Wraps,16 oz,6.21,4.75
+P00908,Chelsea Star Bread 16 oz,Chelsea Star,Bakery,Bread,16 oz,4.06,2.97
+P00909,Nolita Fresh Yogurt 24 oz,Nolita Fresh,Dairy & Eggs,Yogurt,24 oz,3.66,2.51
+P00910,Harbor View Rice 1 ct,Harbor View,Grains and Pasta,Rice,1 ct,2.28,1.3
+P00911,Gotham Noodles 12 oz,Gotham,Grains and Pasta,Noodles,12 oz,1.91,1.13
+P00912,Empire Dog Food 12 oz,Empire,Pet Food,Dog Food,12 oz,3.37,2.65
+P00913,GreenLeaf Meals 2 lb,GreenLeaf,Frozen Foods,Meals,2 lb,7.25,4.83
+P00914,Gotham Gummies 32 oz,Gotham,Candy,Gummies,32 oz,3.13,2.04
+P00915,Gotham Pasta 12 pack,Gotham,Grains and Pasta,Pasta,12 pack,2.92,1.65
+P00916,Nolita Fresh Ice Cream 8 oz,Nolita Fresh,Frozen Foods,Ice Cream,8 oz,10.87,7.37
+P00917,Gotham Cookies 12 pack,Gotham,Snacks/Cookies/Chips,Cookies,12 pack,2.87,1.62
+P00918,Nolita Fresh Veggies 2 lb,Nolita Fresh,Frozen Foods,Veggies,2 lb,9.17,6.85
+P00919,Gotham Cereal 6 pack,Gotham,Breakfast & Cereal,Cereal,6 pack,3.83,2.26
+P00920,Gotham Ketchup 6 pack,Gotham,Condiments/Sauces/Spices,Ketchup,6 pack,2.87,1.82
+P00921,NoHo Co Pasta 8 oz,NoHo Co,Grains and Pasta,Pasta,8 oz,2.58,1.55
+P00922,Empire Hard Candy 2 lb,Empire,Candy,Hard Candy,2 lb,3.75,2.89
+P00923,Harbor View Nuts 1 lb,Harbor View,Snacks/Cookies/Chips,Nuts,1 lb,2.79,2.22
+P00924,Empire Prepared 6 pack,Empire,Deli,Prepared,6 pack,4.06,3.02
+P00925,Mancino Salads 1 ct,Mancino,Prepared Meals,Salads,1 ct,9.98,6.83
+P00926,Rivertown Bread 24 oz,Rivertown,Bakery,Bread,24 oz,3.92,2.64
+P00927,Harbor View Beer 12 pack,Harbor View,Alcohol,Beer,12 pack,12.93,9.77
+P00928,Harbor View Bars 2 lb,Harbor View,Breakfast & Cereal,Bars,2 lb,3.73,2.41
+P00929,Rivertown Bagels 12 oz,Rivertown,Bakery,Bagels,12 oz,4.11,2.56
+P00930,NoHo Co Cereal 24 oz,NoHo Co,Breakfast & Cereal,Cereal,24 oz,3.14,2.35
+P00931,NoHo Co Wraps 1 lb,NoHo Co,Prepared Meals,Wraps,1 lb,12.78,9.58
+P00932,Village Choice Spices 12 oz,Village Choice,Condiments/Sauces/Spices,Spices,12 oz,4.58,2.97
+P00933,Nolita Fresh Bars 24 oz,Nolita Fresh,Breakfast & Cereal,Bars,24 oz,4.58,2.7
+P00934,Hudson Valley Beer 2 lb,Hudson Valley,Alcohol,Beer,2 lb,14.85,10.75
+P00935,Chelsea Star Cakes 1 ct,Chelsea Star,Bakery,Cakes,1 ct,3.41,2.61
+P00936,Village Choice Wine 16 oz,Village Choice,Alcohol,Wine,16 oz,15.52,12.05
+P00937,Nolita Fresh Bread 16 oz,Nolita Fresh,Bakery,Bread,16 oz,3.68,2.19
+P00938,Empire Beef 6 pack,Empire,Meat and Seafood,Beef,6 pack,8.14,6.3
+P00939,Empire Hard Candy 1 lb,Empire,Candy,Hard Candy,1 lb,1.97,1.3
+P00940,Nolita Fresh Baking Mix 12 oz,Nolita Fresh,Baking,Baking Mix,12 oz,3.89,2.74
+P00941,GreenLeaf Salads 2 lb,GreenLeaf,Prepared Meals,Salads,2 lb,8.05,6.37
+P00942,Rivertown Cereal 1 ct,Rivertown,Breakfast & Cereal,Cereal,1 ct,6.41,4.19
+P00943,Parkside Pasta 6 pack,Parkside,Grains and Pasta,Pasta,6 pack,1.92,1.48
+P00944,Mancino Cheese 6 pack,Mancino,Deli,Cheese,6 pack,6.68,4.39
+P00945,Empire Nuts 1 lb,Empire,Snacks/Cookies/Chips,Nuts,1 lb,4.04,2.95
+P00946,Hudson Valley Baking Mix 1 ct,Hudson Valley,Baking,Baking Mix,1 ct,6.69,5.17
+P00947,Gotham Pasta 12 pack,Gotham,Grains and Pasta,Pasta,12 pack,2.62,1.56
+P00948,Mancino Beer 24 oz,Mancino,Alcohol,Beer,24 oz,10.99,8.4
+P00949,GreenLeaf Wine 2 lb,GreenLeaf,Alcohol,Wine,2 lb,12.52,9.11
+P00950,Empire Dog Food 8 oz,Empire,Pet Food,Dog Food,8 oz,9.73,6.12
+P00951,Nolita Fresh Prepared 2 lb,Nolita Fresh,Deli,Prepared,2 lb,8.34,5.54
+P00952,Gotham Water 2 lb,Gotham,Beverages,Water,2 lb,2.91,1.86
+P00953,GreenLeaf Treats 32 oz,GreenLeaf,Pet Food,Treats,32 oz,9.68,6.14
+P00954,Chelsea Star Chips 1 lb,Chelsea Star,Snacks/Cookies/Chips,Chips,1 lb,2.98,1.77
+P00955,Empire Bread 24 oz,Empire,Bakery,Bread,24 oz,4.94,2.84
+P00956,Harbor View Salads 12 oz,Harbor View,Prepared Meals,Salads,12 oz,9.17,5.59
+P00957,Rivertown Cat Food 32 oz,Rivertown,Pet Food,Cat Food,32 oz,6.35,4.21
+P00958,NoHo Co Chocolate 6 pack,NoHo Co,Candy,Chocolate,6 pack,1.99,1.47
+P00959,Gotham Wine 32 oz,Gotham,Alcohol,Wine,32 oz,16.27,10.38
+P00960,Nolita Fresh Ice Cream 1 ct,Nolita Fresh,Frozen Foods,Ice Cream,1 ct,9.51,7.23
+P00961,GreenLeaf Energy Drinks 1 ct,GreenLeaf,Beverages,Energy Drinks,1 ct,3.32,2.35
+P00962,Nolita Fresh Cheese 12 pack,Nolita Fresh,Dairy & Eggs,Cheese,12 pack,3.48,2.02
+P00963,Empire Wraps 8 oz,Empire,Prepared Meals,Wraps,8 oz,5.96,4.3
+P00964,Mancino Cat Food 24 oz,Mancino,Pet Food,Cat Food,24 oz,9.42,5.35
+P00965,Village Choice Cheese 8 oz,Village Choice,Deli,Cheese,8 oz,6.44,3.91
+P00966,Village Choice Chocolate 2 lb,Village Choice,Candy,Chocolate,2 lb,2.34,1.78
+P00967,Hudson Valley Cookies 24 oz,Hudson Valley,Snacks/Cookies/Chips,Cookies,24 oz,3.73,2.7
+P00968,Harbor View Cold Cuts 6 pack,Harbor View,Deli,Cold Cuts,6 pack,4.29,2.91
+P00969,Nolita Fresh Beer 32 oz,Nolita Fresh,Alcohol,Beer,32 oz,9.34,5.21
+P00970,Gotham Bread 12 pack,Gotham,Bakery,Bread,12 pack,3.38,2.12
+P00971,Parkside Hot Sauce 12 oz,Parkside,Condiments/Sauces/Spices,Hot Sauce,12 oz,3.98,3.06
+P00972,NoHo Co Pizza 16 oz,NoHo Co,Frozen Foods,Pizza,16 oz,6.8,5.04
+P00973,Hudson Valley Noodles 1 ct,Hudson Valley,Grains and Pasta,Noodles,1 ct,2.93,1.8
+P00974,Harbor View Pizza 16 oz,Harbor View,Frozen Foods,Pizza,16 oz,8.58,6.66
+P00975,Rivertown Water 1 lb,Rivertown,Beverages,Water,1 lb,3.55,2.05
+P00976,Nolita Fresh Cat Food 1 lb,Nolita Fresh,Pet Food,Cat Food,1 lb,11.26,7.45
+P00977,Rivertown Mints 24 oz,Rivertown,Candy,Mints,24 oz,3.3,2.27
+P00978,Empire Bagels 1 ct,Empire,Bakery,Bagels,1 ct,3.88,2.5
+P00979,Hudson Valley Bagels 16 oz,Hudson Valley,Bakery,Bagels,16 oz,3.5,2.57
+P00980,GreenLeaf Butter 2 lb,GreenLeaf,Dairy & Eggs,Butter,2 lb,3.42,2.67
+P00981,Gotham Pastries 6 pack,Gotham,Bakery,Pastries,6 pack,4.78,2.98
+P00982,Rivertown Bars 12 oz,Rivertown,Breakfast & Cereal,Bars,12 oz,4.04,3.14
+P00983,Village Choice Bagels 32 oz,Village Choice,Bakery,Bagels,32 oz,4.81,2.67
+P00984,Mancino Nuts 24 oz,Mancino,Snacks/Cookies/Chips,Nuts,24 oz,3.5,2.77
+P00985,Empire Cookies 12 oz,Empire,Snacks/Cookies/Chips,Cookies,12 oz,2.37,1.79
+P00986,GreenLeaf Chicken 2 lb,GreenLeaf,Meat and Seafood,Chicken,2 lb,11.81,7.33
+P00987,Village Choice Cold Cuts 32 oz,Village Choice,Deli,Cold Cuts,32 oz,6.58,3.78
+P00988,Mancino Oatmeal 2 lb,Mancino,Breakfast & Cereal,Oatmeal,2 lb,7.13,4.35
+P00989,NoHo Co Popcorn 12 pack,NoHo Co,Snacks/Cookies/Chips,Popcorn,12 pack,2.99,1.87
+P00990,Parkside Soda 12 oz,Parkside,Beverages,Soda,12 oz,2.78,1.94
+P00991,Hudson Valley Wraps 8 oz,Hudson Valley,Prepared Meals,Wraps,8 oz,6.15,4.53
+P00992,Empire Beer 24 oz,Empire,Alcohol,Beer,24 oz,9.19,5.17
+P00993,GreenLeaf Popcorn 12 oz,GreenLeaf,Snacks/Cookies/Chips,Popcorn,12 oz,3.8,2.94
+P00994,Hudson Valley Ice Cream 8 oz,Hudson Valley,Frozen Foods,Ice Cream,8 oz,9.97,5.95
+P00995,Village Choice Bagels 6 pack,Village Choice,Bakery,Bagels,6 pack,3.9,2.92
+P00996,Hudson Valley Wraps 1 lb,Hudson Valley,Prepared Meals,Wraps,1 lb,7.67,4.28
+P00997,Parkside Bread 8 oz,Parkside,Bakery,Bread,8 oz,4.07,2.3
+P00998,Nolita Fresh Yeast 2 lb,Nolita Fresh,Baking,Yeast,2 lb,4.68,3.55
+P00999,Harbor View Milk 2 lb,Harbor View,Dairy & Eggs,Milk,2 lb,2.78,1.59
+P01000,Gotham Baking Mix 16 oz,Gotham,Baking,Baking Mix,16 oz,3.71,2.88
+P01001,Parkside Granola 16 oz,Parkside,Breakfast & Cereal,Granola,16 oz,5.74,4.42
+P01002,Chelsea Star Spirits 1 ct,Chelsea Star,Alcohol,Spirits,1 ct,13.6,9.42
+P01003,Rivertown Coffee 6 pack,Rivertown,Beverages,Coffee,6 pack,1.53,0.96
+P01004,Parkside Spices 8 oz,Parkside,Condiments/Sauces/Spices,Spices,8 oz,4.15,2.73
+P01005,Harbor View Pastries 16 oz,Harbor View,Bakery,Pastries,16 oz,4.55,3.52
+P01006,Village Choice Mustard 12 pack,Village Choice,Condiments/Sauces/Spices,Mustard,12 pack,4.93,3.26
+P01007,NoHo Co Coffee 8 oz,NoHo Co,Beverages,Coffee,8 oz,4.49,3.13
+P01008,Parkside Hot Sauce 12 pack,Parkside,Condiments/Sauces/Spices,Hot Sauce,12 pack,4.86,3.53
+P01009,GreenLeaf Soups 1 ct,GreenLeaf,Prepared Meals,Soups,1 ct,8.15,4.69
+P01010,Harbor View Cheese 32 oz,Harbor View,Deli,Cheese,32 oz,4.02,2.6
+P01011,GreenLeaf Flour 1 ct,GreenLeaf,Baking,Flour,1 ct,6.02,4.74
+P01012,Rivertown Soda 8 oz,Rivertown,Beverages,Soda,8 oz,2.87,2.01
+P01013,NoHo Co Soups 1 lb,NoHo Co,Prepared Meals,Soups,1 lb,8.09,5.73
+P01014,Empire Wraps 12 oz,Empire,Prepared Meals,Wraps,12 oz,12.22,6.94
+P01015,Gotham Coffee 32 oz,Gotham,Beverages,Coffee,32 oz,2.49,1.66
+P01016,Mancino Prepared 24 oz,Mancino,Deli,Prepared,24 oz,4.31,2.42
+P01017,GreenLeaf Meals 16 oz,GreenLeaf,Frozen Foods,Meals,16 oz,5.84,4.63
+P01018,Chelsea Star Sugar 1 lb,Chelsea Star,Baking,Sugar,1 lb,2.94,1.86
+P01019,Chelsea Star Bowls 8 oz,Chelsea Star,Prepared Meals,Bowls,8 oz,5.63,3.96
+P01020,Chelsea Star Pork 1 ct,Chelsea Star,Meat and Seafood,Pork,1 ct,8.81,5.46
+P01021,Parkside Sugar 12 pack,Parkside,Baking,Sugar,12 pack,3.57,1.97
+P01022,Parkside Oatmeal 8 oz,Parkside,Breakfast & Cereal,Oatmeal,8 oz,3.13,1.73
+P01023,Gotham Bread 1 ct,Gotham,Bakery,Bread,1 ct,3.7,2.78
+P01024,NoHo Co Soda 6 pack,NoHo Co,Beverages,Soda,6 pack,2.49,1.73
+P01025,Chelsea Star Wine 24 oz,Chelsea Star,Alcohol,Wine,24 oz,7.51,5.88
+P01026,GreenLeaf Wraps 16 oz,GreenLeaf,Prepared Meals,Wraps,16 oz,8.23,5.34
+P01027,Mancino Cat Food 8 oz,Mancino,Pet Food,Cat Food,8 oz,7.38,4.27
+P01028,Hudson Valley Sugar 12 pack,Hudson Valley,Baking,Sugar,12 pack,2.9,1.85
+P01029,Hudson Valley Cookies 1 lb,Hudson Valley,Snacks/Cookies/Chips,Cookies,1 lb,3.93,2.65
+P01030,Chelsea Star Fish 12 oz,Chelsea Star,Meat and Seafood,Fish,12 oz,9.05,6.57
+P01031,GreenLeaf Hard Candy 16 oz,GreenLeaf,Candy,Hard Candy,16 oz,2.09,1.37
+P01032,Village Choice Yeast 6 pack,Village Choice,Baking,Yeast,6 pack,2.4,1.57
+P01033,Empire Quinoa 12 pack,Empire,Grains and Pasta,Quinoa,12 pack,2.67,1.87
+P01034,GreenLeaf Shrimp 24 oz,GreenLeaf,Meat and Seafood,Shrimp,24 oz,10.22,6.41
+P01035,Harbor View Rice 32 oz,Harbor View,Grains and Pasta,Rice,32 oz,2.22,1.36
+P01036,Empire Pork 16 oz,Empire,Meat and Seafood,Pork,16 oz,9.34,5.28
+P01037,Nolita Fresh Beef 1 ct,Nolita Fresh,Meat and Seafood,Beef,1 ct,13.47,7.79
+P01038,Mancino Spices 16 oz,Mancino,Condiments/Sauces/Spices,Spices,16 oz,4.38,2.83
+P01039,Chelsea Star Ice Cream 24 oz,Chelsea Star,Frozen Foods,Ice Cream,24 oz,3.8,2.2
+P01040,Parkside Pasta 16 oz,Parkside,Grains and Pasta,Pasta,16 oz,2.09,1.37
+P01041,Gotham Chocolate 1 lb,Gotham,Candy,Chocolate,1 lb,2.42,1.38
+P01042,Village Choice Gummies 12 oz,Village Choice,Candy,Gummies,12 oz,2.55,1.63
+P01043,Parkside Cookies 8 oz,Parkside,Snacks/Cookies/Chips,Cookies,8 oz,3.13,2.25
+P01044,Gotham Oatmeal 12 oz,Gotham,Breakfast & Cereal,Oatmeal,12 oz,5.03,3.22
+P01045,Hudson Valley Hard Candy 8 oz,Hudson Valley,Candy,Hard Candy,8 oz,2.44,1.73
+P01046,Parkside Wine 2 lb,Parkside,Alcohol,Wine,2 lb,12.06,9.39
+P01047,Parkside Yeast 2 lb,Parkside,Baking,Yeast,2 lb,4.44,3.25
+P01048,Hudson Valley Mints 6 pack,Hudson Valley,Candy,Mints,6 pack,2.69,1.56
+P01049,Empire Wraps 6 pack,Empire,Prepared Meals,Wraps,6 pack,6.01,3.32
+P01050,Rivertown Bread 8 oz,Rivertown,Bakery,Bread,8 oz,4.11,2.69
+P01051,Hudson Valley Hard Candy 12 oz,Hudson Valley,Candy,Hard Candy,12 oz,2.42,1.68
+P01052,Harbor View Gummies 16 oz,Harbor View,Candy,Gummies,16 oz,1.56,0.88
+P01053,NoHo Co Beef 12 oz,NoHo Co,Meat and Seafood,Beef,12 oz,9.37,5.96
+P01054,Nolita Fresh Mints 8 oz,Nolita Fresh,Candy,Mints,8 oz,1.93,1.41
+P01055,Chelsea Star Mustard 2 lb,Chelsea Star,Condiments/Sauces/Spices,Mustard,2 lb,4.46,3.23
+P01056,Hudson Valley Flour 1 lb,Hudson Valley,Baking,Flour,1 lb,3.89,2.56
+P01057,Harbor View Juice 12 pack,Harbor View,Beverages,Juice,12 pack,2.23,1.4
+P01058,Rivertown Shrimp 32 oz,Rivertown,Meat and Seafood,Shrimp,32 oz,11.33,8.47
+P01059,Hudson Valley Oatmeal 8 oz,Hudson Valley,Breakfast & Cereal,Oatmeal,8 oz,6.37,4.81
+P01060,NoHo Co Spices 6 pack,NoHo Co,Condiments/Sauces/Spices,Spices,6 pack,3.29,2.51
+P01061,GreenLeaf Flour 8 oz,GreenLeaf,Baking,Flour,8 oz,3.38,2.13
+P01062,Rivertown Ketchup 1 ct,Rivertown,Condiments/Sauces/Spices,Ketchup,1 ct,4.29,2.98
+P01063,Hudson Valley Cheese 8 oz,Hudson Valley,Dairy & Eggs,Cheese,8 oz,4.85,3.52
+P01064,Village Choice Juice 32 oz,Village Choice,Beverages,Juice,32 oz,1.98,1.43
+P01065,Hudson Valley Cakes 32 oz,Hudson Valley,Bakery,Cakes,32 oz,3.05,2.01
+P01066,Parkside Soups 6 pack,Parkside,Prepared Meals,Soups,6 pack,7.22,4.23
+P01067,Rivertown Treats 12 oz,Rivertown,Pet Food,Treats,12 oz,6.48,3.81
+P01068,Empire Noodles 1 lb,Empire,Grains and Pasta,Noodles,1 lb,3.04,1.69
+P01069,GreenLeaf Cat Food 16 oz,GreenLeaf,Pet Food,Cat Food,16 oz,9.71,6.17
+P01070,Rivertown Milk 6 pack,Rivertown,Dairy & Eggs,Milk,6 pack,4.96,2.82
+P01071,Gotham Yogurt 32 oz,Gotham,Dairy & Eggs,Yogurt,32 oz,2.3,1.65
+P01072,Empire Pizza 12 oz,Empire,Frozen Foods,Pizza,12 oz,5.31,3.72
+P01073,NoHo Co Pastries 2 lb,NoHo Co,Bakery,Pastries,2 lb,2.94,2.34
+P01074,NoHo Co Wraps 8 oz,NoHo Co,Prepared Meals,Wraps,8 oz,6.9,4.58
+P01075,NoHo Co Popcorn 2 lb,NoHo Co,Snacks/Cookies/Chips,Popcorn,2 lb,2.45,1.64
+P01076,Parkside Prepared 1 ct,Parkside,Deli,Prepared,1 ct,6.67,3.71
+P01077,Parkside Dog Food 32 oz,Parkside,Pet Food,Dog Food,32 oz,8.02,5.18
+P01078,Nolita Fresh Cakes 8 oz,Nolita Fresh,Bakery,Cakes,8 oz,4.01,2.24
+P01079,NoHo Co Prepared 1 ct,NoHo Co,Deli,Prepared,1 ct,5.87,3.46
+P01080,Hudson Valley Rice 6 pack,Hudson Valley,Grains and Pasta,Rice,6 pack,2.28,1.27
+P01081,Gotham Sugar 24 oz,Gotham,Baking,Sugar,24 oz,3.28,2.04
+P01082,Harbor View Flour 12 oz,Harbor View,Baking,Flour,12 oz,5.22,4.05
+P01083,Gotham Noodles 16 oz,Gotham,Grains and Pasta,Noodles,16 oz,2.98,2.09
+P01084,Rivertown Nuts 1 lb,Rivertown,Snacks/Cookies/Chips,Nuts,1 lb,2.76,2.09
+P01085,Hudson Valley Treats 12 oz,Hudson Valley,Pet Food,Treats,12 oz,6.81,4.4
+P01086,Harbor View Spices 12 pack,Harbor View,Condiments/Sauces/Spices,Spices,12 pack,3.91,2.48
+P01087,NoHo Co Hard Candy 6 pack,NoHo Co,Candy,Hard Candy,6 pack,1.85,1.27
+P01088,Nolita Fresh Dog Food 1 ct,Nolita Fresh,Pet Food,Dog Food,1 ct,7.25,4.97
+P01089,Hudson Valley Meals 2 lb,Hudson Valley,Frozen Foods,Meals,2 lb,7.62,5.03
+P01090,Chelsea Star Sugar 1 ct,Chelsea Star,Baking,Sugar,1 ct,3.97,2.48
+P01091,Hudson Valley Pizza 1 ct,Hudson Valley,Frozen Foods,Pizza,1 ct,5.34,3.01
+P01092,Rivertown Salads 12 pack,Rivertown,Prepared Meals,Salads,12 pack,6.85,4.35
+P01093,Harbor View Cat Food 32 oz,Harbor View,Pet Food,Cat Food,32 oz,4.27,2.97
+P01094,Chelsea Star Soy Sauce 1 ct,Chelsea Star,Condiments/Sauces/Spices,Soy Sauce,1 ct,4.22,2.47
+P01095,Empire Milk 32 oz,Empire,Dairy & Eggs,Milk,32 oz,5.88,3.95
+P01096,Chelsea Star Mustard 1 ct,Chelsea Star,Condiments/Sauces/Spices,Mustard,1 ct,2.78,1.81
+P01097,Mancino Noodles 2 lb,Mancino,Grains and Pasta,Noodles,2 lb,3.29,2.32
+P01098,Nolita Fresh Cat Food 24 oz,Nolita Fresh,Pet Food,Cat Food,24 oz,11.42,6.86
+P01099,Parkside Spirits 32 oz,Parkside,Alcohol,Spirits,32 oz,10.68,7.14
+P01100,Mancino Cat Food 1 lb,Mancino,Pet Food,Cat Food,1 lb,6.82,4.68
+P01101,Rivertown Cookies 32 oz,Rivertown,Snacks/Cookies/Chips,Cookies,32 oz,3.2,2.19
+P01102,Nolita Fresh Popcorn 12 oz,Nolita Fresh,Snacks/Cookies/Chips,Popcorn,12 oz,3.37,2.59
+P01103,Empire Crackers 32 oz,Empire,Snacks/Cookies/Chips,Crackers,32 oz,3.24,1.88
+P01104,GreenLeaf Fish 32 oz,GreenLeaf,Meat and Seafood,Fish,32 oz,8.16,6.11
+P01105,Chelsea Star Fish 12 oz,Chelsea Star,Meat and Seafood,Fish,12 oz,10.51,8.26
+P01106,Gotham Energy Drinks 2 lb,Gotham,Beverages,Energy Drinks,2 lb,2.74,1.61
+P01107,NoHo Co Fish 1 lb,NoHo Co,Meat and Seafood,Fish,1 lb,9.89,6.63
+P01108,NoHo Co Chips 16 oz,NoHo Co,Snacks/Cookies/Chips,Chips,16 oz,2.98,2.28
+P01109,Nolita Fresh Pastries 12 pack,Nolita Fresh,Bakery,Pastries,12 pack,2.57,1.6
+P01110,NoHo Co Mustard 1 ct,NoHo Co,Condiments/Sauces/Spices,Mustard,1 ct,4.8,2.88
+P01111,Gotham Beer 24 oz,Gotham,Alcohol,Beer,24 oz,10.34,7.01
+P01112,Gotham Chips 8 oz,Gotham,Snacks/Cookies/Chips,Chips,8 oz,4.23,2.85
+P01113,GreenLeaf Milk 24 oz,GreenLeaf,Dairy & Eggs,Milk,24 oz,4.56,3.63
+P01114,Parkside Granola 12 pack,Parkside,Breakfast & Cereal,Granola,12 pack,4.76,3.1
+P01115,Village Choice Ketchup 8 oz,Village Choice,Condiments/Sauces/Spices,Ketchup,8 oz,3.99,2.77
+P01116,Parkside Water 1 ct,Parkside,Beverages,Water,1 ct,3.53,2.79
+P01117,Parkside Cheese 1 ct,Parkside,Dairy & Eggs,Cheese,1 ct,3.33,2.54
+P01118,GreenLeaf Cheese 16 oz,GreenLeaf,Deli,Cheese,16 oz,5.78,3.81
+P01119,Nolita Fresh Cookies 12 oz,Nolita Fresh,Snacks/Cookies/Chips,Cookies,12 oz,3.48,2.46
+P01120,Harbor View Cereal 8 oz,Harbor View,Breakfast & Cereal,Cereal,8 oz,2.16,1.69
+P01121,Gotham Sugar 24 oz,Gotham,Baking,Sugar,24 oz,3.48,2.51
+P01122,Rivertown Rice 2 lb,Rivertown,Grains and Pasta,Rice,2 lb,2.27,1.66
+P01123,Village Choice Cold Cuts 8 oz,Village Choice,Deli,Cold Cuts,8 oz,4.95,3.09
+P01124,Village Choice Cheese 16 oz,Village Choice,Dairy & Eggs,Cheese,16 oz,3.87,2.48
+P01125,Gotham Pizza 32 oz,Gotham,Frozen Foods,Pizza,32 oz,5.56,3.35
+P01126,Nolita Fresh Ice Cream 32 oz,Nolita Fresh,Frozen Foods,Ice Cream,32 oz,8.06,6.36
+P01127,GreenLeaf Soy Sauce 6 pack,GreenLeaf,Condiments/Sauces/Spices,Soy Sauce,6 pack,4.44,2.77
+P01128,Parkside Oatmeal 32 oz,Parkside,Breakfast & Cereal,Oatmeal,32 oz,5.12,2.83
+P01129,Chelsea Star Noodles 12 oz,Chelsea Star,Grains and Pasta,Noodles,12 oz,3.0,2.21
+P01130,Village Choice Spirits 1 lb,Village Choice,Alcohol,Spirits,1 lb,13.65,7.99
+P01131,Chelsea Star Prepared 1 ct,Chelsea Star,Deli,Prepared,1 ct,7.33,5.24
+P01132,Village Choice Granola 12 oz,Village Choice,Breakfast & Cereal,Granola,12 oz,5.43,4.03
+P01133,GreenLeaf Milk 32 oz,GreenLeaf,Dairy & Eggs,Milk,32 oz,3.82,2.19
+P01134,Rivertown Quinoa 32 oz,Rivertown,Grains and Pasta,Quinoa,32 oz,3.27,2.2
+P01135,Gotham Quinoa 16 oz,Gotham,Grains and Pasta,Quinoa,16 oz,2.4,1.56
+P01136,Mancino Cold Cuts 1 ct,Mancino,Deli,Cold Cuts,1 ct,4.98,2.82
+P01137,Village Choice Hot Sauce 16 oz,Village Choice,Condiments/Sauces/Spices,Hot Sauce,16 oz,2.87,2.16
+P01138,Village Choice Beef 6 pack,Village Choice,Meat and Seafood,Beef,6 pack,8.33,6.56
+P01139,Harbor View Granola 2 lb,Harbor View,Breakfast & Cereal,Granola,2 lb,2.8,1.59
+P01140,Chelsea Star Ketchup 1 ct,Chelsea Star,Condiments/Sauces/Spices,Ketchup,1 ct,3.69,2.49
+P01141,GreenLeaf Crackers 24 oz,GreenLeaf,Snacks/Cookies/Chips,Crackers,24 oz,3.54,1.99
+P01142,Village Choice Noodles 1 lb,Village Choice,Grains and Pasta,Noodles,1 lb,3.16,1.8
+P01143,Empire Cheese 12 pack,Empire,Deli,Cheese,12 pack,4.01,2.44
+P01144,Hudson Valley Baking Mix 6 pack,Hudson Valley,Baking,Baking Mix,6 pack,2.89,1.79
+P01145,Nolita Fresh Baking Mix 12 pack,Nolita Fresh,Baking,Baking Mix,12 pack,4.31,2.72
+P01146,Village Choice Wraps 1 lb,Village Choice,Prepared Meals,Wraps,1 lb,7.62,5.1
+P01147,Gotham Pasta 1 lb,Gotham,Grains and Pasta,Pasta,1 lb,2.93,2.33
+P01148,Rivertown Coffee 2 lb,Rivertown,Beverages,Coffee,2 lb,2.2,1.54
+P01149,GreenLeaf Bowls 32 oz,GreenLeaf,Prepared Meals,Bowls,32 oz,11.24,6.53
+P01150,Parkside Ice Cream 12 oz,Parkside,Frozen Foods,Ice Cream,12 oz,4.69,3.62
+P01151,Village Choice Milk 1 ct,Village Choice,Dairy & Eggs,Milk,1 ct,1.65,1.15
+P01152,Parkside Pizza 24 oz,Parkside,Frozen Foods,Pizza,24 oz,6.81,4.81
+P01153,Village Choice Cold Cuts 2 lb,Village Choice,Deli,Cold Cuts,2 lb,6.32,3.86
+P01154,Harbor View Cheese 8 oz,Harbor View,Deli,Cheese,8 oz,5.31,3.87
+P01155,Empire Crackers 24 oz,Empire,Snacks/Cookies/Chips,Crackers,24 oz,3.38,2.33
+P01156,Chelsea Star Mints 6 pack,Chelsea Star,Candy,Mints,6 pack,2.84,1.93
+P01157,Nolita Fresh Baking Mix 16 oz,Nolita Fresh,Baking,Baking Mix,16 oz,3.86,2.38
+P01158,Parkside Salads 1 lb,Parkside,Prepared Meals,Salads,1 lb,7.04,4.75
+P01159,GreenLeaf Rice 8 oz,GreenLeaf,Grains and Pasta,Rice,8 oz,2.1,1.49
+P01160,Rivertown Wine 24 oz,Rivertown,Alcohol,Wine,24 oz,10.83,6.1
+P01161,Chelsea Star Wraps 16 oz,Chelsea Star,Prepared Meals,Wraps,16 oz,6.51,3.58
+P01162,Empire Milk 1 ct,Empire,Dairy & Eggs,Milk,1 ct,4.63,3.14
+P01163,Harbor View Soy Sauce 2 lb,Harbor View,Condiments/Sauces/Spices,Soy Sauce,2 lb,3.22,2.45
+P01164,Mancino Butter 8 oz,Mancino,Dairy & Eggs,Butter,8 oz,3.64,2.01
+P01165,Nolita Fresh Cold Cuts 1 lb,Nolita Fresh,Deli,Cold Cuts,1 lb,7.37,4.64
+P01166,NoHo Co Wine 24 oz,NoHo Co,Alcohol,Wine,24 oz,9.66,5.56
+P01167,Mancino Spirits 24 oz,Mancino,Alcohol,Spirits,24 oz,8.57,6.52
+P01168,GreenLeaf Coffee 32 oz,GreenLeaf,Beverages,Coffee,32 oz,2.44,1.53
+P01169,Harbor View Flour 12 pack,Harbor View,Baking,Flour,12 pack,3.74,2.46
+P01170,Empire Ice Cream 12 oz,Empire,Frozen Foods,Ice Cream,12 oz,6.82,5.3
+P01171,Rivertown Chips 32 oz,Rivertown,Snacks/Cookies/Chips,Chips,32 oz,3.31,1.89
+P01172,Chelsea Star Eggs 12 pack,Chelsea Star,Dairy & Eggs,Eggs,12 pack,3.41,2.46
+P01173,Village Choice Mints 16 oz,Village Choice,Candy,Mints,16 oz,1.36,0.96
+P01174,GreenLeaf Mints 24 oz,GreenLeaf,Candy,Mints,24 oz,2.42,1.76
+P01175,Mancino Yeast 24 oz,Mancino,Baking,Yeast,24 oz,4.46,3.53
+P01176,Empire Coffee 24 oz,Empire,Beverages,Coffee,24 oz,4.09,3.03
+P01177,Chelsea Star Beef 12 pack,Chelsea Star,Meat and Seafood,Beef,12 pack,9.2,5.75
+P01178,GreenLeaf Flour 8 oz,GreenLeaf,Baking,Flour,8 oz,3.68,2.12
+P01179,NoHo Co Hot Sauce 1 ct,NoHo Co,Condiments/Sauces/Spices,Hot Sauce,1 ct,4.08,2.29
+P01180,Mancino Spirits 12 oz,Mancino,Alcohol,Spirits,12 oz,16.21,10.37
+P01181,Mancino Pasta 12 oz,Mancino,Grains and Pasta,Pasta,12 oz,2.5,1.65
+P01182,Harbor View Soy Sauce 12 oz,Harbor View,Condiments/Sauces/Spices,Soy Sauce,12 oz,4.07,2.7
+P01183,Parkside Cheese 16 oz,Parkside,Deli,Cheese,16 oz,5.23,3.36
+P01184,Village Choice Coffee 8 oz,Village Choice,Beverages,Coffee,8 oz,2.21,1.24
+P01185,Village Choice Bars 12 oz,Village Choice,Breakfast & Cereal,Bars,12 oz,4.02,3.04
+P01186,Chelsea Star Quinoa 1 ct,Chelsea Star,Grains and Pasta,Quinoa,1 ct,3.59,2.74
+P01187,Harbor View Chicken 12 oz,Harbor View,Meat and Seafood,Chicken,12 oz,10.51,7.02
+P01188,Chelsea Star Prepared 12 oz,Chelsea Star,Deli,Prepared,12 oz,4.51,3.47
+P01189,Hudson Valley Cereal 6 pack,Hudson Valley,Breakfast & Cereal,Cereal,6 pack,5.32,3.73
+P01190,Gotham Tea 32 oz,Gotham,Beverages,Tea,32 oz,2.29,1.43
+P01191,Gotham Nuts 1 lb,Gotham,Snacks/Cookies/Chips,Nuts,1 lb,3.3,2.42
+P01192,Rivertown Fish 16 oz,Rivertown,Meat and Seafood,Fish,16 oz,7.18,4.52
+P01193,Parkside Spirits 24 oz,Parkside,Alcohol,Spirits,24 oz,8.91,6.49
+P01194,GreenLeaf Fish 24 oz,GreenLeaf,Meat and Seafood,Fish,24 oz,13.57,8.14
+P01195,Village Choice Beer 12 oz,Village Choice,Alcohol,Beer,12 oz,11.05,7.09
+P01196,Chelsea Star Dog Food 6 pack,Chelsea Star,Pet Food,Dog Food,6 pack,8.14,4.6
+P01197,NoHo Co Flour 12 oz,NoHo Co,Baking,Flour,12 oz,3.54,2.18
+P01198,Rivertown Beef 24 oz,Rivertown,Meat and Seafood,Beef,24 oz,7.01,5.32
+P01199,Rivertown Yogurt 6 pack,Rivertown,Dairy & Eggs,Yogurt,6 pack,3.31,2.23
+P01200,Empire Beer 8 oz,Empire,Alcohol,Beer,8 oz,9.36,6.09
+P01201,GreenLeaf Cookies 1 lb,GreenLeaf,Snacks/Cookies/Chips,Cookies,1 lb,5.48,3.03
+P01202,Hudson Valley Ketchup 8 oz,Hudson Valley,Condiments/Sauces/Spices,Ketchup,8 oz,4.26,2.84
+P01203,Village Choice Beer 16 oz,Village Choice,Alcohol,Beer,16 oz,12.07,8.68
+P01204,Parkside Hard Candy 1 ct,Parkside,Candy,Hard Candy,1 ct,2.87,1.8
+P01205,GreenLeaf Cereal 1 lb,GreenLeaf,Breakfast & Cereal,Cereal,1 lb,5.38,3.66
+P01206,Harbor View Flour 2 lb,Harbor View,Baking,Flour,2 lb,4.19,3.33
+P01207,Harbor View Yogurt 6 pack,Harbor View,Dairy & Eggs,Yogurt,6 pack,4.14,2.4
+P01208,Village Choice Soups 16 oz,Village Choice,Prepared Meals,Soups,16 oz,9.28,5.72
+P01209,Nolita Fresh Bagels 8 oz,Nolita Fresh,Bakery,Bagels,8 oz,4.1,2.61
+P01210,Hudson Valley Crackers 2 lb,Hudson Valley,Snacks/Cookies/Chips,Crackers,2 lb,4.42,2.84
+P01211,Parkside Treats 1 ct,Parkside,Pet Food,Treats,1 ct,7.29,5.55
+P01212,Empire Noodles 1 ct,Empire,Grains and Pasta,Noodles,1 ct,2.53,1.41
+P01213,Chelsea Star Hot Sauce 8 oz,Chelsea Star,Condiments/Sauces/Spices,Hot Sauce,8 oz,3.66,2.73
+P01214,Parkside Crackers 6 pack,Parkside,Snacks/Cookies/Chips,Crackers,6 pack,3.19,2.12
+P01215,Parkside Cakes 8 oz,Parkside,Bakery,Cakes,8 oz,2.68,1.52
+P01216,Village Choice Pastries 1 lb,Village Choice,Bakery,Pastries,1 lb,3.25,1.97
+P01217,Village Choice Spirits 12 pack,Village Choice,Alcohol,Spirits,12 pack,11.69,8.61
+P01218,Village Choice Wraps 1 lb,Village Choice,Prepared Meals,Wraps,1 lb,5.3,3.54
+P01219,Nolita Fresh Prepared 1 ct,Nolita Fresh,Deli,Prepared,1 ct,6.03,4.77
+P01220,Village Choice Cakes 24 oz,Village Choice,Bakery,Cakes,24 oz,4.24,2.41
+P01221,Village Choice Yogurt 2 lb,Village Choice,Dairy & Eggs,Yogurt,2 lb,2.55,1.53
+P01222,Mancino Flour 16 oz,Mancino,Baking,Flour,16 oz,3.0,1.76
+P01223,Parkside Cheese 16 oz,Parkside,Deli,Cheese,16 oz,8.27,5.74
+P01224,GreenLeaf Cakes 24 oz,GreenLeaf,Bakery,Cakes,24 oz,4.6,2.7
+P01225,Mancino Hard Candy 12 pack,Mancino,Candy,Hard Candy,12 pack,2.83,1.83
+P01226,Village Choice Tea 2 lb,Village Choice,Beverages,Tea,2 lb,3.99,2.87
+P01227,Hudson Valley Mustard 6 pack,Hudson Valley,Condiments/Sauces/Spices,Mustard,6 pack,2.86,2.23
+P01228,Parkside Eggs 12 oz,Parkside,Dairy & Eggs,Eggs,12 oz,2.56,1.59
+P01229,Parkside Popcorn 1 lb,Parkside,Snacks/Cookies/Chips,Popcorn,1 lb,3.84,2.79
+P01230,Nolita Fresh Cakes 8 oz,Nolita Fresh,Bakery,Cakes,8 oz,3.92,2.22
+P01231,Harbor View Cakes 8 oz,Harbor View,Bakery,Cakes,8 oz,3.25,1.9
+P01232,Mancino Prepared 12 oz,Mancino,Deli,Prepared,12 oz,10.12,7.99
+P01233,NoHo Co Bowls 12 pack,NoHo Co,Prepared Meals,Bowls,12 pack,5.35,3.61
+P01234,Village Choice Coffee 6 pack,Village Choice,Beverages,Coffee,6 pack,3.14,2.26
+P01235,Mancino Hard Candy 24 oz,Mancino,Candy,Hard Candy,24 oz,2.38,1.79
+P01236,GreenLeaf Popcorn 12 pack,GreenLeaf,Snacks/Cookies/Chips,Popcorn,12 pack,2.74,1.82
+P01237,Nolita Fresh Soups 1 lb,Nolita Fresh,Prepared Meals,Soups,1 lb,4.6,2.58
+P01238,Hudson Valley Fish 12 oz,Hudson Valley,Meat and Seafood,Fish,12 oz,13.2,7.81
+P01239,Mancino Wraps 1 lb,Mancino,Prepared Meals,Wraps,1 lb,5.6,3.15
+P01240,NoHo Co Hard Candy 12 pack,NoHo Co,Candy,Hard Candy,12 pack,2.34,1.78
+P01241,Mancino Chocolate 16 oz,Mancino,Candy,Chocolate,16 oz,2.25,1.78
+P01242,Nolita Fresh Cheese 2 lb,Nolita Fresh,Dairy & Eggs,Cheese,2 lb,4.05,2.43
+P01243,Chelsea Star Pastries 24 oz,Chelsea Star,Bakery,Pastries,24 oz,2.68,1.77
+P01244,Harbor View Soda 24 oz,Harbor View,Beverages,Soda,24 oz,3.37,2.35
+P01245,Nolita Fresh Cheese 1 lb,Nolita Fresh,Dairy & Eggs,Cheese,1 lb,3.67,2.92
+P01246,Mancino Cakes 1 ct,Mancino,Bakery,Cakes,1 ct,3.39,2.03
+P01247,Parkside Cakes 1 ct,Parkside,Bakery,Cakes,1 ct,4.45,3.29
+P01248,Parkside Cold Cuts 8 oz,Parkside,Deli,Cold Cuts,8 oz,6.03,3.56
+P01249,Mancino Prepared 12 pack,Mancino,Deli,Prepared,12 pack,9.42,5.76
+P01250,Chelsea Star Cat Food 6 pack,Chelsea Star,Pet Food,Cat Food,6 pack,6.67,4.74
+P01251,Empire Treats 1 ct,Empire,Pet Food,Treats,1 ct,5.51,3.81
+P01252,Hudson Valley Sugar 2 lb,Hudson Valley,Baking,Sugar,2 lb,3.94,2.93
+P01253,NoHo Co Quinoa 2 lb,NoHo Co,Grains and Pasta,Quinoa,2 lb,2.31,1.28
+P01254,Nolita Fresh Spices 24 oz,Nolita Fresh,Condiments/Sauces/Spices,Spices,24 oz,3.5,2.24
+P01255,GreenLeaf Bars 32 oz,GreenLeaf,Breakfast & Cereal,Bars,32 oz,3.29,2.07
+P01256,Empire Cheese 2 lb,Empire,Dairy & Eggs,Cheese,2 lb,4.07,3.1
+P01257,Nolita Fresh Ice Cream 12 pack,Nolita Fresh,Frozen Foods,Ice Cream,12 pack,5.78,3.8
+P01258,Nolita Fresh Cookies 12 pack,Nolita Fresh,Snacks/Cookies/Chips,Cookies,12 pack,3.21,1.79
+P01259,Gotham Rice 24 oz,Gotham,Grains and Pasta,Rice,24 oz,4.23,2.45
+P01260,Village Choice Ice Cream 1 lb,Village Choice,Frozen Foods,Ice Cream,1 lb,6.11,3.8
+P01261,Empire Treats 16 oz,Empire,Pet Food,Treats,16 oz,8.43,6.73
+P01262,Nolita Fresh Prepared 1 lb,Nolita Fresh,Deli,Prepared,1 lb,5.73,3.22
+P01263,GreenLeaf Beef 12 pack,GreenLeaf,Meat and Seafood,Beef,12 pack,7.65,4.96
+P01264,Chelsea Star Eggs 2 lb,Chelsea Star,Dairy & Eggs,Eggs,2 lb,4.87,3.6
+P01265,Harbor View Quinoa 8 oz,Harbor View,Grains and Pasta,Quinoa,8 oz,1.57,1.17
+P01266,Mancino Cold Cuts 2 lb,Mancino,Deli,Cold Cuts,2 lb,7.72,4.73
+P01267,Village Choice Flour 8 oz,Village Choice,Baking,Flour,8 oz,2.14,1.53
+P01268,Empire Water 32 oz,Empire,Beverages,Water,32 oz,3.75,2.29
+P01269,Empire Quinoa 8 oz,Empire,Grains and Pasta,Quinoa,8 oz,2.51,1.52
+P01270,Gotham Pork 12 pack,Gotham,Meat and Seafood,Pork,12 pack,7.09,3.97
+P01271,Parkside Wine 12 oz,Parkside,Alcohol,Wine,12 oz,10.84,8.54
+P01272,Nolita Fresh Veggies 12 pack,Nolita Fresh,Frozen Foods,Veggies,12 pack,7.72,5.37
+P01273,NoHo Co Mustard 32 oz,NoHo Co,Condiments/Sauces/Spices,Mustard,32 oz,5.74,3.9
+P01274,Harbor View Beef 2 lb,Harbor View,Meat and Seafood,Beef,2 lb,6.09,4.5
+P01275,NoHo Co Hot Sauce 8 oz,NoHo Co,Condiments/Sauces/Spices,Hot Sauce,8 oz,2.8,2.17
+P01276,Rivertown Spirits 24 oz,Rivertown,Alcohol,Spirits,24 oz,8.6,6.76
+P01277,Gotham Meals 1 lb,Gotham,Frozen Foods,Meals,1 lb,6.2,4.62
+P01278,Nolita Fresh Wraps 24 oz,Nolita Fresh,Prepared Meals,Wraps,24 oz,10.07,6.74
+P01279,Empire Bars 12 oz,Empire,Breakfast & Cereal,Bars,12 oz,3.13,2.18
+P01280,Nolita Fresh Sugar 12 pack,Nolita Fresh,Baking,Sugar,12 pack,3.49,2.08
+P01281,Mancino Cakes 2 lb,Mancino,Bakery,Cakes,2 lb,4.99,3.0
+P01282,Empire Granola 16 oz,Empire,Breakfast & Cereal,Granola,16 oz,4.05,2.3
+P01283,Mancino Ice Cream 1 lb,Mancino,Frozen Foods,Ice Cream,1 lb,3.39,2.55
+P01284,Mancino Cheese 16 oz,Mancino,Dairy & Eggs,Cheese,16 oz,3.68,2.79
+P01285,Chelsea Star Cat Food 8 oz,Chelsea Star,Pet Food,Cat Food,8 oz,9.53,7.08
+P01286,Parkside Bowls 1 ct,Parkside,Prepared Meals,Bowls,1 ct,6.12,4.37
+P01287,Hudson Valley Cheese 1 lb,Hudson Valley,Deli,Cheese,1 lb,3.85,2.53
+P01288,Empire Cold Cuts 12 pack,Empire,Deli,Cold Cuts,12 pack,6.5,3.64
+P01289,Harbor View Bagels 12 pack,Harbor View,Bakery,Bagels,12 pack,4.36,2.4
+P01290,Hudson Valley Cheese 1 lb,Hudson Valley,Deli,Cheese,1 lb,5.31,3.47
+P01291,Village Choice Juice 1 lb,Village Choice,Beverages,Juice,1 lb,2.53,2.01
+P01292,Rivertown Hard Candy 24 oz,Rivertown,Candy,Hard Candy,24 oz,2.52,1.53
+P01293,NoHo Co Soups 8 oz,NoHo Co,Prepared Meals,Soups,8 oz,6.1,3.71
+P01294,Parkside Pastries 24 oz,Parkside,Bakery,Pastries,24 oz,3.05,1.68
+P01295,Chelsea Star Treats 1 ct,Chelsea Star,Pet Food,Treats,1 ct,8.3,6.1
+P01296,Village Choice Soda 1 lb,Village Choice,Beverages,Soda,1 lb,2.25,1.71
+P01297,Harbor View Ketchup 32 oz,Harbor View,Condiments/Sauces/Spices,Ketchup,32 oz,2.27,1.43
+P01298,Rivertown Prepared 8 oz,Rivertown,Deli,Prepared,8 oz,5.07,3.69
+P01299,GreenLeaf Treats 12 pack,GreenLeaf,Pet Food,Treats,12 pack,6.23,4.0
+P01300,Parkside Soups 8 oz,Parkside,Prepared Meals,Soups,8 oz,8.98,6.96
+P01301,GreenLeaf Oatmeal 12 pack,GreenLeaf,Breakfast & Cereal,Oatmeal,12 pack,3.88,2.71
+P01302,Empire Bread 12 pack,Empire,Bakery,Bread,12 pack,5.71,4.08
+P01303,Village Choice Cold Cuts 12 oz,Village Choice,Deli,Cold Cuts,12 oz,6.13,4.46
+P01304,Village Choice Coffee 24 oz,Village Choice,Beverages,Coffee,24 oz,2.45,1.45
+P01305,Hudson Valley Popcorn 24 oz,Hudson Valley,Snacks/Cookies/Chips,Popcorn,24 oz,3.33,2.62
+P01306,Nolita Fresh Prepared 2 lb,Nolita Fresh,Deli,Prepared,2 lb,8.52,4.78
+P01307,Nolita Fresh Pasta 16 oz,Nolita Fresh,Grains and Pasta,Pasta,16 oz,2.94,1.83
+P01308,Nolita Fresh Wine 1 lb,Nolita Fresh,Alcohol,Wine,1 lb,8.24,6.0
+P01309,Hudson Valley Beer 8 oz,Hudson Valley,Alcohol,Beer,8 oz,10.9,7.4
+P01310,NoHo Co Baking Mix 12 oz,NoHo Co,Baking,Baking Mix,12 oz,3.73,2.53
+P01311,Rivertown Veggies 2 lb,Rivertown,Frozen Foods,Veggies,2 lb,7.56,5.72
+P01312,Village Choice Soy Sauce 2 lb,Village Choice,Condiments/Sauces/Spices,Soy Sauce,2 lb,3.34,2.42
+P01313,Mancino Hot Sauce 2 lb,Mancino,Condiments/Sauces/Spices,Hot Sauce,2 lb,3.23,2.52
+P01314,NoHo Co Pasta 8 oz,NoHo Co,Grains and Pasta,Pasta,8 oz,3.92,2.84
+P01315,Nolita Fresh Pasta 1 ct,Nolita Fresh,Grains and Pasta,Pasta,1 ct,2.95,1.82
+P01316,Hudson Valley Spirits 1 lb,Hudson Valley,Alcohol,Spirits,1 lb,13.33,10.02
+P01317,Hudson Valley Treats 32 oz,Hudson Valley,Pet Food,Treats,32 oz,6.09,3.86
+P01318,Chelsea Star Bowls 12 oz,Chelsea Star,Prepared Meals,Bowls,12 oz,6.08,4.83
+P01319,Harbor View Bars 2 lb,Harbor View,Breakfast & Cereal,Bars,2 lb,5.02,3.67
+P01320,Parkside Chips 16 oz,Parkside,Snacks/Cookies/Chips,Chips,16 oz,3.64,2.51
+P01321,Empire Cold Cuts 2 lb,Empire,Deli,Cold Cuts,2 lb,5.99,3.86
+P01322,Village Choice Bowls 16 oz,Village Choice,Prepared Meals,Bowls,16 oz,9.46,5.59
+P01323,Mancino Granola 12 pack,Mancino,Breakfast & Cereal,Granola,12 pack,5.35,3.46
+P01324,Empire Nuts 12 oz,Empire,Snacks/Cookies/Chips,Nuts,12 oz,3.71,2.06
+P01325,Chelsea Star Beer 1 ct,Chelsea Star,Alcohol,Beer,1 ct,8.21,5.96
+P01326,NoHo Co Spices 12 oz,NoHo Co,Condiments/Sauces/Spices,Spices,12 oz,3.2,2.41
+P01327,Nolita Fresh Oatmeal 1 lb,Nolita Fresh,Breakfast & Cereal,Oatmeal,1 lb,5.1,2.87
+P01328,Village Choice Energy Drinks 12 pack,Village Choice,Beverages,Energy Drinks,12 pack,3.04,2.06
+P01329,Empire Sugar 24 oz,Empire,Baking,Sugar,24 oz,4.17,2.48
+P01330,Gotham Ice Cream 12 oz,Gotham,Frozen Foods,Ice Cream,12 oz,7.22,5.42
+P01331,NoHo Co Flour 6 pack,NoHo Co,Baking,Flour,6 pack,2.04,1.19
+P01332,Rivertown Pasta 12 oz,Rivertown,Grains and Pasta,Pasta,12 oz,3.29,2.52
+P01333,Gotham Cereal 1 ct,Gotham,Breakfast & Cereal,Cereal,1 ct,3.99,2.48
+P01334,GreenLeaf Yogurt 16 oz,GreenLeaf,Dairy & Eggs,Yogurt,16 oz,2.82,2.17
+P01335,Hudson Valley Rice 32 oz,Hudson Valley,Grains and Pasta,Rice,32 oz,3.26,2.0
+P01336,Gotham Pizza 1 lb,Gotham,Frozen Foods,Pizza,1 lb,7.58,5.35
+P01337,GreenLeaf Butter 1 ct,GreenLeaf,Dairy & Eggs,Butter,1 ct,4.74,3.68
+P01338,Nolita Fresh Quinoa 1 ct,Nolita Fresh,Grains and Pasta,Quinoa,1 ct,2.67,1.48
+P01339,GreenLeaf Baking Mix 2 lb,GreenLeaf,Baking,Baking Mix,2 lb,3.19,2.19
+P01340,GreenLeaf Flour 24 oz,GreenLeaf,Baking,Flour,24 oz,3.63,2.26
+P01341,Nolita Fresh Wraps 2 lb,Nolita Fresh,Prepared Meals,Wraps,2 lb,6.18,4.36
+P01342,Empire Granola 1 lb,Empire,Breakfast & Cereal,Granola,1 lb,3.21,2.03
+P01343,Parkside Cat Food 6 pack,Parkside,Pet Food,Cat Food,6 pack,5.98,3.39
+P01344,Parkside Hard Candy 12 pack,Parkside,Candy,Hard Candy,12 pack,3.67,2.74
+P01345,Village Choice Bagels 1 ct,Village Choice,Bakery,Bagels,1 ct,3.5,2.52
+P01346,Empire Pastries 12 pack,Empire,Bakery,Pastries,12 pack,2.61,1.65
+P01347,Nolita Fresh Water 12 oz,Nolita Fresh,Beverages,Water,12 oz,2.89,2.27
+P01348,Mancino Beef 12 pack,Mancino,Meat and Seafood,Beef,12 pack,7.85,5.58
+P01349,Chelsea Star Pasta 1 ct,Chelsea Star,Grains and Pasta,Pasta,1 ct,3.31,1.99
+P01350,Gotham Spices 8 oz,Gotham,Condiments/Sauces/Spices,Spices,8 oz,5.03,3.29
+P01351,NoHo Co Cheese 12 pack,NoHo Co,Deli,Cheese,12 pack,5.41,3.35
+P01352,GreenLeaf Cheese 2 lb,GreenLeaf,Dairy & Eggs,Cheese,2 lb,3.74,2.32
+P01353,Nolita Fresh Tea 32 oz,Nolita Fresh,Beverages,Tea,32 oz,3.27,1.85
+P01354,NoHo Co Yeast 12 pack,NoHo Co,Baking,Yeast,12 pack,3.46,2.35
+P01355,GreenLeaf Cakes 12 pack,GreenLeaf,Bakery,Cakes,12 pack,3.78,2.78
+P01356,Gotham Spirits 1 ct,Gotham,Alcohol,Spirits,1 ct,9.52,6.91
+P01357,NoHo Co Rice 16 oz,NoHo Co,Grains and Pasta,Rice,16 oz,1.58,1.03
+P01358,Empire Cheese 1 ct,Empire,Dairy & Eggs,Cheese,1 ct,2.77,1.71
+P01359,Nolita Fresh Veggies 6 pack,Nolita Fresh,Frozen Foods,Veggies,6 pack,6.37,3.93
+P01360,Gotham Chocolate 6 pack,Gotham,Candy,Chocolate,6 pack,1.74,1.08
+P01361,Rivertown Soda 1 lb,Rivertown,Beverages,Soda,1 lb,3.16,2.21
+P01362,Village Choice Soda 24 oz,Village Choice,Beverages,Soda,24 oz,3.05,1.74
+P01363,Harbor View Cheese 6 pack,Harbor View,Deli,Cheese,6 pack,5.23,3.66
+P01364,Mancino Cat Food 8 oz,Mancino,Pet Food,Cat Food,8 oz,6.54,4.62
+P01365,Hudson Valley Quinoa 12 pack,Hudson Valley,Grains and Pasta,Quinoa,12 pack,1.81,1.0
+P01366,Nolita Fresh Quinoa 32 oz,Nolita Fresh,Grains and Pasta,Quinoa,32 oz,3.08,2.44
+P01367,Harbor View Veggies 2 lb,Harbor View,Frozen Foods,Veggies,2 lb,7.96,5.78
+P01368,NoHo Co Chocolate 32 oz,NoHo Co,Candy,Chocolate,32 oz,1.88,1.32
+P01369,NoHo Co Mustard 2 lb,NoHo Co,Condiments/Sauces/Spices,Mustard,2 lb,2.64,1.85
+P01370,Parkside Hard Candy 6 pack,Parkside,Candy,Hard Candy,6 pack,1.99,1.53
+P01371,Mancino Treats 12 pack,Mancino,Pet Food,Treats,12 pack,8.03,4.82
+P01372,Parkside Dog Food 16 oz,Parkside,Pet Food,Dog Food,16 oz,7.62,5.31
+P01373,NoHo Co Soda 32 oz,NoHo Co,Beverages,Soda,32 oz,3.9,2.54
+P01374,Empire Juice 16 oz,Empire,Beverages,Juice,16 oz,4.02,2.23
+P01375,Village Choice Chocolate 24 oz,Village Choice,Candy,Chocolate,24 oz,1.7,1.13
+P01376,Nolita Fresh Hot Sauce 12 oz,Nolita Fresh,Condiments/Sauces/Spices,Hot Sauce,12 oz,3.98,3.14
+P01377,Parkside Butter 24 oz,Parkside,Dairy & Eggs,Butter,24 oz,4.64,2.77
+P01378,Village Choice Veggies 2 lb,Village Choice,Frozen Foods,Veggies,2 lb,5.98,4.29
+P01379,Mancino Beer 16 oz,Mancino,Alcohol,Beer,16 oz,11.93,6.84
+P01380,Empire Veggies 12 pack,Empire,Frozen Foods,Veggies,12 pack,6.22,4.58
+P01381,Empire Spirits 8 oz,Empire,Alcohol,Spirits,8 oz,11.61,7.14
+P01382,Empire Baking Mix 12 pack,Empire,Baking,Baking Mix,12 pack,4.3,2.83
+P01383,Chelsea Star Spices 8 oz,Chelsea Star,Condiments/Sauces/Spices,Spices,8 oz,5.42,3.85
+P01384,Nolita Fresh Treats 32 oz,Nolita Fresh,Pet Food,Treats,32 oz,9.89,6.04
+P01385,Parkside Bagels 1 ct,Parkside,Bakery,Bagels,1 ct,3.53,2.12
+P01386,Empire Butter 24 oz,Empire,Dairy & Eggs,Butter,24 oz,3.74,2.88
+P01387,Chelsea Star Popcorn 16 oz,Chelsea Star,Snacks/Cookies/Chips,Popcorn,16 oz,2.47,1.53
+P01388,Chelsea Star Wraps 12 pack,Chelsea Star,Prepared Meals,Wraps,12 pack,6.73,4.12
+P01389,Nolita Fresh Oatmeal 1 lb,Nolita Fresh,Breakfast & Cereal,Oatmeal,1 lb,4.43,3.25
+P01390,Chelsea Star Cat Food 1 ct,Chelsea Star,Pet Food,Cat Food,1 ct,5.85,4.1
+P01391,Harbor View Bagels 2 lb,Harbor View,Bakery,Bagels,2 lb,3.46,2.73
+P01392,Mancino Flour 24 oz,Mancino,Baking,Flour,24 oz,3.72,2.83
+P01393,Village Choice Prepared 2 lb,Village Choice,Deli,Prepared,2 lb,6.8,5.33
+P01394,Chelsea Star Crackers 12 oz,Chelsea Star,Snacks/Cookies/Chips,Crackers,12 oz,3.38,2.32
+P01395,Chelsea Star Yeast 1 ct,Chelsea Star,Baking,Yeast,1 ct,3.95,2.91
+P01396,NoHo Co Spirits 12 oz,NoHo Co,Alcohol,Spirits,12 oz,8.81,6.47
+P01397,Village Choice Cakes 16 oz,Village Choice,Bakery,Cakes,16 oz,3.31,2.13
+P01398,NoHo Co Treats 8 oz,NoHo Co,Pet Food,Treats,8 oz,7.07,5.52
+P01399,Village Choice Treats 2 lb,Village Choice,Pet Food,Treats,2 lb,9.15,5.65
+P01400,GreenLeaf Cheese 8 oz,GreenLeaf,Deli,Cheese,8 oz,10.83,6.95
+P01401,Harbor View Shrimp 24 oz,Harbor View,Meat and Seafood,Shrimp,24 oz,9.71,7.25
+P01402,Harbor View Soups 1 lb,Harbor View,Prepared Meals,Soups,1 lb,9.58,6.36
+P01403,Harbor View Pizza 16 oz,Harbor View,Frozen Foods,Pizza,16 oz,4.65,3.38
+P01404,Gotham Bars 12 oz,Gotham,Breakfast & Cereal,Bars,12 oz,5.35,3.51
+P01405,Rivertown Bars 24 oz,Rivertown,Breakfast & Cereal,Bars,24 oz,7.41,5.81
+P01406,Nolita Fresh Spirits 8 oz,Nolita Fresh,Alcohol,Spirits,8 oz,9.91,5.61
+P01407,NoHo Co Pizza 8 oz,NoHo Co,Frozen Foods,Pizza,8 oz,5.67,3.75
+P01408,Nolita Fresh Mustard 1 lb,Nolita Fresh,Condiments/Sauces/Spices,Mustard,1 lb,4.34,2.41
+P01409,Hudson Valley Hot Sauce 16 oz,Hudson Valley,Condiments/Sauces/Spices,Hot Sauce,16 oz,3.52,1.99
+P01410,Rivertown Spices 32 oz,Rivertown,Condiments/Sauces/Spices,Spices,32 oz,2.17,1.46
+P01411,Harbor View Nuts 1 ct,Harbor View,Snacks/Cookies/Chips,Nuts,1 ct,2.65,1.89
+P01412,Village Choice Hard Candy 2 lb,Village Choice,Candy,Hard Candy,2 lb,3.59,2.21
+P01413,Harbor View Wraps 12 pack,Harbor View,Prepared Meals,Wraps,12 pack,7.46,4.23
+P01414,Empire Soups 1 lb,Empire,Prepared Meals,Soups,1 lb,7.46,4.45
+P01415,Parkside Prepared 32 oz,Parkside,Deli,Prepared,32 oz,7.31,5.51
+P01416,Nolita Fresh Granola 2 lb,Nolita Fresh,Breakfast & Cereal,Granola,2 lb,4.9,3.53
+P01417,Village Choice Chicken 12 oz,Village Choice,Meat and Seafood,Chicken,12 oz,8.28,5.2
+P01418,Parkside Chicken 16 oz,Parkside,Meat and Seafood,Chicken,16 oz,7.72,4.73
+P01419,NoHo Co Bagels 2 lb,NoHo Co,Bakery,Bagels,2 lb,8.36,5.34
+P01420,NoHo Co Bowls 1 ct,NoHo Co,Prepared Meals,Bowls,1 ct,10.92,6.97
+P01421,Empire Beef 2 lb,Empire,Meat and Seafood,Beef,2 lb,10.15,6.36
+P01422,Hudson Valley Pasta 16 oz,Hudson Valley,Grains and Pasta,Pasta,16 oz,2.87,2.23
+P01423,Harbor View Eggs 12 oz,Harbor View,Dairy & Eggs,Eggs,12 oz,3.39,2.16
+P01424,Gotham Pastries 1 lb,Gotham,Bakery,Pastries,1 lb,4.34,2.94
+P01425,Nolita Fresh Bread 2 lb,Nolita Fresh,Bakery,Bread,2 lb,3.78,2.6
+P01426,Chelsea Star Cat Food 12 pack,Chelsea Star,Pet Food,Cat Food,12 pack,5.66,3.82
+P01427,Empire Cereal 6 pack,Empire,Breakfast & Cereal,Cereal,6 pack,4.93,3.55
+P01428,Gotham Milk 12 pack,Gotham,Dairy & Eggs,Milk,12 pack,3.24,2.46
+P01429,Mancino Oatmeal 1 ct,Mancino,Breakfast & Cereal,Oatmeal,1 ct,5.0,3.3
+P01430,Nolita Fresh Prepared 24 oz,Nolita Fresh,Deli,Prepared,24 oz,6.98,4.9
+P01431,Village Choice Veggies 8 oz,Village Choice,Frozen Foods,Veggies,8 oz,7.32,4.35
+P01432,Village Choice Gummies 8 oz,Village Choice,Candy,Gummies,8 oz,1.98,1.43
+P01433,Rivertown Flour 2 lb,Rivertown,Baking,Flour,2 lb,3.15,1.86
+P01434,Harbor View Mints 1 ct,Harbor View,Candy,Mints,1 ct,2.32,1.28
+P01435,Mancino Tea 12 oz,Mancino,Beverages,Tea,12 oz,3.83,2.6
+P01436,NoHo Co Dog Food 32 oz,NoHo Co,Pet Food,Dog Food,32 oz,8.81,5.2
+P01437,Chelsea Star Shrimp 1 lb,Chelsea Star,Meat and Seafood,Shrimp,1 lb,7.54,4.35
+P01438,Gotham Hard Candy 1 ct,Gotham,Candy,Hard Candy,1 ct,1.83,1.11
+P01439,Harbor View Energy Drinks 1 ct,Harbor View,Beverages,Energy Drinks,1 ct,5.5,3.36
+P01440,Empire Wine 2 lb,Empire,Alcohol,Wine,2 lb,13.37,7.55
+P01441,NoHo Co Cold Cuts 12 oz,NoHo Co,Deli,Cold Cuts,12 oz,4.25,2.57
+P01442,GreenLeaf Cheese 12 oz,GreenLeaf,Deli,Cheese,12 oz,5.21,4.12
+P01443,NoHo Co Bowls 1 ct,NoHo Co,Prepared Meals,Bowls,1 ct,10.33,6.76
+P01444,Harbor View Bars 1 ct,Harbor View,Breakfast & Cereal,Bars,1 ct,7.59,4.99
+P01445,GreenLeaf Cheese 6 pack,GreenLeaf,Dairy & Eggs,Cheese,6 pack,5.59,4.06
+P01446,Chelsea Star Noodles 8 oz,Chelsea Star,Grains and Pasta,Noodles,8 oz,2.76,1.64
+P01447,Rivertown Milk 12 oz,Rivertown,Dairy & Eggs,Milk,12 oz,1.81,1.39
+P01448,Village Choice Mustard 24 oz,Village Choice,Condiments/Sauces/Spices,Mustard,24 oz,3.5,2.48
+P01449,Harbor View Bowls 1 lb,Harbor View,Prepared Meals,Bowls,1 lb,6.21,4.36
+P01450,Mancino Prepared 32 oz,Mancino,Deli,Prepared,32 oz,6.13,3.55
+P01451,Hudson Valley Water 2 lb,Hudson Valley,Beverages,Water,2 lb,2.4,1.74
+P01452,Hudson Valley Quinoa 12 pack,Hudson Valley,Grains and Pasta,Quinoa,12 pack,2.26,1.36
+P01453,Parkside Dog Food 1 lb,Parkside,Pet Food,Dog Food,1 lb,8.68,5.22
+P01454,Chelsea Star Gummies 32 oz,Chelsea Star,Candy,Gummies,32 oz,2.36,1.6
+P01455,Parkside Sugar 24 oz,Parkside,Baking,Sugar,24 oz,3.25,2.43
+P01456,Gotham Coffee 32 oz,Gotham,Beverages,Coffee,32 oz,2.96,1.68
+P01457,Gotham Juice 24 oz,Gotham,Beverages,Juice,24 oz,5.78,4.09
+P01458,GreenLeaf Nuts 16 oz,GreenLeaf,Snacks/Cookies/Chips,Nuts,16 oz,2.27,1.64
+P01459,Hudson Valley Salads 12 oz,Hudson Valley,Prepared Meals,Salads,12 oz,8.58,6.51
+P01460,Chelsea Star Noodles 8 oz,Chelsea Star,Grains and Pasta,Noodles,8 oz,3.88,2.93
+P01461,Parkside Salads 1 lb,Parkside,Prepared Meals,Salads,1 lb,7.89,5.0
+P01462,Parkside Ice Cream 1 ct,Parkside,Frozen Foods,Ice Cream,1 ct,8.83,6.6
+P01463,Parkside Cookies 16 oz,Parkside,Snacks/Cookies/Chips,Cookies,16 oz,2.16,1.65
+P01464,Harbor View Bowls 24 oz,Harbor View,Prepared Meals,Bowls,24 oz,7.6,5.86
+P01465,Mancino Wraps 12 pack,Mancino,Prepared Meals,Wraps,12 pack,6.55,4.24
+P01466,Parkside Soups 12 pack,Parkside,Prepared Meals,Soups,12 pack,7.87,5.91
+P01467,GreenLeaf Spirits 2 lb,GreenLeaf,Alcohol,Spirits,2 lb,11.87,6.73
+P01468,Parkside Crackers 12 oz,Parkside,Snacks/Cookies/Chips,Crackers,12 oz,3.04,2.34
+P01469,Parkside Shrimp 1 lb,Parkside,Meat and Seafood,Shrimp,1 lb,11.13,8.82
+P01470,Mancino Beef 24 oz,Mancino,Meat and Seafood,Beef,24 oz,5.13,2.91
+P01471,Hudson Valley Spices 1 lb,Hudson Valley,Condiments/Sauces/Spices,Spices,1 lb,3.01,1.94
+P01472,Empire Hard Candy 12 pack,Empire,Candy,Hard Candy,12 pack,2.64,1.98
+P01473,Rivertown Oatmeal 6 pack,Rivertown,Breakfast & Cereal,Oatmeal,6 pack,2.81,1.7
+P01474,GreenLeaf Ice Cream 16 oz,GreenLeaf,Frozen Foods,Ice Cream,16 oz,7.59,4.84
+P01475,Gotham Butter 2 lb,Gotham,Dairy & Eggs,Butter,2 lb,2.99,1.92
+P01476,GreenLeaf Pork 2 lb,GreenLeaf,Meat and Seafood,Pork,2 lb,8.59,5.72
+P01477,Empire Bars 1 ct,Empire,Breakfast & Cereal,Bars,1 ct,5.63,4.09
+P01478,Hudson Valley Sugar 32 oz,Hudson Valley,Baking,Sugar,32 oz,4.81,2.66
+P01479,NoHo Co Wraps 2 lb,NoHo Co,Prepared Meals,Wraps,2 lb,9.42,6.32
+P01480,Gotham Popcorn 16 oz,Gotham,Snacks/Cookies/Chips,Popcorn,16 oz,2.26,1.25
+P01481,Parkside Wraps 8 oz,Parkside,Prepared Meals,Wraps,8 oz,9.29,6.38
+P01482,Parkside Yeast 16 oz,Parkside,Baking,Yeast,16 oz,4.14,2.35
+P01483,NoHo Co Treats 12 pack,NoHo Co,Pet Food,Treats,12 pack,7.85,5.85
+P01484,Parkside Pork 32 oz,Parkside,Meat and Seafood,Pork,32 oz,12.95,9.56
+P01485,Harbor View Cereal 12 oz,Harbor View,Breakfast & Cereal,Cereal,12 oz,4.6,2.69
+P01486,Mancino Chicken 24 oz,Mancino,Meat and Seafood,Chicken,24 oz,12.81,9.19
+P01487,Parkside Cookies 12 oz,Parkside,Snacks/Cookies/Chips,Cookies,12 oz,4.26,2.52
+P01488,Rivertown Yogurt 1 lb,Rivertown,Dairy & Eggs,Yogurt,1 lb,4.17,2.5
+P01489,GreenLeaf Hard Candy 8 oz,GreenLeaf,Candy,Hard Candy,8 oz,2.69,2.09
+P01490,GreenLeaf Ketchup 1 ct,GreenLeaf,Condiments/Sauces/Spices,Ketchup,1 ct,3.93,2.91
+P01491,Chelsea Star Tea 12 pack,Chelsea Star,Beverages,Tea,12 pack,4.59,3.54
+P01492,GreenLeaf Baking Mix 1 lb,GreenLeaf,Baking,Baking Mix,1 lb,4.58,3.18
+P01493,Nolita Fresh Noodles 6 pack,Nolita Fresh,Grains and Pasta,Noodles,6 pack,1.93,1.29
+P01494,Harbor View Dog Food 1 ct,Harbor View,Pet Food,Dog Food,1 ct,7.73,5.64
+P01495,Village Choice Bars 16 oz,Village Choice,Breakfast & Cereal,Bars,16 oz,3.64,2.29
+P01496,Village Choice Crackers 1 lb,Village Choice,Snacks/Cookies/Chips,Crackers,1 lb,2.55,1.56
+P01497,Chelsea Star Spices 2 lb,Chelsea Star,Condiments/Sauces/Spices,Spices,2 lb,3.19,2.48
+P01498,Hudson Valley Chips 16 oz,Hudson Valley,Snacks/Cookies/Chips,Chips,16 oz,2.11,1.43
+P01499,GreenLeaf Gummies 1 lb,GreenLeaf,Candy,Gummies,1 lb,1.99,1.5
+P01500,Nolita Fresh Quinoa 32 oz,Nolita Fresh,Grains and Pasta,Quinoa,32 oz,3.66,2.62
