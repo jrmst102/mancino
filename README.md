@@ -5,7 +5,34 @@ Mancino Market is a fully synthetic grocery retail dataset set in Manhattan, NYC
 
 ---
 
-## 🚀 What’s in v1.5 (2025-09-21)
+## What’s new in v1.6 (2025-11-01)
+
+New
+- Inventory event stream → `inventory_events.csv` (stockouts, adjustments, etc.)
+- Promotions schema simplified (uses `start_date`/`end_date`, `mechanic`, `get_type`; store targeting via `promotion_stores.csv` only)
+- Transactions and line items schemas streamlined (see Schemas section)
+
+Changed
+- Transaction currency fields now use decimal dollars (`subtotal`, `tax`, `total`) vs cents in prior version
+- `transactions.csv` now includes `num_items`, `payment_type`, `day_name`; `store_id` is numeric (1..5)
+- `transaction_line_items.csv` columns reduced to essentials and uses `line_no`
+- `transaction_promotions.csv` columns updated to `transaction_id,line_no,promotion_id,mechanic,savings`
+
+Removed (from core v1.6 folder)
+- `daily_prices.csv` (still available in v1_2025-09-21; regenerate via `notebooks/get_daily_prices.py` if needed)
+- Derived samples `mancino_daily_sales.csv`, `weekend_visit_dataset.csv` (kept in v1_2025-09-21)
+
+Compatibility notes
+- Store IDs continue to appear as numeric (e.g., `1..5` in `stores.csv`, `transactions.csv`, `promotion_stores.csv`) and string-coded (`S0001` in `product_store_inventory.csv`, `customers.csv`). See “Joining tips”.
+
+### Dataset size (v1.6)
+- Transactions: 167,823
+- Products (unique): 1,500
+- Customers: 5,000
+
+---
+
+## What’s in v1.5 (2025-09-21)
 
 New
 - Weekly promotions (Sunday-start weeks) with four mechanics: BOGO, BUNDLE, COUPON, MANAGER_SPECIAL
@@ -24,7 +51,7 @@ Data notes
 
 ---
 
-## 🌆 About Mancino
+## About Mancino
 
 MANCINO = Midtown Area to NoHo, Chelsea, Inter‑village, and Nolita.
 
@@ -40,18 +67,41 @@ Five fictional stores:
 ## 📁 Repository layout
 
 data/
-└── v1_2025-09-21/
-    ├── customers.csv
-    ├── daily_prices.csv
-    ├── product_store_inventory.csv
-    ├── products.csv
-    ├── promotion_items.csv
-    ├── promotion_stores.csv
-    ├── promotions.csv
-    ├── stores.csv
-    ├── transaction_line_items.csv
-    ├── transaction_promotions.csv
-    └── transactions.csv
+├── v1_2025-08-24/                # Initial public drop (no promotions or daily prices)
+│   ├── customers.csv
+│   ├── product_store_inventory.csv
+│   ├── products.csv
+│   ├── promotions.csv
+│   ├── stores.csv
+│   ├── transaction_line_items.csv
+│   └── transactions.csv
+├── v1_2025-09-21/                # v1.5 — adds promotions, price history, and derived samples
+│   ├── customers.csv
+│   ├── daily_prices.csv
+│   ├── mancino_daily_sales.csv
+│   ├── product_store_inventory.csv
+│   ├── products.csv
+│   ├── promo_class_dataset.csv
+│   ├── promotion_items.csv
+│   ├── promotion_stores.csv
+│   ├── promotions.csv
+│   ├── stores.csv
+│   ├── transaction_line_items.csv
+│   ├── transaction_promotions.csv
+│   └── transactions.csv
+└── v1_2025-11-01/                # v1.6 — inventory events, updated schemas
+  ├── customers.csv
+  ├── inventory_events.csv
+  ├── product_store_inventory.csv
+  ├── products.csv
+  ├── promo_class_dataset.csv
+  ├── promotion_items.csv
+  ├── promotion_stores.csv
+  ├── promotions.csv
+  ├── stores.csv
+  ├── transaction_line_items.csv
+  ├── transaction_promotions.csv
+  └── transactions.csv
 
 notebooks/
 └── Example notebooks and helper scripts
@@ -68,19 +118,20 @@ README.md
 | `products.csv` | Product catalog | Brand, size, category/subcategory, unit list price, unit cost |
 | `product_store_inventory.csv` | Store×SKU on-hand | On-hand units, reorder point, optional base price override (cents), active flag |
 | `customers.csv` | Customers | Synthetic NYC customers with home-store affinity |
-| `promotions.csv` | Weekly promotions (header) | Types: BOGO, BUNDLE, COUPON, MANAGER_SPECIAL; scope, stacking, priority |
+| `promotions.csv` | Promotions (header) | v1.6 uses `start_date`/`end_date`, `mechanic`, `get_type`, `priority`; no `store_scope` column |
 | `promotion_items.csv` | Promotion↔SKU links | Narrow a promotion to specific SKUs when `scope_type=sku` |
-| `promotion_stores.csv` | Promotion↔Store links | Narrow a promotion to specific stores (alternative to `store_scope=ALL`) |
-| `transactions.csv` | Transaction headers | Extends through 2025-09-21; includes net and tax fields |
-| `transaction_line_items.csv` | Line items | One row per SKU in a transaction (totals reflect promos) |
-| `transaction_promotions.csv` | Promotion audit | One row per applied promotion→line item with discount details |
-| `daily_prices.csv` | Daily price history | Baseline price by store and SKU on a date |
+| `promotion_stores.csv` | Promotion↔Store links | Narrow a promotion to specific stores (numeric `store_id` 1..5) |
+| `transactions.csv` | Transaction headers | v1.6 fields are decimal-dollar `subtotal/tax/total`, plus `num_items`, `payment_type`, `day_name` |
+| `transaction_line_items.csv` | Line items | v1.6 columns reduced to `transaction_id,line_no,product_id,qty,unit_price,line_subtotal,line_discount,line_total` |
+| `transaction_promotions.csv` | Promotion audit | v1.6 columns `transaction_id,line_no,promotion_id,mechanic,savings` |
+| `inventory_events.csv` | Inventory event log | v1.6 only. Columns: `event_ts,store_id,product_id,delta,reason` |
+| `daily_prices.csv` | Daily price history | v1.5 only. Baseline price by store and SKU on a date |
 
 ---
 
 ## 📐 Schemas (key columns)
 
-These reflect the public CSVs in `v1_2025-09-21`.
+These reflect the public CSVs; where schemas changed, both versions are noted.
 
 ### stores.csv
 - store_id, store_name, neighborhood, address, city, state, zip, latitude, longitude
@@ -97,33 +148,42 @@ These reflect the public CSVs in `v1_2025-09-21`.
 - See file for columns (synthetic customer master).
 
 ### promotions.csv
-- promotion_id, promo_type, name, week_start, week_end, scope_type, scope_id, store_scope,
-  amount_off, percent_off, buy_qty, get_qty, new_price, min_qty, min_spend,
-  bundle_type, bundle_qty, bundle_price, limit_per_customer, priority, can_stack, notes, active
-  - `bundle_type` values include `mix_n_match` and `fixed_set`.
-  - `store_scope` is `ALL` or an ID list; normalized store links also exist in `promotion_stores.csv`.
+- v1.5 (2025-09-21): week-based header with `week_start/week_end`, stacking rules, scope and optional `store_scope`
+- v1.6 (2025-11-01): start/end dates with simplified fields
+  - bundle_qty, buy_qty, can_stack, category, end_date, get_qty, get_type, mechanic, name, percent_off, priority, promotion_id, scope_type, start_date
+  - Store targeting via `promotion_stores.csv` (no `store_scope` column)
 
 ### promotion_items.csv
-- promotion_id, sku_id
+- v1.5: promotion_id, sku_id
+- v1.6: promotion_id, product_id
 
 ### promotion_stores.csv
-- promotion_id, store_id
+- promotion_id, store_id (numeric 1..5)
 
 ### transactions.csv
-- transaction_id, store_id, customer_id, txn_ts, channel, subtotal_cents, tax_cents, total_cents, __tid_num, net_sales
+- v1.5: transaction_id, store_id, customer_id, txn_ts, channel, subtotal_cents, tax_cents, total_cents, __tid_num, net_sales (store_id like `S0001`)
+- v1.6: transaction_id, customer_id, store_id, txn_ts, subtotal, tax, total, num_items, payment_type, day_name (store_id numeric 1..5)
 
 ### transaction_promotions.csv
-- transaction_id, line_item_id, promotion_id, qty_discounted, discount_amount, applied_price, rule_note
+- v1.5: transaction_id, line_item_id, promotion_id, qty_discounted, discount_amount, applied_price, rule_note
+- v1.6: transaction_id, line_no, promotion_id, mechanic, savings
 
-### daily_prices.csv
-- store_id, sku_id, date, price
+### transaction_line_items.csv
+- v1.5: transaction_id, line_number, product_id, category, unit_cost, unit_price, promo_price, qty, line_subtotal, line_discount, line_total, promo_id, promo_type, plus helper columns
+- v1.6: transaction_id, line_no, product_id, qty, unit_price, line_subtotal, line_discount, line_total
+
+### inventory_events.csv (v1.6 only)
+- event_ts, store_id (numeric), product_id, delta, reason
+
+### daily_prices.csv (v1.5 only)
+- store_id (numeric), sku_id, date, price
 
 ---
 
 ## 🔗 Joining tips (IDs and formats)
 
-- Store IDs appear as both numeric (e.g., `1..5` in `stores.csv`, `daily_prices.csv`) and string-coded (e.g., `S0001` in `transactions.csv`, `product_store_inventory.csv`).
-  - To join: either pad numeric IDs to `S000x` or strip the `S` prefix and left zeros to get an integer.
+- Store IDs appear as both numeric (e.g., `1..5` in `stores.csv`, `transactions.csv`, `promotion_stores.csv`) and string-coded (e.g., `S0001` in `product_store_inventory.csv`, `customers.csv`).
+  - To join across versions/files: either pad numeric IDs to `S000x` (e.g., 3 → S0003) or strip the `S` prefix and left zeros to get an integer.
 - Product/SKU IDs use `Pxxxxx` strings consistently across product and fact tables.
 
 ---
@@ -132,6 +192,7 @@ These reflect the public CSVs in `v1_2025-09-21`.
 
 - Measure promo lift by store/category/segment
 - Analyze price elasticities using daily price history
+  - Note: Available in v1_2025-09-21 (`daily_prices.csv`); use `notebooks/get_daily_prices.py` to regenerate for other versions.
 - Study basket composition and size changes during promos
 - Build forecasting and uplift models for promotions
 - Teach joins, time windows, and event modeling with real‑ish data
@@ -149,4 +210,4 @@ Full text: https://creativecommons.org/licenses/by/4.0/legalcode
 
 Maintainer: Dr. Jose Mendoza — https://www.jose-mendoza.com
 
-Last update: 2025-10-08
+Last update: 2025-10-29
